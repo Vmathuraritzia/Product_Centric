@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="PartMaterialKeysMap" Type="stringmap">
+            <string Key="CostMaterialName">Node Name</string>
+        </Parameter>
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="PartMaterialAttributeMap" Type="stringmap">
+            <string Key="Quantity">QtyDefault</string>
+        </Parameter>
+        <Parameter Id="ConfigNodeType" Type="string" Value="CostMaterialConfig" />
+    </Call>
+</NODES_OPERATIONS>

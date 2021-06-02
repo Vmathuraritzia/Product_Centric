@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="Sourcing" Operation="ImportSourcingConfiguration">
+        <Parameter Id="POWorkflowNameReadyToNegotiation" Type="string" Value="" />
+        <Parameter Id="LinkShipmentsToMaterialSKUStockLevels" Type="boolean" Value="false" />
+        <Parameter Id="POWorkflowNameIssuedToClosed" Type="string" Value="" />
+        <Parameter Id="POWorkflowNameReadyToIssued" Type="string" Value="" />
+        <Parameter Id="AllowSharedShipmentsPerPO" Type="boolean" Value="true" />
+        <Parameter Id="POWorkflowNameIssuedToNegotiation" Type="string" Value="" />
+        <Parameter Id="Mode" Type="enum" Value="ShipmentMode:POLineItems" />
+        <Parameter Id="POWorkflowNameNegotiationToReady" Type="string" Value="" />
+        <Parameter Id="POWorkflowNameDraftToNegotiation" Type="string" Value="" />
+        <Parameter Id="OneShipmentsPerPO" Type="boolean" Value="false" />
+        <Parameter Id="POWorkflowNameDraftToReady" Type="string" Value="" />
+    </Call>
+</NODES_OPERATIONS>

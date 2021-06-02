@@ -1,0 +1,1479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Test Run Administrator</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>TDS - BOM Administrator</string>
+      <string>Sourcing Admin</string>
+      <string>Quote Supplier Admin</string>
+      <string>Select Set Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Revision Approver</string>
+      <string>Material Administrator</string>
+      <string>Revision Pending Reopen</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Size Chart Evaluation Approver</string>
+      <string>Reporting Viewer</string>
+      <string>Technical Design Administrator</string>
+      <string>Calendar Viewer</string>
+      <string>Sourcing Offline Administrator</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>TDS - BOM Creator</string>
+      <string>Sourcing Library Viewer</string>
+      <string>TDS - Size Chart Administrator</string>
+      <string>TDS - Image Administrator</string>
+      <string>Hierarchy Viewer</string>
+      <string>Design Administrator</string>
+      <string>Material Usage Administrator</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Denim Administrator" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Test Run Administrator</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>TDS - BOM Administrator</string>
+      <string>TDS - Spec Administrator</string>
+      <string>Sourcing Admin</string>
+      <string>Quote Supplier Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Revision Approver</string>
+      <string>Material Administrator</string>
+      <string>Revision Pending Reopen</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Sourcing Offline Administrator</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>TDS - BOM Creator</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Material Admin" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Document Viewer</string>
+      <string>Sourcing Library Administrator</string>
+      <string>Material Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Supplier Editor</string>
+      <string>Select Set Viewer</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Security" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>TDS - BOM Editor</string>
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Reporting Administrator</string>
+      <string>Test Run Administrator</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>TDS - BOM Administrator</string>
+      <string>TDS - Spec Administrator</string>
+      <string>Sourcing Admin</string>
+      <string>Site Document Administrator</string>
+      <string>Quote Supplier Admin</string>
+      <string>Style Administrator</string>
+      <string>Select Set Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Hierarchy Library Administrator</string>
+      <string>Test Setup Administrator</string>
+      <string>Document Viewer</string>
+      <string>Sourcing Library Administrator</string>
+      <string>TDS - Care and Composition Administrator</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Revision Approver</string>
+      <string>Material Administrator</string>
+      <string>Revision Pending Reopen</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Help Pane Editor</string>
+      <string>Document Administrator</string>
+      <string>Size Chart Evaluation Approver</string>
+      <string>Reporting Viewer</string>
+      <string>Technical Design Administrator</string>
+      <string>Calendar Viewer</string>
+      <string>Sourcing Offline Administrator</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Color Administrator</string>
+      <string>Change Log Viewer</string>
+      <string>TDS - BOM Creator</string>
+      <string>Sourcing Library Viewer</string>
+      <string>TDS - Size Chart Administrator</string>
+      <string>TDS - Image Administrator</string>
+      <string>Hierarchy Viewer</string>
+      <string>Hierarchy Administrator</string>
+      <string>Product Specification Administrator</string>
+      <string>Design Administrator</string>
+      <string>Supplier Administrator</string>
+      <string>Material Usage Administrator</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Business Manager" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>TDS - BOM Editor</string>
+      <string>Product Specification Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Sourcing Admin</string>
+      <string>Sample Editor</string>
+      <string>Quote Supplier Admin</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Supplier Request Administrator</string>
+      <string>Sourcing Host Editor</string>
+      <string>Material Editor</string>
+      <string>Sample Administrator</string>
+      <string>Document Administrator</string>
+      <string>Style Specification Editor</string>
+      <string>TDS - Size Chart Editor</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Supplier Administrator</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="false" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="Assigned Agent" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Quote Supplier Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Revision Approver</string>
+      <string>Material Administrator</string>
+      <string>Revision Pending Reopen</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Sourcing Offline Administrator</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Color Administrator</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Technical Textile Designer" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Test Run Administrator</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Sourcing Admin</string>
+      <string>Quote Supplier Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Document Viewer</string>
+      <string>TDS - Care and Composition Administrator</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Revision Approver</string>
+      <string>Material Editor</string>
+      <string>Revision Pending Reopen</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Sourcing Offline Administrator</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Product Specification Editor</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Production Administrator" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Custom View Administrator</string>
+      <string>Custom View Editor</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="View Admin" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Test Run Administrator</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Sourcing Admin</string>
+      <string>Price List Creator</string>
+      <string>Quote Supplier Admin</string>
+      <string>Style Administrator</string>
+      <string>Export Administrator</string>
+      <string>Select Set Admin</string>
+      <string>Price List Viewer</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Business Plan Editor</string>
+      <string>Style Editor</string>
+      <string>Price List Administrator</string>
+      <string>Hierarchy Library Administrator</string>
+      <string>Document Viewer</string>
+      <string>Price List Editor</string>
+      <string>Sourcing Library Administrator</string>
+      <string>TDS - Care and Composition Administrator</string>
+      <string>Business Plan Administrator</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Sourcing Host Editor</string>
+      <string>Revision Approver</string>
+      <string>Material Administrator</string>
+      <string>Revision Pending Reopen</string>
+      <string>Price List Config Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Configuration Editor</string>
+      <string>Technical Design Administrator</string>
+      <string>Calendar Viewer</string>
+      <string>Configuration Viewer</string>
+      <string>Business Plan Viewer</string>
+      <string>Sourcing Offline Administrator</string>
+      <string>Business Plan Library Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Color Administrator</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>TDS - Artwork Creator</string>
+      <string>Hierarchy Viewer</string>
+      <string>Hierarchy Administrator</string>
+      <string>Product Specification Administrator</string>
+      <string>Design Administrator</string>
+      <string>Supplier Administrator</string>
+      <string>Business Plan Hierarchy Viewer</string>
+      <string>Business Plan Creator</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Master Data Editor" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>TDS - BOM Editor</string>
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Test Run Administrator</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>TDS - Spec Administrator</string>
+      <string>Sourcing Admin</string>
+      <string>Select Set Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Test Setup Administrator</string>
+      <string>Document Viewer</string>
+      <string>TDS - Care and Composition Administrator</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Revision Approver</string>
+      <string>Revision Pending Reopen</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Size Chart Evaluation Approver</string>
+      <string>Reporting Viewer</string>
+      <string>Technical Design Administrator</string>
+      <string>Calendar Viewer</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>TDS - Size Chart Administrator</string>
+      <string>TDS - Image Administrator</string>
+      <string>Hierarchy Viewer</string>
+      <string>Product Specification Administrator</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Tech Development Administrator" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>TDS - BOM Editor</string>
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Reporting Administrator</string>
+      <string>Test Run Administrator</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>TDS - Spec Administrator</string>
+      <string>Site Document Administrator</string>
+      <string>Style Administrator</string>
+      <string>Select Set Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Test Setup Administrator</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Help Pane Editor</string>
+      <string>Document Administrator</string>
+      <string>Collection Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Business Plan Viewer</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Color Administrator</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Hierarchy Administrator</string>
+      <string>Design Administrator</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Product Operations Administrator" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Operations Review Editor</string>
+      <string>TDS - SKU Review Administrator</string>
+      <string>TDS - Colorway Review Creator</string>
+      <string>TDS - BOM Editor</string>
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Reporting Administrator</string>
+      <string>SKU Administrator</string>
+      <string>Test Run Administrator</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>TDS - BOM Administrator</string>
+      <string>Calendar Participant</string>
+      <string>TDS - Spec Administrator</string>
+      <string>Sourcing Admin</string>
+      <string>Color Rule Administrator</string>
+      <string>Price List Creator</string>
+      <string>Material Specification Editor</string>
+      <string>Site Document Administrator</string>
+      <string>TDS - Size Chart Creator</string>
+      <string>TDS - Style Review Editor</string>
+      <string>Sample Editor</string>
+      <string>Shipment Administrator</string>
+      <string>Quote Supplier Admin</string>
+      <string>Inspection Viewer</string>
+      <string>Style Administrator</string>
+      <string>Calendar Editor</string>
+      <string>Export Administrator</string>
+      <string>Select Set Admin</string>
+      <string>Color Editor</string>
+      <string>Inspection Library Viewer</string>
+      <string>Purchase Order Supplier</string>
+      <string>Price List Viewer</string>
+      <string>Purchase Order Administrator</string>
+      <string>Event Calendar Viewer</string>
+      <string>Purchase Order Editor</string>
+      <string>TDS - Size Label Editor</string>
+      <string>Stock Order Requester</string>
+      <string>Supplier Viewer</string>
+      <string>Business Plan Editor</string>
+      <string>TDS - Style Review Creator</string>
+      <string>Style Editor</string>
+      <string>Price List Administrator</string>
+      <string>Sales Order Group Editor</string>
+      <string>Hierarchy Library Administrator</string>
+      <string>TDS - Image Creator</string>
+      <string>CM Look Administrator</string>
+      <string>TDS - SKU Review Editor</string>
+      <string>Sales Order Editor</string>
+      <string>Sales Order Administrator</string>
+      <string>TDS - Collection Review Editor</string>
+      <string>TDS - SKU Review Creator</string>
+      <string>Site Document Editor</string>
+      <string>TDS - Size Label Administrator</string>
+      <string>Test Setup Administrator</string>
+      <string>Issue Viewer</string>
+      <string>Stock Order Fulfiller</string>
+      <string>Document Viewer</string>
+      <string>TDS - Routing Editor</string>
+      <string>Price List Editor</string>
+      <string>Sourcing Library Administrator</string>
+      <string>TDS - Care and Composition Administrator</string>
+      <string>Theme Editor</string>
+      <string>Operations Review Administrator</string>
+      <string>TDS - Colorway Review Editor</string>
+      <string>CM Sales Agent</string>
+      <string>Issue Administrator</string>
+      <string>Shipment Editor</string>
+      <string>TDS - Properties Creator</string>
+      <string>Stock Order Viewer</string>
+      <string>Business Plan Administrator</string>
+      <string>Material Viewer</string>
+      <string>Supplier CDoc Editor</string>
+      <string>CM Master Administrator</string>
+      <string>TDS - Artwork Editor</string>
+      <string>Supplier Request Administrator</string>
+      <string>Shipment Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Sourcing Host Editor</string>
+      <string>Team Manager</string>
+      <string>Currency Administrator</string>
+      <string>Revision Approver</string>
+      <string>Material Administrator</string>
+      <string>Document Editor</string>
+      <string>TDS - Properties Administrator</string>
+      <string>Material Editor</string>
+      <string>TDS - Spec Editor</string>
+      <string>Stock Order Administrator</string>
+      <string>Security Group Administrator</string>
+      <string>Collection Viewer</string>
+      <string>Revision Pending Reopen</string>
+      <string>CDoc Administrator</string>
+      <string>TDS - Spec Creator</string>
+      <string>Price List Config Administrator</string>
+      <string>Event Calendar Administrator</string>
+      <string>TDS - Artwork Administrator</string>
+      <string>Collection Editor</string>
+      <string>Supplier Editor</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>CM Sales Market Administrator</string>
+      <string>TDS - Care and Composition Editor</string>
+      <string>Theme Viewer</string>
+      <string>CM Master Editor</string>
+      <string>Issue Editor</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Supplier Request Editor</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Inspection Administrator</string>
+      <string>Sourcing Editor</string>
+      <string>Help Pane Editor</string>
+      <string>Color Rule Viewer</string>
+      <string>TDS - Properties Editor</string>
+      <string>Document Administrator</string>
+      <string>Collection Administrator</string>
+      <string>Size Chart Evaluation Approver</string>
+      <string>Reporting Viewer</string>
+      <string>Sales Order Group Viewer</string>
+      <string>Sales Order Group Administrator</string>
+      <string>Configuration Editor</string>
+      <string>Sales Order Viewer</string>
+      <string>Technical Design Administrator</string>
+      <string>Inspection Library Administrator</string>
+      <string>Question Library Administrator</string>
+      <string>Calendar Viewer</string>
+      <string>Style Specification Editor</string>
+      <string>Purchase Order Viewer</string>
+      <string>Configuration Viewer</string>
+      <string>Business Plan Viewer</string>
+      <string>TDS - Size Chart Editor</string>
+      <string>Inspection Editor</string>
+      <string>Sourcing Offline Administrator</string>
+      <string>Business Plan Library Administrator</string>
+      <string>TDS - Care and Composition Creator</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Hierarchy Library Editor</string>
+      <string>TDS - Routing Creator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Hierarchy Editor</string>
+      <string>WBS Admin</string>
+      <string>Operations Review Viewer</string>
+      <string>Color Administrator</string>
+      <string>Change Log Viewer</string>
+      <string>SKU Editor</string>
+      <string>Shape Administrator</string>
+      <string>TDS - Collection Review Administrator</string>
+      <string>TDS - BOM Creator</string>
+      <string>Sourcing Library Viewer</string>
+      <string>TDS - Size Chart Administrator</string>
+      <string>Product Specification Editor</string>
+      <string>TDS - Image Administrator</string>
+      <string>TDS - Artwork Creator</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Editor</string>
+      <string>Hierarchy Administrator</string>
+      <string>CM Master Viewer</string>
+      <string>Product Specification Administrator</string>
+      <string>CDoc Viewer</string>
+      <string>Calendar Administrator</string>
+      <string>Design Administrator</string>
+      <string>Supplier Administrator</string>
+      <string>TDS - Routing Administrator</string>
+      <string>Business Plan Hierarchy Viewer</string>
+      <string>Sample Storage Administrator</string>
+      <string>Business Plan Creator</string>
+      <string>TDS - Size Label Creator</string>
+      <string>Material Usage Administrator</string>
+      <string>Test Run Viewer</string>
+      <string>Theme Administrator</string>
+      <string>TDS - Image Editor</string>
+      <string>TDS - Style Review Administrator</string>
+      <string>Shape Editor</string>
+      <string>CM Sales Viewer</string>
+      <string>TDS - Colorway Review Administrator</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="System Admin" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Document Viewer</string>
+      <string>Sourcing Library Administrator</string>
+      <string>Material Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Supplier Editor</string>
+      <string>Select Set Viewer</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Sustainability Administrator" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>TDS - BOM Editor</string>
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Material Editor</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Color Administrator</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Design Administrator</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Creative Colour" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Material Editor</string>
+      <string>Select Set Viewer</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Marketing Editor" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Color Editor</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Collection Editor</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Product Specification Editor</string>
+      <string>Hierarchy Viewer</string>
+      <string>Hierarchy Administrator</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Planning Administrator" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Test Run Administrator</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Sourcing Admin</string>
+      <string>Quote Supplier Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Document Viewer</string>
+      <string>Sourcing Library Administrator</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Revision Approver</string>
+      <string>Material Administrator</string>
+      <string>Revision Pending Reopen</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Sourcing Offline Administrator</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Supplier Administrator</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Sourcing Administrator" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Select Set Viewer</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Logistics" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="false" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Select Set Viewer</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="General Viewer" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Test Run Administrator</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>TDS - BOM Administrator</string>
+      <string>TDS - Spec Administrator</string>
+      <string>Sourcing Admin</string>
+      <string>Quote Supplier Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Revision Approver</string>
+      <string>Material Administrator</string>
+      <string>Revision Pending Reopen</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Sourcing Offline Administrator</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>TDS - BOM Creator</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Trim Material Manager" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>TDS - BOM Editor</string>
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Sourcing Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Material Editor</string>
+      <string>Select Set Viewer</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Buying Administrator" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="false" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Team Manager</string>
+      <string>Configuration Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="IT Security" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>TDS - BOM Editor</string>
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>TDS - Spec Administrator</string>
+      <string>Sourcing Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Revision Approver</string>
+      <string>Revision Pending Reopen</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Size Chart Evaluation Approver</string>
+      <string>Reporting Viewer</string>
+      <string>Technical Design Administrator</string>
+      <string>Calendar Viewer</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>TDS - Size Chart Administrator</string>
+      <string>TDS - Image Administrator</string>
+      <string>Hierarchy Viewer</string>
+      <string>Product Specification Administrator</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Tech Development Editor" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Quote Supplier Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Material Administrator</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Color Administrator</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Textile Designer" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Sample Management" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Test Run Administrator</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>TDS - BOM Administrator</string>
+      <string>TDS - Spec Administrator</string>
+      <string>Sourcing Admin</string>
+      <string>Quote Supplier Admin</string>
+      <string>Select Set Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Revision Approver</string>
+      <string>Material Administrator</string>
+      <string>Revision Pending Reopen</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Size Chart Evaluation Approver</string>
+      <string>Reporting Viewer</string>
+      <string>Technical Design Administrator</string>
+      <string>Calendar Viewer</string>
+      <string>Sourcing Offline Administrator</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>TDS - BOM Creator</string>
+      <string>Sourcing Library Viewer</string>
+      <string>TDS - Size Chart Administrator</string>
+      <string>TDS - Image Administrator</string>
+      <string>Hierarchy Viewer</string>
+      <string>Product Specification Administrator</string>
+      <string>Design Administrator</string>
+      <string>Material Usage Administrator</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Accessories Administrator" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>TDS - BOM Editor</string>
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>TDS - Spec Administrator</string>
+      <string>TDS - Size Chart Creator</string>
+      <string>TDS - Style Review Editor</string>
+      <string>Sample Editor</string>
+      <string>Select Set Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>TDS - Style Review Creator</string>
+      <string>Style Editor</string>
+      <string>TDS - Image Creator</string>
+      <string>Site Document Editor</string>
+      <string>Document Viewer</string>
+      <string>TDS - Properties Creator</string>
+      <string>Material Viewer</string>
+      <string>TDS - Artwork Editor</string>
+      <string>Supplier Request Administrator</string>
+      <string>Revision Approver</string>
+      <string>Document Editor</string>
+      <string>TDS - Properties Administrator</string>
+      <string>TDS - Spec Editor</string>
+      <string>TDS - Spec Creator</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Supplier Request Editor</string>
+      <string>Sourcing Host Viewer</string>
+      <string>TDS - Properties Editor</string>
+      <string>Size Chart Evaluation Approver</string>
+      <string>Reporting Viewer</string>
+      <string>Technical Design Administrator</string>
+      <string>Calendar Viewer</string>
+      <string>TDS - Size Chart Editor</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>Shape Administrator</string>
+      <string>Sourcing Library Viewer</string>
+      <string>TDS - Size Chart Administrator</string>
+      <string>TDS - Image Administrator</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+      <string>TDS - Image Editor</string>
+      <string>TDS - Style Review Administrator</string>
+      <string>Shape Editor</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Tech Development Sewing Manager" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Sourcing Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Supplier Request Administrator</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Material Editor</string>
+      <string>Sample Administrator</string>
+      <string>Select Set Viewer</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Sourcing Offline Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Color Administrator</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Technical Colour" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="false" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>TDS - SKU Review Administrator</string>
+      <string>Reporting Administrator</string>
+      <string>SKU Administrator</string>
+      <string>Test Run Administrator</string>
+      <string>TDS - BOM Administrator</string>
+      <string>TDS - Spec Administrator</string>
+      <string>Sourcing Admin</string>
+      <string>Color Rule Administrator</string>
+      <string>Site Document Administrator</string>
+      <string>Shipment Administrator</string>
+      <string>Quote Supplier Admin</string>
+      <string>Style Administrator</string>
+      <string>Export Administrator</string>
+      <string>Select Set Admin</string>
+      <string>Purchase Order Administrator</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Price List Administrator</string>
+      <string>Hierarchy Library Administrator</string>
+      <string>TDS - Size Label Administrator</string>
+      <string>Test Setup Administrator</string>
+      <string>Sourcing Library Administrator</string>
+      <string>TDS - Care and Composition Administrator</string>
+      <string>Operations Review Administrator</string>
+      <string>Issue Administrator</string>
+      <string>Supplier Request Administrator</string>
+      <string>Team Manager</string>
+      <string>Currency Administrator</string>
+      <string>Revision Approver</string>
+      <string>Material Administrator</string>
+      <string>TDS - Properties Administrator</string>
+      <string>Stock Order Administrator</string>
+      <string>Security Group Administrator</string>
+      <string>Revision Pending Reopen</string>
+      <string>CDoc Administrator</string>
+      <string>Price List Config Administrator</string>
+      <string>Event Calendar Administrator</string>
+      <string>TDS - Artwork Administrator</string>
+      <string>Sample Administrator</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Supplier Request Editor</string>
+      <string>Document Administrator</string>
+      <string>Collection Administrator</string>
+      <string>Size Chart Evaluation Approver</string>
+      <string>Configuration Editor</string>
+      <string>Technical Design Administrator</string>
+      <string>Question Library Administrator</string>
+      <string>Style Specification Editor</string>
+      <string>Sourcing Offline Administrator</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>WBS Admin</string>
+      <string>Color Administrator</string>
+      <string>Change Log Viewer</string>
+      <string>Shape Administrator</string>
+      <string>TDS - Collection Review Administrator</string>
+      <string>TDS - Size Chart Administrator</string>
+      <string>TDS - Image Administrator</string>
+      <string>Hierarchy Administrator</string>
+      <string>Product Specification Administrator</string>
+      <string>Calendar Administrator</string>
+      <string>Design Administrator</string>
+      <string>Supplier Administrator</string>
+      <string>TDS - Routing Administrator</string>
+      <string>Sample Storage Administrator</string>
+      <string>Material Usage Administrator</string>
+      <string>Theme Administrator</string>
+      <string>TDS - Style Review Administrator</string>
+      <string>TDS - Colorway Review Administrator</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Admins" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>TDS - BOM Administrator</string>
+      <string>Select Set Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Revision Approver</string>
+      <string>Material Administrator</string>
+      <string>Revision Pending Reopen</string>
+      <string>Select Set Viewer</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Technical Design Administrator</string>
+      <string>Calendar Viewer</string>
+      <string>TDS - Data Package Administrator</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Change Log Viewer</string>
+      <string>TDS - BOM Creator</string>
+      <string>Sourcing Library Viewer</string>
+      <string>TDS - Image Administrator</string>
+      <string>Hierarchy Viewer</string>
+      <string>Product Specification Administrator</string>
+      <string>Design Administrator</string>
+      <string>Material Usage Administrator</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Technical Design Admin" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportUserDefinedRole">
+    <Parameter Id="ManagePreferences" Type="boolean" Value="true" />
+    <Parameter Id="ACLRoles" Type="stringlist">
+      <string>TDS - BOM Editor</string>
+      <string>Shape Viewer</string>
+      <string>Product Specification Viewer</string>
+      <string>Site Document Viewer</string>
+      <string>Sourcing Viewer</string>
+      <string>Sourcing Admin</string>
+      <string>Style Administrator</string>
+      <string>Select Set Admin</string>
+      <string>Event Calendar Viewer</string>
+      <string>Supplier Viewer</string>
+      <string>Style Editor</string>
+      <string>Document Viewer</string>
+      <string>Material Viewer</string>
+      <string>Product Specification Library Viewer</string>
+      <string>Material Editor</string>
+      <string>Select Set Viewer</string>
+      <string>Product Specification Library Administrator</string>
+      <string>Sourcing Host Viewer</string>
+      <string>Document Administrator</string>
+      <string>Reporting Viewer</string>
+      <string>Calendar Viewer</string>
+      <string>Business Plan Viewer</string>
+      <string>Supplier Request Viewer</string>
+      <string>Style Viewer</string>
+      <string>Color Administrator</string>
+      <string>Change Log Viewer</string>
+      <string>Sourcing Library Viewer</string>
+      <string>Hierarchy Viewer</string>
+      <string>Design Administrator</string>
+      <string>Test Run Viewer</string>
+    </Parameter>
+    <Parameter Id="EnableBreadcrumbSearch" Type="boolean" Value="true" />
+    <Parameter Id="UsedByOnlineCrew" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Merchant Administrator" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="false" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/PurchasedOrderGroup" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="PurchasedOrderGroup" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="true" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/SupplierRequest" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="SupplierRequest" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="true" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/MaterialSecurityGroup" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="MaterialSecurityGroup" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="true" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/JasperReportTemplate" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="JasperReportTemplate" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="false" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/SalesDivision" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="SalesDivision" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="false" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/MerchPlan" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="MerchPlan" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="false" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/Supplier" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="Supplier" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="false" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/MerchFolder" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="MerchFolder" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="true" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/ShapeSecurityGroup" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="ShapeSecurityGroup" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="true" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/ThemeSecurityGroup" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="ThemeSecurityGroup" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="true" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/FinalInspectionSecurityGroup" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="FinalInspectionSecurityGroup" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="true" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/SalesMarket" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="SalesMarket" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="true" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/ProductSource" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="ProductSource" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="false" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/Customer" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="Customer" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="true" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/PurchasedOrder" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="false" />
+    <Parameter Id="Name" Type="string" Value="PurchasedOrder" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="false" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/Season" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="Season" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="false" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/Category1" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="Category1" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="false" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/Category2" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="Category2" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="true" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/EventCalendar" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="EventCalendar" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="true" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/HierarchySecurityGroup" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="HierarchySecurityGroup" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="false" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/Collection" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="Collection" />
+  </Call>
+  <Call Module="SiteAdmin" Operation="ImportCrewTypeConfiguration">
+    <Parameter Id="CreateCrew" Type="boolean" Value="false" />
+    <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/INSTANCE/CrewType/Style" />
+    <Parameter Id="AllowGlobalUsers" Type="boolean" Value="true" />
+    <Parameter Id="Name" Type="string" Value="Style" />
+  </Call>
+</NODES_OPERATIONS>

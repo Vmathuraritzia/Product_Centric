@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="ConfigNodeType" Type="string" Value="FinalInspectionSectionConfig" />
+    </Call>
+</NODES_OPERATIONS>

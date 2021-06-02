@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="ConfigNodeType" Type="string" Value="ThemeMasterConfig" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="ThemeToSeason" Type="enum" Value="ThemeToSeason:MultipleSeasons" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="ThemeMasterSubtype" />
+        <Parameter Id="AllowMaterialVariationPerColorway" Type="boolean" Value="false" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Theme" />
+    </Call>
+</NODES_OPERATIONS>

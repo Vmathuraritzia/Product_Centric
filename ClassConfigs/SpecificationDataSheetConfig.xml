@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="PruneRevisions" Type="boolean" Value="true" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="CopyCanvasOnRevise" Type="boolean" Value="true" />
+        <Parameter Id="PdfGenerate" Type="boolean" Value="false" />
+        <Parameter Id="CopyBehaviorLocked" Type="boolean" Value="true" />
+        <Parameter Id="CopyBehavior" Type="enum" Value="RevisionCopyOptions:CopyLatestRevisionSetToDraft" />
+        <Parameter Id="ConfigNodeType" Type="string" Value="SpecificationDataSheetConfig" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="DataSheetOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="DataSheetItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SectionItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SpecificationDataSheetSubtype" />
+        <Parameter Id="SectionItemAttributeMap" Type="stringmap">
+            <string Key="Description">Description</string>
+        </Parameter>
+        <Parameter Id="SubtypeNodeName" Type="string" Value="RM Graphic Capabilities and Pricing" />
+        <Parameter Id="ItemDefinitionOptionalAttributes" Type="booleanmap" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Active" Type="boolean" Value="false" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="DataSheetOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="DataSheetItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SectionItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SpecificationDataSheetSubtype" />
+        <Parameter Id="SectionItemAttributeMap" Type="stringmap">
+            <string Key="Description">Description</string>
+        </Parameter>
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Construction Standards" />
+        <Parameter Id="ItemDefinitionOptionalAttributes" Type="booleanmap" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="DataSheetOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="DataSheetItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SectionItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SpecificationDataSheetSubtype" />
+        <Parameter Id="SectionItemAttributeMap" Type="stringmap">
+            <string Key="Description">Description</string>
+        </Parameter>
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Seasonal Priority Rank" />
+        <Parameter Id="ItemDefinitionOptionalAttributes" Type="booleanmap" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Active" Type="boolean" Value="false" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="DataSheetOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="DataSheetItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SectionItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SpecificationDataSheetSubtype" />
+        <Parameter Id="SectionItemAttributeMap" Type="stringmap">
+            <string Key="Description">Description</string>
+        </Parameter>
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Construction Details" />
+        <Parameter Id="ItemDefinitionOptionalAttributes" Type="booleanmap" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Active" Type="boolean" Value="false" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="DataSheetOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="DataSheetItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SectionItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SpecificationDataSheetSubtype" />
+        <Parameter Id="SectionItemAttributeMap" Type="stringmap">
+            <string Key="Description">Description</string>
+        </Parameter>
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Partial Customs" />
+        <Parameter Id="ItemDefinitionOptionalAttributes" Type="booleanmap" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="DataSheetOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="DataSheetItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SectionItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SpecificationDataSheetSubtype" />
+        <Parameter Id="SectionItemAttributeMap" Type="stringmap">
+            <string Key="Description">Description</string>
+        </Parameter>
+        <Parameter Id="SubtypeNodeName" Type="string" Value="MFTG Standards" />
+        <Parameter Id="ItemDefinitionOptionalAttributes" Type="booleanmap">
+            <boolean Key="arzSubType">true</boolean>
+        </Parameter>
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="DataSheetOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="DataSheetItemOptionalAttributes" Type="booleanmap">
+            <boolean Key="arzToUOM">true</boolean>
+            <boolean Key="arzFromUOM">true</boolean>
+            <boolean Key="arzConversionRate">true</boolean>
+        </Parameter>
+        <Parameter Id="SectionItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SpecificationDataSheetSubtype" />
+        <Parameter Id="SectionItemAttributeMap" Type="stringmap">
+            <string Key="Description">Description</string>
+        </Parameter>
+        <Parameter Id="SubtypeNodeName" Type="string" Value="UOM Conversion" />
+        <Parameter Id="ItemDefinitionOptionalAttributes" Type="booleanmap" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Active" Type="boolean" Value="false" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="DataSheetOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="DataSheetItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SectionItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SpecificationDataSheetSubtype" />
+        <Parameter Id="SectionItemAttributeMap" Type="stringmap">
+            <string Key="Description">Description</string>
+        </Parameter>
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Label Attach" />
+        <Parameter Id="ItemDefinitionOptionalAttributes" Type="booleanmap" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Active" Type="boolean" Value="false" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="DataSheetOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="DataSheetItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SectionItemOptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SpecificationDataSheetSubtype" />
+        <Parameter Id="SectionItemAttributeMap" Type="stringmap">
+            <string Key="Description">Description</string>
+        </Parameter>
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Folding Finishing" />
+        <Parameter Id="ItemDefinitionOptionalAttributes" Type="booleanmap" />
+    </Call>
+</NODES_OPERATIONS>

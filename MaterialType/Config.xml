@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="Routing">false</boolean>
+            <boolean Key="MaterialBOM">false</boolean>
+            <boolean Key="SpecificationDataSheet">false</boolean>
+        </Parameter>
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="false" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="arzSpinningMachineType">false</boolean>
+            <boolean Key="arzCreativeDesigner">true</boolean>
+            <boolean Key="MaterialAttributes/Width">true</boolean>
+            <boolean Key="MaterialAttributes/Dimension">true</boolean>
+            <boolean Key="MaterialAttributes/Thickness">true</boolean>
+            <boolean Key="arzSource">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="MaterialAttributes/Finish">true</boolean>
+            <boolean Key="arzComplexity">true</boolean>
+            <boolean Key="arzMaterialVariation">false</boolean>
+            <boolean Key="MaterialAttributes/Diameter">true</boolean>
+            <boolean Key="MaterialAttributes/TextureEmbossRef">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="arzFinishWash">true</boolean>
+            <boolean Key="arzArtworkTheme">true</boolean>
+            <boolean Key="MaterialAttributes/Length">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzDevelopmentTime">true</boolean>
+            <boolean Key="arzMerchType2">true</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzTechTextileDesigner">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="R07" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Applied Graphic" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="false" />
+        <Parameter Id="Available" Type="boolean" Value="true" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="true" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="AG" />
+    </Call>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="MaterialBOM">true</boolean>
+        </Parameter>
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="true" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="arzThickness">true</boolean>
+            <boolean Key="arzDigitalColorReading">true</boolean>
+            <boolean Key="arzDyeingMethod">true</boolean>
+            <boolean Key="arzSource">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzDevApprovalDueDate">true</boolean>
+            <boolean Key="arzRestrictedEndUse">true</boolean>
+            <boolean Key="MaterialAttributes/Composition">false</boolean>
+            <boolean Key="arzMaterialVariation">false</boolean>
+            <boolean Key="MaterialAttributes/Construction">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="arzMaterialManager">true</boolean>
+            <boolean Key="arzFinishWash">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzMerchType2">false</boolean>
+            <boolean Key="arzIncrementalUOM">true</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzLogoed">true</boolean>
+            <boolean Key="arzIncrementalUnits">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Zipper" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="true" />
+        <Parameter Id="Available" Type="boolean" Value="true" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="true" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="ZP" />
+    </Call>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="MaterialBOM">false</boolean>
+        </Parameter>
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="false" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="arzThickness">true</boolean>
+            <boolean Key="arzWeightAfterWash">true</boolean>
+            <boolean Key="arzMarketingName">true</boolean>
+            <boolean Key="arzDyeingMethod">true</boolean>
+            <boolean Key="arzSource">true</boolean>
+            <boolean Key="MaterialAttributes/Construction">true</boolean>
+            <boolean Key="arzMaterialManager">true</boolean>
+            <boolean Key="arzSampleYardageOrderedDate">true</boolean>
+            <boolean Key="arzWeight">true</boolean>
+            <boolean Key="arzDigitalColorReading">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzRestrictedEndUse">true</boolean>
+            <boolean Key="arzMaterialVariation">true</boolean>
+            <boolean Key="arzTargetIMT">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="MaterialAttributes/CareSymbols">true</boolean>
+            <boolean Key="arzGrading">true</boolean>
+            <boolean Key="arzFinishWash">true</boolean>
+            <boolean Key="arzSampleYardageReceivedDate">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzAverageSkinSize">true</boolean>
+            <boolean Key="arzWeightUOM">true</boolean>
+            <boolean Key="arzSampleYardageDate">true</boolean>
+            <boolean Key="arzMerchType2">true</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzFabricClassification">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:FT2" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="R05" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Leather" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="false" />
+        <Parameter Id="Available" Type="boolean" Value="true" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="true" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="LE" />
+    </Call>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="MaterialBOM">true</boolean>
+            <boolean Key="SpecificationDataSheet">true</boolean>
+        </Parameter>
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="true" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="arzThickness">true</boolean>
+            <boolean Key="MaterialAttributes/Width">true</boolean>
+            <boolean Key="arzWeightAfterWash">true</boolean>
+            <boolean Key="arzMarketingName">true</boolean>
+            <boolean Key="MaterialAttributes/Dimension">true</boolean>
+            <boolean Key="arzDyeingMethod">true</boolean>
+            <boolean Key="arzSource">true</boolean>
+            <boolean Key="MaterialAttributes/Construction">true</boolean>
+            <boolean Key="arzMaterialManager">true</boolean>
+            <boolean Key="arzSampleYardageOrderedDate">true</boolean>
+            <boolean Key="arzWidthUOM">true</boolean>
+            <boolean Key="arzYarnSize">true</boolean>
+            <boolean Key="arzWidthNumeric">true</boolean>
+            <boolean Key="arzSpinningMachineType">true</boolean>
+            <boolean Key="arzYarnCount">true</boolean>
+            <boolean Key="arzWeight">true</boolean>
+            <boolean Key="arzDigitalColorReading">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzRestrictedEndUse">true</boolean>
+            <boolean Key="MaterialAttributes/Finish">true</boolean>
+            <boolean Key="MaterialAttributes/ToolingSizes">false</boolean>
+            <boolean Key="arzMaterialVariation">true</boolean>
+            <boolean Key="arzTargetIMT">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="MaterialAttributes/CareSymbols">true</boolean>
+            <boolean Key="arzFinishWash">true</boolean>
+            <boolean Key="arzSampleYardageReceivedDate">true</boolean>
+            <boolean Key="arzWeightUOM">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzSampleYardageDate">true</boolean>
+            <boolean Key="arzMerchType2">true</boolean>
+            <boolean Key="arzIncrementalUOM">true</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzFabricClassification">true</boolean>
+            <boolean Key="arzIncrementalUnits">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:YD" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="R19" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Fabric" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="false" />
+        <Parameter Id="Available" Type="boolean" Value="true" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="true" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="FB" />
+    </Call>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="MaterialBOM">false</boolean>
+        </Parameter>
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="true" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="arzThickness">true</boolean>
+            <boolean Key="arzSource">true</boolean>
+            <boolean Key="arzDyeingMethod">true</boolean>
+            <boolean Key="arzDigitalColorReading">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzDevApprovalDueDate">true</boolean>
+            <boolean Key="arzRestrictedEndUse">true</boolean>
+            <boolean Key="MaterialAttributes/Composition">true</boolean>
+            <boolean Key="MaterialAttributes/Construction">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="MaterialAttributes/CareSymbols">true</boolean>
+            <boolean Key="arzFinishWash">true</boolean>
+            <boolean Key="arzMaterialManager">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzMerchType2">false</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzLogoed">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="R15" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Hard Trim" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="true" />
+        <Parameter Id="Available" Type="boolean" Value="true" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="true" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="HT" />
+    </Call>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="MaterialBOM">false</boolean>
+        </Parameter>
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="false" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="arzThickness">true</boolean>
+            <boolean Key="arzWeight">true</boolean>
+            <boolean Key="arzDigitalColorReading">true</boolean>
+            <boolean Key="arzDyeingMethod">true</boolean>
+            <boolean Key="arzSource">true</boolean>
+            <boolean Key="arzDevApprovalDueDate">true</boolean>
+            <boolean Key="arzRestrictedEndUse">true</boolean>
+            <boolean Key="MaterialAttributes/Composition">true</boolean>
+            <boolean Key="arzFinishWash">true</boolean>
+            <boolean Key="arzMaterialManager">true</boolean>
+            <boolean Key="arzWeightUOM">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzMerchType2">false</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzLogoed">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="R13" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Packaging" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="true" />
+        <Parameter Id="Available" Type="boolean" Value="true" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="true" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="PK" />
+    </Call>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap" />
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="false" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="arzSource">true</boolean>
+            <boolean Key="arzDigitalColorReading">true</boolean>
+            <boolean Key="arzTargetFabric">true</boolean>
+            <boolean Key="arzMaterialVariation">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="false" />
+        <Parameter Id="Name" Type="string" Value="Dye/Wash" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="false" />
+        <Parameter Id="Available" Type="boolean" Value="true" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="false" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="DW" />
+    </Call>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="MaterialBOM">false</boolean>
+        </Parameter>
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="false" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="arzThickness">true</boolean>
+            <boolean Key="arzDigitalColorReading">true</boolean>
+            <boolean Key="arzDyeingMethod">true</boolean>
+            <boolean Key="arzSource">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzDevApprovalDueDate">true</boolean>
+            <boolean Key="arzRestrictedEndUse">true</boolean>
+            <boolean Key="MaterialAttributes/Composition">true</boolean>
+            <boolean Key="MaterialAttributes/Construction">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="arzMaterialManager">true</boolean>
+            <boolean Key="arzFinishWash">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzMerchType2">false</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzLogoed">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="R09" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Label" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="true" />
+        <Parameter Id="Available" Type="boolean" Value="true" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="true" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="LB" />
+    </Call>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="MaterialBOM">false</boolean>
+        </Parameter>
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="false" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="arzThickness">false</boolean>
+            <boolean Key="arzWeight">true</boolean>
+            <boolean Key="arzSource">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="MaterialAttributes/Construction">true</boolean>
+            <boolean Key="arzMaterialManager">true</boolean>
+            <boolean Key="arzSampleYardageReceivedDate">true</boolean>
+            <boolean Key="arzWeightUOM">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzSampleYardageOrderedDate">true</boolean>
+            <boolean Key="arzSampleYardageDate">true</boolean>
+            <boolean Key="arzMerchType2">true</boolean>
+            <boolean Key="arzFillPower">true</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:G" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="R14" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Fill" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="false" />
+        <Parameter Id="Available" Type="boolean" Value="true" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="true" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="FL" />
+    </Call>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="MaterialBOM">false</boolean>
+        </Parameter>
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="false" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzMerchType2">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzMarketingDescription">false</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="R16" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Embellishment" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="true" />
+        <Parameter Id="Available" Type="boolean" Value="false" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="true" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="EM" />
+    </Call>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="MaterialBOM">false</boolean>
+        </Parameter>
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="false" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="arzThickness">true</boolean>
+            <boolean Key="arzWeightAfterWash">true</boolean>
+            <boolean Key="arzMarketingName">true</boolean>
+            <boolean Key="arzWeight">true</boolean>
+            <boolean Key="arzDigitalColorReading">true</boolean>
+            <boolean Key="arzSource">true</boolean>
+            <boolean Key="arzDyeingMethod">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzRestrictedEndUse">true</boolean>
+            <boolean Key="arzMaterialVariation">true</boolean>
+            <boolean Key="arzTargetIMT">true</boolean>
+            <boolean Key="arzGrading">true</boolean>
+            <boolean Key="arzMaterialManager">true</boolean>
+            <boolean Key="arzFinishWash">true</boolean>
+            <boolean Key="arzSampleYardageReceivedDate">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzWeightUOM">true</boolean>
+            <boolean Key="arzSampleYardageOrderedDate">true</boolean>
+            <boolean Key="arzSampleYardageDate">true</boolean>
+            <boolean Key="arzMerchType2">true</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzFabricClassification">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="R17" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Misc Material" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="false" />
+        <Parameter Id="Available" Type="boolean" Value="true" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="true" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="MM" />
+    </Call>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="MaterialBOM">false</boolean>
+        </Parameter>
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="true" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="arzThickness">true</boolean>
+            <boolean Key="arzSource">true</boolean>
+            <boolean Key="arzDyeingMethod">true</boolean>
+            <boolean Key="arzDigitalColorReading">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzDevApprovalDueDate">true</boolean>
+            <boolean Key="arzRestrictedEndUse">true</boolean>
+            <boolean Key="MaterialAttributes/Composition">true</boolean>
+            <boolean Key="arzMaterialVariation">false</boolean>
+            <boolean Key="MaterialAttributes/Construction">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="MaterialAttributes/CareSymbols">true</boolean>
+            <boolean Key="arzFinishWash">true</boolean>
+            <boolean Key="arzMaterialManager">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzIncrementalUOM">true</boolean>
+            <boolean Key="arzMerchType2">false</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzLogoed">true</boolean>
+            <boolean Key="arzIncrementalUnits">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Soft Trim" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="true" />
+        <Parameter Id="Available" Type="boolean" Value="true" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="true" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="ST" />
+    </Call>
+    <Call Module="ProductSpec" Operation="ImportMaterialType">
+        <Parameter Id="SizeAttributesMap" Type="booleanmap" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="MaterialBOM">true</boolean>
+        </Parameter>
+        <Parameter Id="DefaultPlacementQuoteToHighestCost" Type="boolean" Value="false" />
+        <Parameter Id="AllowCreateColoredMaterialOnPlacement" Type="boolean" Value="true" />
+        <Parameter Id="AttributesMap" Type="booleanmap">
+            <boolean Key="arzThickness">false</boolean>
+            <boolean Key="arzMarketingName">true</boolean>
+            <boolean Key="arzSource">true</boolean>
+            <boolean Key="arzDyeingMethod">true</boolean>
+            <boolean Key="MaterialAttributes/Construction">true</boolean>
+            <boolean Key="arzFibreLengthString">true</boolean>
+            <boolean Key="arzMaterialManager">true</boolean>
+            <boolean Key="arzYarnTypeSelection">true</boolean>
+            <boolean Key="arzMicrons">true</boolean>
+            <boolean Key="arzSampleYardageOrderedDate">true</boolean>
+            <boolean Key="arzYarnSize">true</boolean>
+            <boolean Key="arzYarnType">true</boolean>
+            <boolean Key="arzSpinningMachineType">true</boolean>
+            <boolean Key="arzDigitalColorReading">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzRestrictedEndUse">true</boolean>
+            <boolean Key="arzTargetIMT">true</boolean>
+            <boolean Key="arzMaterialVariation">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="MaterialAttributes/CareSymbols">true</boolean>
+            <boolean Key="arzFinishWash">true</boolean>
+            <boolean Key="arzSampleYardageReceivedDate">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzSampleYardageDate">true</boolean>
+            <boolean Key="arzIncrementalUOM">true</boolean>
+            <boolean Key="arzMerchType2">true</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzFabricClassification">true</boolean>
+            <boolean Key="arzIncrementalUnits">true</boolean>
+        </Parameter>
+        <Parameter Id="arzDefaultConsumptionUOM" Type="enum" Value="arzConsumptionUOM:LB" />
+        <Parameter Id="MaterialUsage" Type="enum" Value="MaterialUsage:Standalone" />
+        <Parameter Id="arzCode" Type="string" Value="R03" />
+        <Parameter Id="DefaultHasSeasonAvailability" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Yarn" />
+        <Parameter Id="ColorAttributesMap" Type="booleanmap" />
+        <Parameter Id="arzSupplierClassification" Type="enum" Value="arzSupplierClassification:" />
+        <Parameter Id="HasSize" Type="boolean" Value="false" />
+        <Parameter Id="Available" Type="boolean" Value="true" />
+        <Parameter Id="DefaultColorSizeAvailability" Type="boolean" Value="true" />
+        <Parameter Id="HasColor" Type="boolean" Value="true" />
+        <Parameter Id="arzPrefix" Type="string" Value="YN" />
+    </Call>
+</NODES_OPERATIONS>

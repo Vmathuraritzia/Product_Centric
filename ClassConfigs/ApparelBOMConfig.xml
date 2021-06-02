@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="PruneRevisions" Type="boolean" Value="true" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="CopyCanvasOnRevise" Type="boolean" Value="true" />
+        <Parameter Id="PdfGenerate" Type="boolean" Value="false" />
+        <Parameter Id="CopyBehaviorLocked" Type="boolean" Value="true" />
+        <Parameter Id="CopyBehavior" Type="enum" Value="RevisionCopyOptions:CopyLatestRevisionSetToDraft" />
+        <Parameter Id="ConfigNodeType" Type="string" Value="ApparelBOMConfig" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="ExposeBOMSupplierAttributes" Type="boolean" Value="false" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="LockThemePlacementList" Type="boolean" Value="false" />
+        <Parameter Id="IsAutomaticPlacementTracking" Type="boolean" Value="true" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="ApparelBOMSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Style BOM" />
+    </Call>
+</NODES_OPERATIONS>

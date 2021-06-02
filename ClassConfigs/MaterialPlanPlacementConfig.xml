@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="BOMLineAttributeMap" Type="stringmap" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="ExceptionReportKey" Type="string" Value="" />
+        <Parameter Id="BOMLineAttributePerBOMSubtypeLockedMap" Type="booleanmap" />
+        <Parameter Id="ConfigNodeType" Type="string" Value="MaterialPlanPlacementConfig" />
+    </Call>
+</NODES_OPERATIONS>

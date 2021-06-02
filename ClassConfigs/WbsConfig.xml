@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="UseWorkCalendar" Type="boolean" Value="true" />
+        <Parameter Id="LatenessMode" Type="enum" Value="WbsLatenessMode:PlannedDates" />
+        <Parameter Id="UseFractionComplete" Type="boolean" Value="true" />
+        <Parameter Id="ValidateRolesAtStart" Type="boolean" Value="true" />
+        <Parameter Id="ConfigNodeType" Type="string" Value="WbsConfig" />
+        <Parameter Id="MilestoneTemplate" Type="string" Value="" />
+    </Call>
+</NODES_OPERATIONS>

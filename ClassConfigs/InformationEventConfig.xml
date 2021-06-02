@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="DefaultEventLength" Type="integer" Value="60" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="Color" Type="integer" Value="0" />
+        <Parameter Id="ConfigNodeType" Type="string" Value="InformationEventConfig" />
+    </Call>
+</NODES_OPERATIONS>

@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="Apparel" Operation="ImportStyleType">
+        <Parameter Id="Availability" Type="boolean" Value="true" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="SizeChart">false</boolean>
+            <boolean Key="Artwork">false</boolean>
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="ReviewStyle">true</boolean>
+            <boolean Key="ApparelBOM">true</boolean>
+            <boolean Key="ImageDataSheet">true</boolean>
+            <boolean Key="SpecificationDataSheet">true</boolean>
+        </Parameter>
+        <Parameter Id="PriceForColorwayOrSKU" Type="enum" Value="PriceForColorwayOrSKU:" />
+        <Parameter Id="Size" Type="boolean" Value="true" />
+        <Parameter Id="AllowCreateColorSpecOnColorway" Type="boolean" Value="false" />
+        <Parameter Id="IsSizeOwner" Type="boolean" Value="false" />
+        <Parameter Id="ReferenceDefaultImageOnColorwayCreate" Type="boolean" Value="false" />
+        <Parameter Id="Name" Type="string" Value="Branded Accessories" />
+        <Parameter Id="OneSKUPerStyle" Type="boolean" Value="false" />
+        <Parameter Id="AttributeMap" Type="booleanmap">
+            <boolean Key="arzStartShipDateCAD">true</boolean>
+            <boolean Key="arzCAFirstCostLDP">true</boolean>
+            <boolean Key="arzUSDConfirmed">true</boolean>
+            <boolean Key="arzTargetIMURateUS">true</boolean>
+            <boolean Key="arzTargetIMURateCA">true</boolean>
+            <boolean Key="arzCurrency">true</boolean>
+            <boolean Key="arzFOBCostUS">true</boolean>
+            <boolean Key="arzFOBCostCA">true</boolean>
+            <boolean Key="arzUSDFirstCostLDP">true</boolean>
+            <boolean Key="arzStyling">true</boolean>
+            <boolean Key="arzReadyForPurchasing">true</boolean>
+            <boolean Key="arzUSDIMUPct">true</boolean>
+            <boolean Key="arzShade">false</boolean>
+            <boolean Key="arzCADCurrentCost">true</boolean>
+            <boolean Key="arzSubclass">true</boolean>
+            <boolean Key="arzCADUnits">true</boolean>
+            <boolean Key="arzCADIMUPct">true</boolean>
+            <boolean Key="arzCancelShipDateUS">true</boolean>
+            <boolean Key="arzCurrencyUS">true</boolean>
+            <boolean Key="arzMultsourced">true</boolean>
+            <boolean Key="Features">true</boolean>
+            <boolean Key="arzFOBCost">true</boolean>
+            <boolean Key="arzUSDCurrentCost">true</boolean>
+            <boolean Key="arzCADRetailPrice">true</boolean>
+            <boolean Key="arzIMT">true</boolean>
+            <boolean Key="arzGuestimateCostLDP">true</boolean>
+            <boolean Key="arzPurchasingStatus">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzCADConfirmedCostLDP">true</boolean>
+            <boolean Key="arzOrderMOQColorMOQ">true</boolean>
+            <boolean Key="Functions">true</boolean>
+            <boolean Key="arzCancelShipDateCAD">true</boolean>
+            <boolean Key="arzCADConfirmed">true</boolean>
+            <boolean Key="arzFit">false</boolean>
+            <boolean Key="arzLength">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzUSUnits">true</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzAllocation">true</boolean>
+            <boolean Key="arzStartShipDateUS">true</boolean>
+            <boolean Key="arzUSDRetailPrice">true</boolean>
+        </Parameter>
+        <Parameter Id="Colorway" Type="boolean" Value="true" />
+        <Parameter Id="AutoCreateSKU" Type="boolean" Value="false" />
+        <Parameter Id="ValidateMCMaterialColors" Type="boolean" Value="false" />
+        <Parameter Id="PriceForSalesRegionOrCountry" Type="enum" Value="PriceForSalesRegionOrCountry:" />
+        <Parameter Id="IsAssortment" Type="boolean" Value="false" />
+        <Parameter Id="InAssortment" Type="boolean" Value="false" />
+    </Call>
+    <Call Module="Apparel" Operation="ImportStyleType">
+        <Parameter Id="Availability" Type="boolean" Value="false" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="SizeChart">true</boolean>
+            <boolean Key="Artwork">false</boolean>
+            <boolean Key="PropertiesDataSheet">false</boolean>
+            <boolean Key="DataSheetSizeLabel">true</boolean>
+            <boolean Key="ReviewStyle">true</boolean>
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="ApparelBOM">true</boolean>
+            <boolean Key="Routing">false</boolean>
+            <boolean Key="ImageDataSheet">true</boolean>
+            <boolean Key="SpecificationDataSheet">true</boolean>
+            <boolean Key="PriceList">true</boolean>
+            <boolean Key="CareAndComposition">true</boolean>
+        </Parameter>
+        <Parameter Id="PriceForColorwayOrSKU" Type="enum" Value="PriceForColorwayOrSKU:" />
+        <Parameter Id="Size" Type="boolean" Value="true" />
+        <Parameter Id="AllowCreateColorSpecOnColorway" Type="boolean" Value="true" />
+        <Parameter Id="IsSizeOwner" Type="boolean" Value="false" />
+        <Parameter Id="ReferenceDefaultImageOnColorwayCreate" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="test" />
+        <Parameter Id="OneSKUPerStyle" Type="boolean" Value="false" />
+        <Parameter Id="AttributeMap" Type="booleanmap">
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzCategory2AttributesRef">false</boolean>
+            <boolean Key="Features">true</boolean>
+            <boolean Key="Functions">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="StyleAttributes/AssortmentItems">true</boolean>
+        </Parameter>
+        <Parameter Id="Colorway" Type="boolean" Value="true" />
+        <Parameter Id="AutoCreateSKU" Type="boolean" Value="false" />
+        <Parameter Id="ValidateMCMaterialColors" Type="boolean" Value="true" />
+        <Parameter Id="PriceForSalesRegionOrCountry" Type="enum" Value="PriceForSalesRegionOrCountry:" />
+        <Parameter Id="IsAssortment" Type="boolean" Value="true" />
+        <Parameter Id="InAssortment" Type="boolean" Value="true" />
+    </Call>
+    <Call Module="Apparel" Operation="ImportStyleType">
+        <Parameter Id="Availability" Type="boolean" Value="false" />
+        <Parameter Id="TDSMap" Type="booleanmap" />
+        <Parameter Id="PriceForColorwayOrSKU" Type="enum" Value="PriceForColorwayOrSKU:" />
+        <Parameter Id="Size" Type="boolean" Value="true" />
+        <Parameter Id="AllowCreateColorSpecOnColorway" Type="boolean" Value="false" />
+        <Parameter Id="IsSizeOwner" Type="boolean" Value="false" />
+        <Parameter Id="ReferenceDefaultImageOnColorwayCreate" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Footwear" />
+        <Parameter Id="OneSKUPerStyle" Type="boolean" Value="false" />
+        <Parameter Id="AttributeMap" Type="booleanmap">
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+        </Parameter>
+        <Parameter Id="Colorway" Type="boolean" Value="true" />
+        <Parameter Id="AutoCreateSKU" Type="boolean" Value="false" />
+        <Parameter Id="ValidateMCMaterialColors" Type="boolean" Value="false" />
+        <Parameter Id="PriceForSalesRegionOrCountry" Type="enum" Value="PriceForSalesRegionOrCountry:" />
+        <Parameter Id="IsAssortment" Type="boolean" Value="false" />
+        <Parameter Id="InAssortment" Type="boolean" Value="false" />
+    </Call>
+    <Call Module="Apparel" Operation="ImportStyleType">
+        <Parameter Id="Availability" Type="boolean" Value="true" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="SizeChart">true</boolean>
+            <boolean Key="Artwork">false</boolean>
+            <boolean Key="PropertiesDataSheet">false</boolean>
+            <boolean Key="DataSheetSizeLabel">false</boolean>
+            <boolean Key="ReviewStyle">true</boolean>
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="ApparelBOM">true</boolean>
+            <boolean Key="Routing">false</boolean>
+            <boolean Key="ImageDataSheet">true</boolean>
+            <boolean Key="SpecificationDataSheet">true</boolean>
+            <boolean Key="PriceList">false</boolean>
+            <boolean Key="CareAndComposition">false</boolean>
+        </Parameter>
+        <Parameter Id="PriceForColorwayOrSKU" Type="enum" Value="PriceForColorwayOrSKU:" />
+        <Parameter Id="Size" Type="boolean" Value="true" />
+        <Parameter Id="AllowCreateColorSpecOnColorway" Type="boolean" Value="false" />
+        <Parameter Id="IsSizeOwner" Type="boolean" Value="false" />
+        <Parameter Id="ReferenceDefaultImageOnColorwayCreate" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Apparel" />
+        <Parameter Id="OneSKUPerStyle" Type="boolean" Value="false" />
+        <Parameter Id="AttributeMap" Type="booleanmap">
+            <boolean Key="arzGraphicPrint">true</boolean>
+            <boolean Key="arzProductionManager">true</boolean>
+            <boolean Key="arzCAFirstCostLDP">true</boolean>
+            <boolean Key="arzUSDConfirmed">true</boolean>
+            <boolean Key="arzTargetIMURateUS">true</boolean>
+            <boolean Key="arzUSDFirstCostLDP">true</boolean>
+            <boolean Key="arzStyling">true</boolean>
+            <boolean Key="arzReadyForPurchasing">true</boolean>
+            <boolean Key="arzShade">true</boolean>
+            <boolean Key="arzUSDIMUPct">true</boolean>
+            <boolean Key="arzCADCurrentCost">true</boolean>
+            <boolean Key="arzCADUnits">true</boolean>
+            <boolean Key="arzCADIMUPct">true</boolean>
+            <boolean Key="arzStyleSource">true</boolean>
+            <boolean Key="arzMultsourced">true</boolean>
+            <boolean Key="arzUSDCurrentCost">true</boolean>
+            <boolean Key="arzProductionLeadtime">true</boolean>
+            <boolean Key="arzLegOpening">true</boolean>
+            <boolean Key="arzTargetMainMaterial">true</boolean>
+            <boolean Key="arzIMT">true</boolean>
+            <boolean Key="arzGuestimateCostLDP">true</boolean>
+            <boolean Key="arzPartialCustomsDescription">true</boolean>
+            <boolean Key="arzPurchasingStatus">true</boolean>
+            <boolean Key="arzSizeLength">true</boolean>
+            <boolean Key="arzDesigner">true</boolean>
+            <boolean Key="arzCADConfirmed">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="arzNeckline">true</boolean>
+            <boolean Key="arzInseam">true</boolean>
+            <boolean Key="arzCADMarginRetail75Pct">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzCategory2AttributesRef">true</boolean>
+            <boolean Key="arzTheme">true</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzTotalRMQty">true</boolean>
+            <boolean Key="arzTechDesigner">true</boolean>
+            <boolean Key="arzTechDeveloper">true</boolean>
+            <boolean Key="arzTargetIMURateCA">true</boolean>
+            <boolean Key="arzSleeveLength">true</boolean>
+            <boolean Key="arzFullyFashionedConfig">true</boolean>
+            <boolean Key="arzUSDMarginRetail75Pct">true</boolean>
+            <boolean Key="arzSubclass">true</boolean>
+            <boolean Key="arzPlaceholder">true</boolean>
+            <boolean Key="Features">true</boolean>
+            <boolean Key="arzMinorUpdate">true</boolean>
+            <boolean Key="arzFOBCost">true</boolean>
+            <boolean Key="arzCOSampleRequired">true</boolean>
+            <boolean Key="arzCADRetailPrice">true</boolean>
+            <boolean Key="arzLiability">true</boolean>
+            <boolean Key="arzExpectedSpecPassDate">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzCADConfirmedCostLDP">true</boolean>
+            <boolean Key="Functions">true</boolean>
+            <boolean Key="arzFit">true</boolean>
+            <boolean Key="arzSlit">true</boolean>
+            <boolean Key="arzLength">true</boolean>
+            <boolean Key="arzRise">true</boolean>
+            <boolean Key="arzSegment">true</boolean>
+            <boolean Key="arzUSUnits">true</boolean>
+            <boolean Key="arzWarmthRating">true</boolean>
+            <boolean Key="arzUSDRetailPrice">true</boolean>
+        </Parameter>
+        <Parameter Id="Colorway" Type="boolean" Value="true" />
+        <Parameter Id="AutoCreateSKU" Type="boolean" Value="false" />
+        <Parameter Id="ValidateMCMaterialColors" Type="boolean" Value="false" />
+        <Parameter Id="PriceForSalesRegionOrCountry" Type="enum" Value="PriceForSalesRegionOrCountry:" />
+        <Parameter Id="IsAssortment" Type="boolean" Value="false" />
+        <Parameter Id="InAssortment" Type="boolean" Value="false" />
+    </Call>
+    <Call Module="Apparel" Operation="ImportStyleType">
+        <Parameter Id="Availability" Type="boolean" Value="false" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="PropertiesDataSheet">true</boolean>
+            <boolean Key="SizeChart">true</boolean>
+            <boolean Key="DataSheetSizeLabel">true</boolean>
+            <boolean Key="Artwork">true</boolean>
+            <boolean Key="ReviewStyle">true</boolean>
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="ApparelBOM">true</boolean>
+            <boolean Key="Routing">true</boolean>
+            <boolean Key="ImageDataSheet">true</boolean>
+            <boolean Key="SpecificationDataSheet">true</boolean>
+            <boolean Key="PriceList">true</boolean>
+            <boolean Key="CareAndComposition">true</boolean>
+        </Parameter>
+        <Parameter Id="PriceForColorwayOrSKU" Type="enum" Value="PriceForColorwayOrSKU:" />
+        <Parameter Id="Size" Type="boolean" Value="true" />
+        <Parameter Id="AllowCreateColorSpecOnColorway" Type="boolean" Value="true" />
+        <Parameter Id="IsSizeOwner" Type="boolean" Value="false" />
+        <Parameter Id="ReferenceDefaultImageOnColorwayCreate" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="teststyle" />
+        <Parameter Id="OneSKUPerStyle" Type="boolean" Value="false" />
+        <Parameter Id="AttributeMap" Type="booleanmap">
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="StyleAttributes/AssortmentItems">true</boolean>
+        </Parameter>
+        <Parameter Id="Colorway" Type="boolean" Value="true" />
+        <Parameter Id="AutoCreateSKU" Type="boolean" Value="false" />
+        <Parameter Id="ValidateMCMaterialColors" Type="boolean" Value="true" />
+        <Parameter Id="PriceForSalesRegionOrCountry" Type="enum" Value="PriceForSalesRegionOrCountry:" />
+        <Parameter Id="IsAssortment" Type="boolean" Value="true" />
+        <Parameter Id="InAssortment" Type="boolean" Value="true" />
+    </Call>
+    <Call Module="Apparel" Operation="ImportStyleType">
+        <Parameter Id="Availability" Type="boolean" Value="true" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="Artwork">false</boolean>
+            <boolean Key="SizeChart">true</boolean>
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="ReviewStyle">true</boolean>
+            <boolean Key="ApparelBOM">true</boolean>
+            <boolean Key="ImageDataSheet">true</boolean>
+            <boolean Key="SpecificationDataSheet">true</boolean>
+        </Parameter>
+        <Parameter Id="PriceForColorwayOrSKU" Type="enum" Value="PriceForColorwayOrSKU:" />
+        <Parameter Id="Size" Type="boolean" Value="true" />
+        <Parameter Id="AllowCreateColorSpecOnColorway" Type="boolean" Value="false" />
+        <Parameter Id="IsSizeOwner" Type="boolean" Value="false" />
+        <Parameter Id="ReferenceDefaultImageOnColorwayCreate" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Accessories" />
+        <Parameter Id="OneSKUPerStyle" Type="boolean" Value="false" />
+        <Parameter Id="AttributeMap" Type="booleanmap">
+            <boolean Key="arzGraphicPrint">true</boolean>
+            <boolean Key="arzProductionManager">true</boolean>
+            <boolean Key="arzCAFirstCostLDP">true</boolean>
+            <boolean Key="arzUSDConfirmed">true</boolean>
+            <boolean Key="arzTargetIMURateUS">true</boolean>
+            <boolean Key="arzUSDFirstCostLDP">true</boolean>
+            <boolean Key="arzStyling">true</boolean>
+            <boolean Key="arzReadyForPurchasing">true</boolean>
+            <boolean Key="arzUSDIMUPct">true</boolean>
+            <boolean Key="arzCADCurrentCost">true</boolean>
+            <boolean Key="arzCADUnits">true</boolean>
+            <boolean Key="arzCADIMUPct">true</boolean>
+            <boolean Key="arzStyleSource">true</boolean>
+            <boolean Key="arzMultsourced">true</boolean>
+            <boolean Key="arzUSDCurrentCost">true</boolean>
+            <boolean Key="arzTargetMainMaterial">true</boolean>
+            <boolean Key="arzProductionLeadtime">true</boolean>
+            <boolean Key="arzIMT">true</boolean>
+            <boolean Key="arzPartialCustomsDescription">true</boolean>
+            <boolean Key="arzGuestimateCostLDP">true</boolean>
+            <boolean Key="arzPurchasingStatus">true</boolean>
+            <boolean Key="arzDesigner">true</boolean>
+            <boolean Key="arzCADConfirmed">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="arzCADMarginRetail75Pct">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzCategory2AttributesRef">true</boolean>
+            <boolean Key="arzTheme">true</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzTotalRMQty">true</boolean>
+            <boolean Key="arzTechDeveloper">true</boolean>
+            <boolean Key="arzTechDesigner">true</boolean>
+            <boolean Key="arzTargetIMURateCA">true</boolean>
+            <boolean Key="arzUSDMarginRetail75Pct">true</boolean>
+            <boolean Key="arzSubclass">true</boolean>
+            <boolean Key="arzPlaceholder">true</boolean>
+            <boolean Key="Features">true</boolean>
+            <boolean Key="arzMinorUpdate">true</boolean>
+            <boolean Key="arzFOBCost">true</boolean>
+            <boolean Key="arzCOSampleRequired">true</boolean>
+            <boolean Key="arzCADRetailPrice">true</boolean>
+            <boolean Key="arzLiability">true</boolean>
+            <boolean Key="arzExpectedSpecPassDate">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzCADConfirmedCostLDP">true</boolean>
+            <boolean Key="Functions">true</boolean>
+            <boolean Key="arzFit">false</boolean>
+            <boolean Key="arzLength">true</boolean>
+            <boolean Key="arzSegment">true</boolean>
+            <boolean Key="arzUSUnits">true</boolean>
+            <boolean Key="arzUSDRetailPrice">true</boolean>
+        </Parameter>
+        <Parameter Id="Colorway" Type="boolean" Value="true" />
+        <Parameter Id="AutoCreateSKU" Type="boolean" Value="false" />
+        <Parameter Id="ValidateMCMaterialColors" Type="boolean" Value="false" />
+        <Parameter Id="PriceForSalesRegionOrCountry" Type="enum" Value="PriceForSalesRegionOrCountry:" />
+        <Parameter Id="IsAssortment" Type="boolean" Value="false" />
+        <Parameter Id="InAssortment" Type="boolean" Value="false" />
+    </Call>
+    <Call Module="Apparel" Operation="ImportStyleType">
+        <Parameter Id="Availability" Type="boolean" Value="true" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="SizeChart">true</boolean>
+            <boolean Key="Artwork">false</boolean>
+            <boolean Key="ReviewStyle">true</boolean>
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="ApparelBOM">true</boolean>
+            <boolean Key="ImageDataSheet">true</boolean>
+            <boolean Key="SpecificationDataSheet">true</boolean>
+        </Parameter>
+        <Parameter Id="PriceForColorwayOrSKU" Type="enum" Value="PriceForColorwayOrSKU:" />
+        <Parameter Id="Size" Type="boolean" Value="true" />
+        <Parameter Id="AllowCreateColorSpecOnColorway" Type="boolean" Value="false" />
+        <Parameter Id="IsSizeOwner" Type="boolean" Value="false" />
+        <Parameter Id="ReferenceDefaultImageOnColorwayCreate" Type="boolean" Value="false" />
+        <Parameter Id="Name" Type="string" Value="Branded Apparel" />
+        <Parameter Id="OneSKUPerStyle" Type="boolean" Value="false" />
+        <Parameter Id="AttributeMap" Type="booleanmap">
+            <boolean Key="arzCAFirstCostLDP">true</boolean>
+            <boolean Key="arzUSDConfirmed">true</boolean>
+            <boolean Key="arzTargetIMURateUS">true</boolean>
+            <boolean Key="arzCurrency">true</boolean>
+            <boolean Key="arzFOBCostUS">true</boolean>
+            <boolean Key="arzUSDFirstCostLDP">true</boolean>
+            <boolean Key="arzStyling">true</boolean>
+            <boolean Key="arzReadyForPurchasing">true</boolean>
+            <boolean Key="arzShade">true</boolean>
+            <boolean Key="arzUSDIMUPct">true</boolean>
+            <boolean Key="arzCADCurrentCost">true</boolean>
+            <boolean Key="arzCADUnits">true</boolean>
+            <boolean Key="arzCADIMUPct">true</boolean>
+            <boolean Key="arzCurrencyUS">true</boolean>
+            <boolean Key="arzMultsourced">true</boolean>
+            <boolean Key="arzUSDCurrentCost">true</boolean>
+            <boolean Key="arzLegOpening">true</boolean>
+            <boolean Key="arzIMT">true</boolean>
+            <boolean Key="arzPartialCustomsDescription">false</boolean>
+            <boolean Key="arzGuestimateCostLDP">true</boolean>
+            <boolean Key="arzPurchasingStatus">true</boolean>
+            <boolean Key="arzOrderMOQColorMOQ">true</boolean>
+            <boolean Key="arzNeckline">true</boolean>
+            <boolean Key="arzCADConfirmed">true</boolean>
+            <boolean Key="arzInseam">true</boolean>
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="arzMarketingDescription">true</boolean>
+            <boolean Key="arzAllocation">true</boolean>
+            <boolean Key="arzStartShipDateUS">true</boolean>
+            <boolean Key="arzStartShipDateCAD">true</boolean>
+            <boolean Key="arzTargetIMURateCA">true</boolean>
+            <boolean Key="arzFOBCostCA">true</boolean>
+            <boolean Key="arzSleeveLength">true</boolean>
+            <boolean Key="arzSubclass">true</boolean>
+            <boolean Key="arzCancelShipDateUS">true</boolean>
+            <boolean Key="Features">true</boolean>
+            <boolean Key="arzFOBCost">true</boolean>
+            <boolean Key="arzCADRetailPrice">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="arzCADConfirmedCostLDP">true</boolean>
+            <boolean Key="Functions">true</boolean>
+            <boolean Key="arzCancelShipDateCAD">true</boolean>
+            <boolean Key="arzFit">true</boolean>
+            <boolean Key="arzSlit">true</boolean>
+            <boolean Key="arzLength">true</boolean>
+            <boolean Key="arzRise">true</boolean>
+            <boolean Key="arzUSUnits">true</boolean>
+            <boolean Key="arzWarmthRating">true</boolean>
+            <boolean Key="arzUSDRetailPrice">true</boolean>
+        </Parameter>
+        <Parameter Id="Colorway" Type="boolean" Value="true" />
+        <Parameter Id="AutoCreateSKU" Type="boolean" Value="false" />
+        <Parameter Id="ValidateMCMaterialColors" Type="boolean" Value="false" />
+        <Parameter Id="PriceForSalesRegionOrCountry" Type="enum" Value="PriceForSalesRegionOrCountry:" />
+        <Parameter Id="IsAssortment" Type="boolean" Value="false" />
+        <Parameter Id="InAssortment" Type="boolean" Value="false" />
+    </Call>
+    <Call Module="Apparel" Operation="ImportStyleType">
+        <Parameter Id="Availability" Type="boolean" Value="false" />
+        <Parameter Id="TDSMap" Type="booleanmap">
+            <boolean Key="DataSheetSizeLabel">true</boolean>
+            <boolean Key="PropertiesDataSheet">true</boolean>
+            <boolean Key="Artwork">true</boolean>
+            <boolean Key="SizeChart">true</boolean>
+            <boolean Key="ReviewStyle">true</boolean>
+            <boolean Key="TestRun">true</boolean>
+            <boolean Key="ApparelBOM">true</boolean>
+            <boolean Key="Routing">true</boolean>
+            <boolean Key="ImageDataSheet">true</boolean>
+            <boolean Key="SpecificationDataSheet">true</boolean>
+            <boolean Key="PriceList">true</boolean>
+            <boolean Key="CareAndComposition">true</boolean>
+        </Parameter>
+        <Parameter Id="PriceForColorwayOrSKU" Type="enum" Value="PriceForColorwayOrSKU:" />
+        <Parameter Id="Size" Type="boolean" Value="true" />
+        <Parameter Id="AllowCreateColorSpecOnColorway" Type="boolean" Value="true" />
+        <Parameter Id="IsSizeOwner" Type="boolean" Value="false" />
+        <Parameter Id="ReferenceDefaultImageOnColorwayCreate" Type="boolean" Value="true" />
+        <Parameter Id="Name" Type="string" Value="Teststyle" />
+        <Parameter Id="OneSKUPerStyle" Type="boolean" Value="false" />
+        <Parameter Id="AttributeMap" Type="booleanmap">
+            <boolean Key="ProductAttributes/Features">true</boolean>
+            <boolean Key="ProductAttributes/Functions">true</boolean>
+            <boolean Key="ProductAttributes/Brands">true</boolean>
+            <boolean Key="StyleAttributes/AssortmentItems">true</boolean>
+        </Parameter>
+        <Parameter Id="Colorway" Type="boolean" Value="true" />
+        <Parameter Id="AutoCreateSKU" Type="boolean" Value="false" />
+        <Parameter Id="ValidateMCMaterialColors" Type="boolean" Value="true" />
+        <Parameter Id="PriceForSalesRegionOrCountry" Type="enum" Value="PriceForSalesRegionOrCountry:" />
+        <Parameter Id="IsAssortment" Type="boolean" Value="true" />
+        <Parameter Id="InAssortment" Type="boolean" Value="true" />
+    </Call>
+    <Call Module="Apparel" Operation="ImportHierarchyConfiguration">
+        <Parameter Id="SampleNumberInitial" Type="integer" Value="1" />
+        <Parameter Id="StyleNumberAutoGenerate" Type="boolean" Value="false" />
+        <Parameter Id="StyleNumberInitial" Type="integer" Value="1" />
+        <Parameter Id="LabelGenerationTargetFolder" Type="string" Value="" />
+    </Call>
+    <Call Module="Apparel" Operation="DeleteAllLabelGenerationInfos" />
+</NODES_OPERATIONS>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="PruneRevisions" Type="boolean" Value="true" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="CopyCanvasOnRevise" Type="boolean" Value="true" />
+        <Parameter Id="PdfGenerate" Type="boolean" Value="false" />
+        <Parameter Id="CopyBehaviorLocked" Type="boolean" Value="true" />
+        <Parameter Id="CopyBehavior" Type="enum" Value="RevisionCopyOptions:CopyLatestRevisionSetToDraft" />
+        <Parameter Id="ConfigNodeType" Type="string" Value="ReviewColorwayConfig" />
+    </Call>
+</NODES_OPERATIONS>

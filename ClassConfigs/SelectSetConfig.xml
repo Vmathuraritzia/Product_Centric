@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="ConfigNodeType" Type="string" Value="SelectSetConfig" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="StyleSupplierItem" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Theme" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Category1" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Category2" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="MaterialSupplierItem" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Material" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Collection" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Style" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="PurchasedOrder" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="ColorMaterial" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Colorway" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="SKUMaterial" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SelectSetOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SelectSetItemOptionalAttributeSelections" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="SelectSetSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="SKU" />
+    </Call>
+</NODES_OPERATIONS>

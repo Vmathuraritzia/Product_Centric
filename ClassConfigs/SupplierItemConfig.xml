@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="ValidationRuleGroupName" Type="string" Value="" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="WorkflowName" Type="string" Value="" />
+        <Parameter Id="StyleAttributeMap" Type="stringmap" />
+        <Parameter Id="PdfGenerate" Type="boolean" Value="false" />
+        <Parameter Id="ConfigNodeType" Type="string" Value="SupplierItemConfig" />
+    </Call>
+</NODES_OPERATIONS>

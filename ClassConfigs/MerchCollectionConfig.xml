@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="ConfigNodeType" Type="string" Value="MerchCollectionConfig" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="LevelAttributes" Type="booleanmap" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="RollUpAttributes" Type="booleanmap" />
+        <Parameter Id="VersionAttributes" Type="booleanmap" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="MerchCollectionSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Department" />
+        <Parameter Id="SplitDownAttributes" Type="booleanmap" />
+    </Call>
+</NODES_OPERATIONS>

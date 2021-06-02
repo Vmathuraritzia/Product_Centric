@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="ImportClassSettings">
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="ConfigNodeType" Type="string" Value="LookupItemConfig" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Department" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Material Marketing Name" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Segment" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Brand" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="false" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="IMT" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Season" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Material Variation" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Year" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Merch Type" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Size/Length" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="FF Configuration" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Group" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Partial Customs" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Product Feature" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Theme" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Franchise" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="false" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Drop" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="false" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Trend" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="ImportSubtypeSettings">
+        <Parameter Id="Active" Type="boolean" Value="false" />
+        <Parameter Id="Node Name" Type="string" Value="" />
+        <Parameter Id="OptionalAttributes" Type="booleanmap" />
+        <Parameter Id="SubtypeNodeType" Type="string" Value="LookupItemSubtype" />
+        <Parameter Id="SubtypeNodeName" Type="string" Value="Customs Description" />
+    </Call>
+</NODES_OPERATIONS>

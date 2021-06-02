@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="ProductSpec" Operation="ImportProductSpecAdmin">
+        <Parameter Id="SCFormatAbsolute" Type="string" Value="0.000" />
+        <Parameter Id="SCFormatToleranceDelta" Type="string" Value="0.000" />
+        <Parameter Id="SCFormatIncrement" Type="string" Value="0.000" />
+        <Parameter Id="SCDisplayOldComment" Type="boolean" Value="true" />
+        <Parameter Id="SCSampleTypesForActuals" Type="stringlist">
+            <string>Proto</string>
+            <string>Counter Sourcing</string>
+            <string>Wear Test</string>
+            <string>Top of Production</string>
+            <string>Pre-Production</string>
+            <string>Size Set</string>
+            <string>Mock Up</string>
+        </Parameter>
+        <Parameter Id="SCValueUnits" Type="enum" Value="Size Chart Units:IN - Decimal" />
+        <Parameter Id="SCEvaluateSuggestRevised" Type="boolean" Value="true" />
+        <Parameter Id="SCRoundToFraction" Type="enum" Value="Size Chart Inch Fractions:1/16" />
+        <Parameter Id="SCEvaluateFromCopyIncrements" Type="boolean" Value="true" />
+        <Parameter Id="SCGradingDefaultDisplay" Type="enum" Value="Size Chart Display:Increment" />
+        <Parameter Id="SCFormatTolerance" Type="string" Value="0.000" />
+        <Parameter Id="SCFormatShrinkage" Type="string" Value="0.00%" />
+        <Parameter Id="SCValueToleranceDelta" Type="double" Value="0.0" />
+    </Call>
+</NODES_OPERATIONS>

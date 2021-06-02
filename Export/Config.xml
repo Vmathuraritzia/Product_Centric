@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="Export" Operation="RestoreExportBatch">
+        <Parameter Id="Incremental" Type="boolean" Value="false" />
+        <Parameter Id="IsRoot" Type="booleanlist">
+            <boolean>false</boolean>
+        </Parameter>
+        <Parameter Id="C8User" Type="string" Value="" />
+        <Parameter Id="ExpDef_View_Container" Type="cnllist">
+            <cnl>centric:</cnl>
+        </Parameter>
+        <Parameter Id="ExpDef_Name" Type="stringlist">
+            <string>PartMaterial</string>
+        </Parameter>
+        <Parameter Id="ExporterType" Type="string" Value="XMLExporter" />
+        <Parameter Id="ClassName" Type="stringlist">
+            <string>PartMaterial</string>
+        </Parameter>
+        <Parameter Id="DeletedNodesDays" Type="integer" Value="0" />
+        <Parameter Id="ExpDef_View_Name" Type="stringlist">
+            <string />
+        </Parameter>
+        <Parameter Id="Folder" Type="string" Value="C:\Export\xml" />
+        <Parameter Id="ValidateNodes" Type="boolean" Value="false" />
+        <Parameter Id="Name" Type="string" Value="BOM_xml" />
+    </Call>
+    <Call Module="Export" Operation="RestoreExportBatch">
+        <Parameter Id="Incremental" Type="boolean" Value="false" />
+        <Parameter Id="IsRoot" Type="booleanlist">
+            <boolean>false</boolean>
+        </Parameter>
+        <Parameter Id="Delimiter" Type="string" Value="," />
+        <Parameter Id="Folder" Type="string" Value="C:\Export" />
+        <Parameter Id="Name" Type="string" Value="EXP STYPE BATCH" />
+        <Parameter Id="C8User" Type="string" Value="" />
+        <Parameter Id="ExpDef_View_Container" Type="cnllist">
+            <cnl>centric:</cnl>
+        </Parameter>
+        <Parameter Id="ExpDef_Name" Type="stringlist">
+            <string>EXP_STYLE_DEF</string>
+        </Parameter>
+        <Parameter Id="ExporterType" Type="string" Value="CSVExporter" />
+        <Parameter Id="ClassName" Type="stringlist">
+            <string>Style</string>
+        </Parameter>
+        <Parameter Id="DeletedNodesDays" Type="integer" Value="0" />
+        <Parameter Id="ExpDef_View_Name" Type="stringlist">
+            <string />
+        </Parameter>
+        <Parameter Id="ValidateNodes" Type="boolean" Value="false" />
+    </Call>
+    <Call Module="Export" Operation="RestoreExportBatch">
+        <Parameter Id="Incremental" Type="boolean" Value="false" />
+        <Parameter Id="IsRoot" Type="booleanlist">
+            <boolean>false</boolean>
+            <boolean>false</boolean>
+        </Parameter>
+        <Parameter Id="Delimiter" Type="string" Value="," />
+        <Parameter Id="Folder" Type="string" Value="C:\Export\csv" />
+        <Parameter Id="Name" Type="string" Value="BOM_csv" />
+        <Parameter Id="C8User" Type="string" Value="" />
+        <Parameter Id="ExpDef_View_Container" Type="cnllist">
+            <cnl>centric:</cnl>
+            <cnl>centric:</cnl>
+        </Parameter>
+        <Parameter Id="ExpDef_Name" Type="stringlist">
+            <string>PartMaterial</string>
+            <string>Qutoe</string>
+        </Parameter>
+        <Parameter Id="ExporterType" Type="string" Value="CSVExporter" />
+        <Parameter Id="ClassName" Type="stringlist">
+            <string>PartMaterial</string>
+            <string>SupplierItemRevision</string>
+        </Parameter>
+        <Parameter Id="DeletedNodesDays" Type="integer" Value="0" />
+        <Parameter Id="ExpDef_View_Name" Type="stringlist">
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="ValidateNodes" Type="boolean" Value="false" />
+    </Call>
+</NODES_OPERATIONS>

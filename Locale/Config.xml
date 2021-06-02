@@ -1,0 +1,1980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="SiteAdmin" Operation="PublishLocaleConfiguration">
+        <Parameter Id="LanguageCode" Type="string" Value="en" />
+        <Parameter Id="Id" Type="string" Value="Resources" />
+        <Parameter Id="Map" Type="stringmap">
+            <string Key="arzPurchaseUOM:FT2">Square Foot</string>
+            <string Key="arzConsumptionUOM:TS">Thousand</string>
+            <string Key="arzConsumptionUOM:ROL">Roll</string>
+            <string Key="arzConsumptionUOM:T">Ton</string>
+            <string Key="arzModeOfTransport:GR">Ground</string>
+            <string Key="arzCostTerms:EX">EX WORKS</string>
+            <string Key="arzConsumptionUOM:M">Meter</string>
+            <string Key="arzStyling:Carrot Pant">Carrot</string>
+            <string Key="arzLength:Ankle Long">Ankle/Long</string>
+            <string Key="arzPurchaseUOM:PC">Piece</string>
+            <string Key="arzConsumptionUOM:G">Gram</string>
+            <string Key="arzPurchaseUOM:PR">Pair/Set</string>
+            <string Key="arzReasonCode:Add Liability Cut">Add - Liability Cut</string>
+            <string Key="_StyleImageLabels:PrimarySketch">Primary Sketch</string>
+            <string Key="arzBrand:ARIT">Aritzia</string>
+            <string Key="arzConsumptionUOM:m">M</string>
+            <string Key="arzReasonCode:Add Aspirational Trend">Add - Aspirational Trend</string>
+            <string Key="CareSymbolType:AFTER WASH / BEFORE DRY">WARNING - BEFORE DRY</string>
+            <string Key="arzPurchaseUOM:TON">Ton</string>
+            <string Key="arzFacilityCertification:BCI Better Cotton">BCI Better Cotton Initiative</string>
+            <string Key="arzPurchaseUOM:OZ">Ounce</string>
+            <string Key="arzConsumptionUOM:meter">meter</string>
+            <string Key="ColorwayImages">Colourway Chips</string>
+            <string Key="arzSupplierMerchType:Apparel - Private Label">Apparel - Exclusive Brand</string>
+            <string Key="UOM:pc">PC</string>
+            <string Key="UOM:PC">Piece</string>
+            <string Key="arzReasonCode:Add Style Option">Add - Style Option</string>
+            <string Key="UOM:oz">OZ</string>
+            <string Key="UOM:OZ">Ounce</string>
+            <string Key="UOM:PR">Pair/Set</string>
+            <string Key="arzIncrementalUOM:HU">Hundred</string>
+            <string Key="arzWeightUOM:GSM">Grams per Square Meter</string>
+            <string Key="arzReasonCode:Add Print Development">Add - Print Development</string>
+            <string Key="arzBrand:TALU">Talula</string>
+            <string Key="arzIncrementalUOM:IN">Inch</string>
+            <string Key="SampleType:PP">Pre-Production</string>
+            <string Key="arzPurchaseUOM:MM">Millimeter</string>
+            <string Key="arzReasonCode:Add Brand Change">Add - Brand Change</string>
+            <string Key="arzSupplierMerchType:Non-Apparel - Private Label">Non-Apparel - Exclusive Brand</string>
+            <string Key="UOM:in">IN</string>
+            <string Key="UOM:IN">Inch</string>
+            <string Key="arzConsumptionUOM:TON">Ton</string>
+            <string Key="ChartPaletteColor2">Colour 2</string>
+            <string Key="ChartPaletteColor3">Colour 3</string>
+            <string Key="ChartPaletteColor4">Colour 4</string>
+            <string Key="ChartPaletteColor5">Colour 5</string>
+            <string Key="arzPurchaseUOM:ROL">Roll</string>
+            <string Key="arzPurchaseUOM:LB">Pound</string>
+            <string Key="ChartPaletteColor1">Colour 1</string>
+            <string Key="arzSourceClassification:MILL TOP SELLER">TOP SELLER</string>
+            <string Key="arzConsumptionUOM:FT2">Square Foot</string>
+            <string Key="arzPOMGroup:Tops">Tops</string>
+            <string Key="_StyleImageLabels:BW">Technical Sketch</string>
+            <string Key="arzPurchaseUOM:KG">Kilogram</string>
+            <string Key="arzReasonCode:Cancel Department Change">Cancel - Department Change</string>
+            <string Key="CommentDialogColors">Colours</string>
+            <string Key="arzReasonCode:Cancel Discontinued">Cancel - Discontinued</string>
+            <string Key="arzDepartmentType:2">Apparel Departments</string>
+            <string Key="arzDepartmentType:1">All Departments</string>
+            <string Key="arzDepartmentType:4">Non-Apparel Departments</string>
+            <string Key="arzTargetIMT:CUTSEW">Cut and Sew Knits</string>
+            <string Key="arzDepartmentType:3">Accessories Departments</string>
+            <string Key="arzTargetIMT:ACCESS">Accessories</string>
+            <string Key="arzDyeingMethod:Fiber Dye">Fiber / Top Dye</string>
+            <string Key="arzConsumptionUOM:yd">YD</string>
+            <string Key="arzConsumptionUOM:YD">Yard</string>
+            <string Key="arzTargetIMT:TCOAT">Tailored Coats</string>
+            <string Key="arzIncrementalUOM:M">Meter</string>
+            <string Key="CareSymbolType:DryClean">DRY CLEANING</string>
+            <string Key="UOM:KG">Kilogram</string>
+            <string Key="_MaterialImageLabels:Detail2">Detail 2</string>
+            <string Key="UOM:kg">KG</string>
+            <string Key="SizeChartReviewActualRevisedGap">Revised - ATZ +/-</string>
+            <string Key="_MaterialImageLabels:Detail1">Detail 1</string>
+            <string Key="arzReasonCode:Cancel Style Option">Cancel - Style Option</string>
+            <string Key="arzSupplierSpecialization:Rm/Textile Graphics">RM/Textile Graphics</string>
+            <string Key="_MaterialImageLabels:Detail3">Detail 3</string>
+            <string Key="arzIncrementalUOM:CM">Centimeter</string>
+            <string Key="arzBrand:TKEE">TKEES</string>
+            <string Key="UOM:lb">LB</string>
+            <string Key="UOM:LB">Pound</string>
+            <string Key="arzReasonCode:Add Aspirational Trent">Add - Aspirational Trent</string>
+            <string Key="arzIncrementalUOM:G">Gram</string>
+            <string Key="arzTargetIMT:FFKNIT">Fully Fashioned Knits</string>
+            <string Key="arzIncrementalUOM:DZ">Dozen</string>
+            <string Key="arzBrand:LTMN">Little Moon</string>
+            <string Key="arzMaterialSubclass:Zipper Tape">Zipper Tape</string>
+            <string Key="arzBrand:CITI">Citizens of Humanity</string>
+            <string Key="arzReasonCode:Add Fabric Option">Add - Fabric Option</string>
+            <string Key="DimensionColors">Colours</string>
+            <string Key="arzPurchaseUOM:G">Gram</string>
+            <string Key="arzConsumptionUOM:GRO">Gross</string>
+            <string Key="arzPurchaseUOM:M">Meter</string>
+            <string Key="arzMaterialSubclass:Tack Button">Tack Button / Shank</string>
+            <string Key="arzMaterialSubclass:Straw Jute">Straw / Jute</string>
+            <string Key="arzStyleSubclass:FitFlare">Fit &amp; Flare</string>
+            <string Key="arzIncrementalUOM:EA">Each</string>
+            <string Key="arzPurchaseUOM:IN">Inch</string>
+            <string Key="ColorwayAttributeMapTable_ColorwayContextAttr">Colourway Colour Attribute</string>
+            <string Key="arzTargetIMT:INTMTS">Intimates</string>
+            <string Key="arzReasonCode:Cancel Unable to Execute External">Cancel - Unable to Execute (External)</string>
+            <string Key="UOM:EA">Each</string>
+            <string Key="arzBrand:KSUB">Ksubi</string>
+            <string Key="CanvasLineColor">Line Colour</string>
+            <string Key="arzPurchaseUOM:YD">Yard</string>
+            <string Key="arzBrand:LEVI">Levi's</string>
+            <string Key="_StyleImageLabels:Construction11">Construction 11</string>
+            <string Key="_StyleImageLabels:Construction10">Construction 10</string>
+            <string Key="_StyleImageLabels:Construction15">Construction 15</string>
+            <string Key="_StyleImageLabels:Construction14">Construction 14</string>
+            <string Key="_StyleImageLabels:Construction13">Construction 13</string>
+            <string Key="_StyleImageLabels:Construction12">Construction 12</string>
+            <string Key="arzTargetIMT:TLCOAT">Tailored Coats</string>
+            <string Key="MaterialSampleType:RM Counter Source Development">RM Counter/Source Development</string>
+            <string Key="arzTargetIMT:TBD">Tailored Coats</string>
+            <string Key="_StyleImageLabels:Trim1">Trim 1</string>
+            <string Key="ThisCompany">Centric 8</string>
+            <string Key="_StyleImageLabels:Trim2">Trim 2</string>
+            <string Key="_StyleImageLabels:Trim3">Trim 3</string>
+            <string Key="MaterialSampleType:Technical Hanger">Technical Hanger/Test Report</string>
+            <string Key="UOM:ROL">Roll</string>
+            <string Key="arzColourType:Multicolor">Multi Colour</string>
+            <string Key="Colors">Colours</string>
+            <string Key="UOM:roll">Roll</string>
+            <string Key="arzWeightUOM:GYD">Grams per Yard</string>
+            <string Key="SizeChartReviewDimensionActualGap">FTY +/-</string>
+            <string Key="arzMaterialSubclass:TPU Plastic">TPU (Plastic)</string>
+            <string Key="arzBrand:MNCH">Main Character</string>
+            <string Key="ProductSymbolType:Brand">Branded Logo</string>
+            <string Key="UOM:gm">GM</string>
+            <string Key="arzReasonCode:Add Fabric Change">Add - Fabric Change</string>
+            <string Key="arzTargetIMT:HWOVEN">Heavy Wovens</string>
+            <string Key="arzReasonCode:Update Colourway Change">Update - Colourway Change</string>
+            <string Key="arzTargetIMT:LTWOVN">Light Wovens</string>
+            <string Key="arzWeightUOM:gm/linear m">GM/LINEAR M</string>
+            <string Key="arzModeOfTransport:AI">Air</string>
+            <string Key="arzPOMGroup:Common">Common</string>
+            <string Key="arzReasonCode:Update Size Range">Update - Size Range</string>
+            <string Key="arzGraphicType:Wash Dye">Wash/Dye</string>
+            <string Key="AdobePLMConnectViewPermissionColorLibrary">Colour Library</string>
+            <string Key="arzReasonCode:Update Fabric Change">Update - Fabric Change</string>
+            <string Key="arzTargetIMT:LWOVEN">Light Wovens</string>
+            <string Key="arzSourceClassification:MILL INNOVATION">INNOVATION</string>
+            <string Key="arzWeightUOM:G">Gram</string>
+            <string Key="arzReasonCode:Add Marketplace Reference">Add - Marketplace Reference</string>
+            <string Key="arzMaterialSubclass:Marketing Branding">Marketing/Branding</string>
+            <string Key="arzHouse:TNA">House of TNA</string>
+            <string Key="arzSourceClassification:MILL EXISTING">c</string>
+            <string Key="SampleDimensionActualGap">FTY +/-</string>
+            <string Key="UOM:HU">Hundred</string>
+            <string Key="UOM:FT2">Square Foot</string>
+            <string Key="arzFacilityOwnershipStructure:100 Owned">100% Owned</string>
+            <string Key="arzFacilityClassification:RMF">Raw Material Facility</string>
+            <string Key="arzWidthUOM:IN">Inches</string>
+            <string Key="SizeChartReviewDimensionRevisedGap">Revised - FTY +/-</string>
+            <string Key="_StyleImageLabels:Technical Sketch">Primary Sketch</string>
+            <string Key="SampleStatus:Not Approved Cancelled">Not Approved-Cancelled</string>
+            <string Key="arzPurchaseUOM:TS">Thousand</string>
+            <string Key="CanvasFillColor">Fill Colour</string>
+            <string Key="arzConsumptionUOM:yard">yard</string>
+            <string Key="arzReasonCode:Cancel Trend No Longer Relevant">Cancel - Trend No Longer Relevant</string>
+            <string Key="arzNeckline:PLUNGE DEEP V">Plunge Deep V</string>
+            <string Key="_StyleImageLabels:Hand Sketch">Hand Sketch</string>
+            <string Key="arzPOMGroup:Underwear">Underwear (U)</string>
+            <string Key="CareSymbolType:Iron">IRON</string>
+            <string Key="arzReasonCode:Cancel User CO Error">Cancel - User CO Error</string>
+            <string Key="_PrintSpecificationImageLabels:Detail1">Detail 1</string>
+            <string Key="arzBrand:TOUC">Touchland</string>
+            <string Key="_PrintSpecificationImageLabels:Detail2">Detail 2</string>
+            <string Key="_PrintSpecificationImageLabels:Detail3">Detail 3</string>
+            <string Key="QuoteCreateOption:">Supplier Quote with No Color or Size</string>
+            <string Key="arzSupplierClassification:RMS">Fabric Supplier</string>
+            <string Key="arzMaterialSubclass:Sock Hosiery Packaging">Sock / Hosiery Packaging</string>
+            <string Key="CareSymbolType:BEFORE IRON">WARNING - BEFORE IRON</string>
+            <string Key="UOM:CM">Centimeter</string>
+            <string Key="_StyleImageLabels:Trim4">Trim 4</string>
+            <string Key="UOM:cm">CM</string>
+            <string Key="SampleCreateOption:">Sample with No Color or Size</string>
+            <string Key="_StyleImageLabels:Trim5">Trim 5</string>
+            <string Key="arzBrand:AUXI">Auxiliary</string>
+            <string Key="arzTargetIMT:SWIM">Swimwear</string>
+            <string Key="arzHouse:Other">House of Other</string>
+            <string Key="arzReasonCode:Update Graphic Code">Update - Graphic Code</string>
+            <string Key="arzFacilityClassification:TRF">Trim Facility</string>
+            <string Key="UOM:DZ">Dozen</string>
+            <string Key="arzSupplierClassification:TRS">Trim Supplier</string>
+            <string Key="arzBrand:PB1">Placeholder Brand 1</string>
+            <string Key="arzBrand:PB2">Placeholder Brand 2</string>
+            <string Key="arzSocialImpactRating:Medium High Risk">Medium-High Risk</string>
+            <string Key="MaterialSampleType:Strike off Hand loom">Strike off/Hand loom</string>
+            <string Key="arzAnalyzingColour:Multicolor">Multicolour</string>
+            <string Key="arzReasonCode:Cancel Material Cancelled">Cancel - Material Cancelled</string>
+            <string Key="arzConsumptionUOM:CM">Centimeter</string>
+            <string Key="arzConsumptionUOM:cm">CM</string>
+            <string Key="arzBrand:WIFU">Le Fou</string>
+            <string Key="CareSymbolType:SpecialInstructions">xxx-Special</string>
+            <string Key="arzBrand:WIFR">Wilfred Free</string>
+            <string Key="arzReasonCode:Cancel Unable to Execute">Cancel - Unable to Execute</string>
+            <string Key="UOM:GRO">Gross</string>
+            <string Key="arzConsumptionUOM:EA">Each</string>
+            <string Key="arzTargetIMT:TWOVEN">Tailored Wovens</string>
+            <string Key="arzBrand:COMM">Community</string>
+            <string Key="arzNeckline:Plunge Deep V">Plunge/Deep V</string>
+            <string Key="arzHouse:WILF">House of Wilfred</string>
+            <string Key="arzConsumptionUOM:DZ">Dozen</string>
+            <string Key="arzStyling:Military Workwear">Military/Workwear</string>
+            <string Key="arzBrand:SUIC">Suicoke</string>
+            <string Key="UOM:spool">Spool</string>
+            <string Key="arzTargetIMT:OUTRWR">Outerwear</string>
+            <string Key="arzMaterialSubclass:Wash Dye">Wash / Dye</string>
+            <string Key="arzYear:19">2019</string>
+            <string Key="arzReasonCode:Update Retail Change">Update - Retail Change</string>
+            <string Key="SampleType:TOP">Top of Production</string>
+            <string Key="arzBrand:BOOB">Booby Tape</string>
+            <string Key="arzIncrementalUOM:YD">Yard</string>
+            <string Key="arzReasonCode:Add Redesign">Add - Redesign</string>
+            <string Key="arzStyling:Aline">A-Line</string>
+            <string Key="arzCOSample:RM AG Graphic">RM/AG Graphic</string>
+            <string Key="arzBrand:DNFM">Denim Forum</string>
+            <string Key="arzBrand:NEWB">New Balance</string>
+            <string Key="arzYear:20">2020</string>
+            <string Key="arzReasonCode:Add Solid Option">Add - Solid Option</string>
+            <string Key="arzYear:21">2021</string>
+            <string Key="arzTargetIMT:HVWOVN">Heavy Wovens</string>
+            <string Key="arzBrand:TB">Babaton</string>
+            <string Key="arzIncrementalUOM:GRO">Gross</string>
+            <string Key="arzBrand:MOTH">MOTHER</string>
+            <string Key="arzBrand:SUND">Sunday Best</string>
+            <string Key="arzWeightUOM:OZ">Ounce</string>
+            <string Key="arzWeightUOM:oz">OZ</string>
+            <string Key="arzConsumptionUOM:IN">Inch</string>
+            <string Key="arzConsumptionUOM:in">IN</string>
+            <string Key="arzReasonCode:Add Franchise Development">Add - Program Development</string>
+            <string Key="arzSupplierClassification:IVS">Integrated Vendor Supplier</string>
+            <string Key="arzReasonCode:Add Style Variation">Add - Style Variation</string>
+            <string Key="arzConsumptionUOM:HU">Hundred</string>
+            <string Key="arzMaterialSubclass:Slider">Zipper Tape</string>
+            <string Key="arzReasonCode:Update Merchant Code Change">Update - Merchant Code Change</string>
+            <string Key="arzBrand:RAGB">Rag &amp; Bone</string>
+            <string Key="arzReasonCode:Cancel  Redesign">Cancel - Redesign</string>
+            <string Key="CanvasTextColor">Text Colour</string>
+            <string Key="arzLength:NA">N/A</string>
+            <string Key="arzQAClassificationForEndUse:Loose fitting tops only">Loose Fitting Tops only</string>
+            <string Key="arzWidthUOM:CM">Centimeters</string>
+            <string Key="arzBrand:CONS">The Constant</string>
+            <string Key="arzConsumptionUOM:sq ft">SQ FT</string>
+            <string Key="CareSymbolType:Dry">DRY</string>
+            <string Key="arzIncrementalUOM:TS">Thousand</string>
+            <string Key="arzReasonCode:Add Department Change">Add - Department Change</string>
+            <string Key="arzStyling:Overalls">Overall</string>
+            <string Key="_StyleImageLabels:Detail9">Detail 9</string>
+            <string Key="_StyleImageLabels:Detail8">Detail 8</string>
+            <string Key="_StyleImageLabels:Detail7">Detail 7</string>
+            <string Key="_StyleImageLabels:Detail6">Detail 6</string>
+            <string Key="arzStyling:Utility Cargo">Cargo</string>
+            <string Key="arzConsumptionUOM:gm">GM</string>
+            <string Key="arzWeightUOM:gm/sq yd">GM/SQ YD</string>
+            <string Key="_StyleImageLabels:Detail5">Detail 5</string>
+            <string Key="arzConsumptionUOM:GM">Gram</string>
+            <string Key="_StyleImageLabels:Detail4">Detail 4</string>
+            <string Key="_StyleImageLabels:Detail3">Detail 3</string>
+            <string Key="_StyleImageLabels:Detail2">Detail 2</string>
+            <string Key="_StyleImageLabels:Detail1">Detail 1</string>
+            <string Key="arzMaterialSubclass:Button Bag Envelope">Button Bag / Envelope</string>
+            <string Key="arzKnitWeave:Circular Knit">Circular / Weft Knit</string>
+            <string Key="arzTargetIMT:DENIM">Denim</string>
+            <string Key="arzTargetIMT:TLWOVN">Tailored Wovens</string>
+            <string Key="arzCostTerms:EXF">EX WORKS</string>
+            <string Key="arzBrand:RBOK">Reebok</string>
+            <string Key="SizeChartReviewActualGap">ATZ +/-</string>
+            <string Key="MaterialSampleType:Garment Dye Wash Panel">Garment Dye/Wash Panel</string>
+            <string Key="arzMaterialSubclass:Zipper Teeth / Tape">Zipper Teeth (TBD)</string>
+            <string Key="arzConsumptionUOM:LB">Pound</string>
+            <string Key="arzConsumptionUOM:lb">LB</string>
+            <string Key="arzPurchaseUOM:HU">Hundred</string>
+            <string Key="arzProgramType:Trim">Material - Trim</string>
+            <string Key="MaterialSubtype:Wash">Wash</string>
+            <string Key="SampleStatus:Reviewed-Pass">Reviewed-Pass</string>
+            <string Key="arzBrand:TENB">Ten by Babaton</string>
+            <string Key="arzConsumptionUOM:MM">Millimeter</string>
+            <string Key="CareSymbolType:Warning">xxx-Warning</string>
+            <string Key="arzReasonCode:Cancel Fabric Change">Cancel - Fabric Change</string>
+            <string Key="arzCourseofAction:ReOrder">Re-Order</string>
+            <string Key="arzReasonCode:Add Function Management">Add - Function Management</string>
+            <string Key="arzTargetIMT:SEAMLS">Seamless</string>
+            <string Key="arzTargetIMT:LEATH">Leather</string>
+            <string Key="UOM:pair/set">Pair/Set</string>
+            <string Key="_StyleImageLabels:TechnicalSketch">Technical Sketch</string>
+            <string Key="arzBrand:SUPW">Super World</string>
+            <string Key="arzIncrementalUOM:FT2">Square Foot</string>
+            <string Key="arzWeightUOM:lb">LB</string>
+            <string Key="arzWeightUOM:LB">Pound</string>
+            <string Key="arzBrand:TGRP">The Group</string>
+            <string Key="_MaterialImageLabels:PrimaryImage">Primary</string>
+            <string Key="arzCourseofAction:ReOrder with Update">Re-Order with Update</string>
+            <string Key="SampleStatus:Not Approved Resubmit">Not Approved-Resubmit</string>
+            <string Key="arzWeightUOM:KG">Kilogram</string>
+            <string Key="arzWeightUOM:kg">KG</string>
+            <string Key="arzTargetIMT:Fully Fashioned">Fully Fashioned Knit</string>
+            <string Key="CommonColor">Common Colour</string>
+            <string Key="arzIncrementalUOM:TON">Ton</string>
+            <string Key="arzBrand:WILD">Wildflower</string>
+            <string Key="arzIncrementalUOM:PC">Piece</string>
+            <string Key="arzMaterialSubclass:Zipper Slider">Zipper Tape (TBD)</string>
+            <string Key="arzBrand:WILF">Wilfred</string>
+            <string Key="arzIncrementalUOM:OZ">Ounce</string>
+            <string Key="arzBrand:COSA">CosaBella</string>
+            <string Key="_PrintSpecificationImageLabels:ColourInfo">Colour Info</string>
+            <string Key="UOM:G">Gram</string>
+            <string Key="UOM:M">Meter</string>
+            <string Key="arzIncrementalUOM:PR">Pair/Set</string>
+            <string Key="arzBrand:TGRB">The Group</string>
+            <string Key="arzBrand:GRLF">GRLFRND</string>
+            <string Key="arzReasonCode:Update - Change Season">Update - Season Change</string>
+            <string Key="arzCOSample:FF Stitch Configuration">FF Stitch/Configuration</string>
+            <string Key="arzPurchaseUOM:EA">Each</string>
+            <string Key="arzPurchaseUOM:DZ">Dozen</string>
+            <string Key="arzConsumptionUOM:kg">KG</string>
+            <string Key="arzConsumptionUOM:KG">Kilogram</string>
+            <string Key="UOM:m">M</string>
+            <string Key="arzModeOfTransport:RA">Rail</string>
+            <string Key="arzReasonCode:Add Print Cancelled">Add - Print Cancelled</string>
+            <string Key="SizeChartPasteSampleActualIndex">Facility Measures Column</string>
+            <string Key="UOM:yd">YD</string>
+            <string Key="UOM:YD">Yard</string>
+            <string Key="SampleDimensionActual">Facility Measures</string>
+            <string Key="UOM:sq ft">SQ FT</string>
+            <string Key="arzBrand:ADID">Adidas</string>
+            <string Key="arzConsumptionUOM:PR">Pair/Set</string>
+            <string Key="arzHouse:Branded">House of Branded</string>
+            <string Key="arzReasonCode:Cancel - Change Season">Update - Change Season</string>
+            <string Key="arzBrand:AGOL">A Gold E</string>
+            <string Key="arzReasonCode:Add Reorder">Add - Reorder</string>
+            <string Key="arzFacilitySubTypeSpecialization:Button Bag Envelope">Button Bag / Envelope</string>
+            <string Key="arzPOMGroup:Bottoms">Bottoms</string>
+            <string Key="arzModeOfTransport:SE">Sea</string>
+            <string Key="arzSupplierMerchType:Accessories - Private Label">Accessories - Exclusive Brand</string>
+            <string Key="arzConsumptionUOM:PC">Piece</string>
+            <string Key="arzConsumptionUOM:pc">PC</string>
+            <string Key="CareSymbolType:Bleach">BLEACH</string>
+            <string Key="arzProgramType:Fabric">Material - Fabric</string>
+            <string Key="CareSymbolType:DRY CLEANING">DRY CLEANING</string>
+            <string Key="arzSupplierClassification:FGS">Finished Goods Supplier</string>
+            <string Key="arzColourStandardProvider:Pantone">Pantone</string>
+            <string Key="CareSymbolType:Wash">WASH</string>
+            <string Key="arzConsumptionUOM:OZ">Ounce</string>
+            <string Key="arzConsumptionUOM:oz">OZ</string>
+            <string Key="arzPOMGroup:Bras">Bras</string>
+            <string Key="arzPurchaseUOM:GRO">Gross</string>
+            <string Key="arzFacilitySubTypeSpecialization:Straw Jute">Straw / Jute</string>
+            <string Key="CareSymbolType:BEFORE WASH">WARNING - BEFORE WASH</string>
+            <string Key="arzSupplierType:Finished Goods">Finished Good</string>
+            <string Key="_StyleImageLabels:Construction6">Construction 6</string>
+            <string Key="_StyleImageLabels:HandSketch">Hand Sketch</string>
+            <string Key="_StyleImageLabels:Construction5">Construction 5</string>
+            <string Key="TestRunStatus:Fail Accept">Fail-Accept</string>
+            <string Key="arzBrand:AZUR">Azure Skies</string>
+            <string Key="_StyleImageLabels:Construction4">Construction 4</string>
+            <string Key="_StyleImageLabels:Construction3">Construction 3</string>
+            <string Key="_StyleImageLabels:Construction9">Construction 9</string>
+            <string Key="_StyleImageLabels:Construction8">Construction 8</string>
+            <string Key="_StyleImageLabels:Construction7">Construction 7</string>
+            <string Key="arzFacilitySubTypeSpecialization:Sock Hosiery Packaging">Sock Hosiery / Packaging</string>
+            <string Key="arzPurchaseUOM:CM">Centimeter</string>
+            <string Key="UOM:gross">Gross</string>
+            <string Key="_MaterialImageLabels:ColourInfo">Colour Info</string>
+            <string Key="arzPurchaseUOM:FOZ">Ounce</string>
+            <string Key="_StyleImageLabels:Construction2">Construction 2</string>
+            <string Key="_StyleImageLabels:Construction1">Construction 1</string>
+            <string Key="arzCOSample:Dye Wash">Dye/Wash</string>
+            <string Key="arzIncrementalUOM:ROL">Roll</string>
+            <string Key="arzIncrementalUOM:KG">Kilogram</string>
+            <string Key="arzWeightUOM:gm">GM</string>
+            <string Key="arzBrand:101B">101</string>
+            <string Key="arzIncrementalUOM:LB">Pound</string>
+            <string Key="arzFacilityCertification:Oeko Tex STeP">Oeko-Tex STeP</string>
+            <string Key="arzReasonCode:Add Program Development">Add - Program Development</string>
+            <string Key="ColorMaterialStatus:Pending">Pending</string>
+            <string Key="arzBrand:SALO">Salomon</string>
+            <string Key="TestRunStatus:Fail">Fail (Cancelled)</string>
+            <string Key="_StyleImageLabels:Detail19">Detail 19</string>
+            <string Key="_StyleImageLabels:Detail18">Detail 18</string>
+            <string Key="arzLibrarySubtype:RM/Textile Graphics">RM Graphic</string>
+            <string Key="DesignIntent_COLOR">Product Colour Image</string>
+            <string Key="_StyleImageLabels:Detail17">Detail 17</string>
+            <string Key="_StyleImageLabels:Detail16">Detail 16</string>
+            <string Key="arzReasonCode:Cancel Function Management">Cancel - Function Management</string>
+            <string Key="arzWeightUOM:GMT">Grams per Linear Meter</string>
+            <string Key="arzBrand:GLDN">Golden</string>
+            <string Key="_StyleImageLabels:FrontBack">Front-Back</string>
+            <string Key="_StyleImageLabels:Detail11">Detail 11</string>
+            <string Key="MaterialMassReplaceColor">Colour</string>
+            <string Key="_StyleImageLabels:Detail10">Detail 10</string>
+            <string Key="arzHouse:TB">House of Babaton</string>
+            <string Key="_StyleImageLabels:Detail15">Detail 15</string>
+            <string Key="_StyleImageLabels:Detail14">Detail 14</string>
+            <string Key="_StyleImageLabels:Detail13">Detail 13</string>
+            <string Key="_StyleImageLabels:Detail12">Detail 12</string>
+            <string Key="arzBrand:GOLD">Goldsign</string>
+            <string Key="arzReasonCode:Cancel Unable to Execute Internal">Cancel - Unable to Execute (Internal)</string>
+            <string Key="arzBrand:CLRK">Clarks</string>
+            <string Key="arzReasonCode:Add Carryover Development">Add - Carryover Development/Update</string>
+            <string Key="arzReasonCode:Cancel Brand Change">Cancel - Brand Change</string>
+            <string Key="UOM:TS">Thousand</string>
+            <string Key="arzFacilityClassification:FGF">Finished Goods Facility</string>
+            <string Key="_StyleImageLabels:Detail20">Detail 20</string>
+            <string Key="arzReasonCode:Cancel Delivery Delay">Cancel - Delivery Delay</string>
+        </Parameter>
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleConfiguration">
+        <Parameter Id="LanguageCode" Type="string" Value="en" />
+        <Parameter Id="Id" Type="string" Value="Types" />
+        <Parameter Id="Map" Type="stringmap">
+            <string Key="MaterialAttributes.Attr.arzSource">Source</string>
+            <string Key="StructureItem.Attr.CntColorway">Number of Colorways</string>
+            <string Key="PrintSpecification.Attr.arzDevelopmentTime">Development Time (min)</string>
+            <string Key="Country.Attr.arzCountryCode2">Country Code</string>
+            <string Key="PrintSpecification.Attr.arzComplexity">Complexity</string>
+            <string Key="DutyRate.Attr.arzPartialCustomsID">Partial Customs ID</string>
+            <string Key="StyleSourcing.Attr.arzSecondarySupplier">FG Alternate Supplier</string>
+            <string Key="ProductSource.Attr.arzCurrency">Currency</string>
+            <string Key="Style.Attr.arzLateCancelled">Late Cancels</string>
+            <string Key="StructureItem.Attr.arzPlannedTotalStyle">Planned Total (Style)</string>
+            <string Key="Collection.Attr.arzPlannedCOColor">Planned CO (S/C)</string>
+            <string Key="ReviewColorway.Name">Colourway Review</string>
+            <string Key="Category2.Attr.arzActualCOEColor">Actual COE (S/C)</string>
+            <string Key="Collection.Attr.ariPlannedCo">Planned CO</string>
+            <string Key="SpecificationSectionItem.Attr.arzArtworkDimensions">Artwork Dimensions (inches)</string>
+            <string Key="Style.Attr.arzBrandEnum">Brand</string>
+            <string Key="StyleSourcing.Attr.arzGradedNestPatternApproved">Graded Nest Pattern Approved</string>
+            <string Key="ColorMaterial.Attr.arzLabDipSampleStatus">Lab Dip Sample Status</string>
+            <string Key="Library.Attr.arzDummyAttribute6">.</string>
+            <string Key="ProductSource.Attr.arzSpecPassDate">Spec Pass Date</string>
+            <string Key="PrintSpecification.Attr.arzGraphicCode">System ID</string>
+            <string Key="Category1.Attr.arzTargetIMU">Target IMU</string>
+            <string Key="Library.Attr.arzDummyAttribute5">.</string>
+            <string Key="Library.Attr.arzDummyAttribute4">.</string>
+            <string Key="Sample.Attr.arzActualSendDatae">Actual Send Date</string>
+            <string Key="Library.Attr.arzDummyAttribute3">.</string>
+            <string Key="DataPackage.Attr.arzTPSupplierName">Tech Pack Supplier</string>
+            <string Key="StyleAttributes.Attr.arzECOMMOnly">ECOMM Only</string>
+            <string Key="Library.Attr.arzDummyAttribute9">.</string>
+            <string Key="Library.Attr.arzDummyAttribute8">.</string>
+            <string Key="Supplier.Attr.arzSupplierMerchType">Merch Type</string>
+            <string Key="MaterialAttributes.Attr.arzMaterialTestValidityPeriod">Testing Validity Period</string>
+            <string Key="SizeChartRevision.Attr.arzTotalDownfillWeightString">Total Downfill Weight</string>
+            <string Key="Library.Attr.arzDummyAttribute7">.</string>
+            <string Key="ColorMaterial.Attr.arzDyeStage">Dye Stage</string>
+            <string Key="ProductSource.Attr.arzPurchaseUOM">Purchase UOM</string>
+            <string Key="Library.Attr.arzDummyAttribute2">.</string>
+            <string Key="Library.Attr.arzDummyAttribute1">.</string>
+            <string Key="Shape.Attr.arzFitClassification">Fit Classification</string>
+            <string Key="ColorMaterial.Name">Coloured Material</string>
+            <string Key="MaterialAttributes.Attr.arzTargetIMTForMaterial">Target IMT for Material</string>
+            <string Key="Library.Attr.arzCancellationDeadline">Cancellation Deadline</string>
+            <string Key="StyleAttributes.Attr.arzChar_IV">Buying ROS Description cannot exceed 22 characters</string>
+            <string Key="MaterialAttributes.Attr.arzIncrementalUOM">Incremental UOM (TBD)</string>
+            <string Key="SupplierItemRevision.Attr.arzCostingCurrency">Currency</string>
+            <string Key="ColorSpecification.Name">Colour Specification</string>
+            <string Key="SupplierRequest.Attr.arzIssuedCounter">Issued Counter</string>
+            <string Key="ProductSource.Attr.arzSampleLeadTime">Sample Lead Time</string>
+            <string Key="Material.Attr.arzMaterialSubCategory">Material Category</string>
+            <string Key="User.Attr.arzDepartment">Department</string>
+            <string Key="ShippingRate.Attr.arzCountryOfOrigin">Country of Origin</string>
+            <string Key="Style.Attr.arzNoActualColorways_TT">All Style Colourways</string>
+            <string Key="StructureItem.Attr.arzLateAddPercentColorway1">(S/C) Late Adds</string>
+            <string Key="UserDefaults.Attr.arzUserDefaultSupplier">User Default Supplier</string>
+            <string Key="MaterialAttributes.Attr.arzPullBottom">Pull Bottom</string>
+            <string Key="StructureItem.Attr.arzLateAddPercentColorway2">(S/C) Late Add % 2</string>
+            <string Key="LookupItem.Attr.arzID">ID</string>
+            <string Key="ColorSpecification.Attr.arzStockTicketDesc_IV">Stock Ticket Description cannot exceed 22 characters</string>
+            <string Key="StructureItem.Attr.arzLateAddPercentColorway3">(S/C) Late Adds %</string>
+            <string Key="Collection.Attr.arzLateAddCountStyle">Late Adds Count</string>
+            <string Key="Document.Attr.arzApparelPattern">Apparel Pattern File</string>
+            <string Key="Colorway.Attr.arzColorwayUID">arzColorwayUID</string>
+            <string Key="SpecificationItemDefinition.Attr.tstConstructionApplication">Construction Application</string>
+            <string Key="StyleAttributes.Attr.arzCAHSCode2">CA HTS Code</string>
+            <string Key="DocumentRevision.Attr.arzValidity">Validity</string>
+            <string Key="Material.Attr.arzHasSupplier_TT">Has Pending or Inactive Supplier, Source is Valid</string>
+            <string Key="StyleAttributes.Attr.arzCAHSCode1">CA HTS Code</string>
+            <string Key="StyleAttributes.Attr.arzStyleConfirmationCounter">Style Confirmation Counter</string>
+            <string Key="ProductSource.Attr.arzDyerName">Dyer Name</string>
+            <string Key="PrintSpecification.Attr.arzInitialSeason">Initial Season</string>
+            <string Key="StyleAttributes.Attr.arzBOMMainMaterial">BOM Main Material</string>
+            <string Key="ColorSpecification.Attr.ColorType">Colour Type</string>
+            <string Key="Sample.Attr.arzSampleTrackingNumber">Sample Tracking Link</string>
+            <string Key="Currency.Attr.arzDescription">Description</string>
+            <string Key="Factory.Attr.arzSocialImpactRating">Social Impact Rating</string>
+            <string Key="StructureItem.Attr.arzLateCancelledPercentStyle">Late Add %</string>
+            <string Key="User.Attr.arzPurchasingGroup">Purchasing Group (TBD)</string>
+            <string Key="Style.Action.Validation__LineBreak__StockTicketDesc">A word on Stock Ticket Description exceeds 12 characters, please add a space to avoid printing issue.</string>
+            <string Key="Category2Attributes.Attr.arzTargetIMURateCA">Target IMU Rate CAD</string>
+            <string Key="StyleAttributes.Attr.arzTargetIMURateUS">Target IMU Rate USD</string>
+            <string Key="ProductSource.Plural">Product Sources</string>
+            <string Key="Style.Attr.arzActualCO">Actual CO</string>
+            <string Key="ThemeMasterSubtypeSettings.Name">C8 Theme Master Type Settings</string>
+            <string Key="MaterialAttributes.Attr.arzBrand">Brand</string>
+            <string Key="Increment.Name">Grade Rule</string>
+            <string Key="StyleAttributes.Attr.arzUSDConfirmedCostLDP">USD Confirmed Cost (LDP)</string>
+            <string Key="Supplier.Attr.arzOwnedProcesses">Owned Processes - Verticality</string>
+            <string Key="ThemeMaster.Name">C8 Theme Masters</string>
+            <string Key="SeasonAttributes.Attr.arzCurrencyTable">P-Rate Currency Table</string>
+            <string Key="StyleAttributes.Attr.arzPartialCustomsDescription">Partial Customs Description</string>
+            <string Key="StyleAttributes.Attr.arzStyleSAPID">SAP ID</string>
+            <string Key="Supplier.Attr.arzSupplierNameLowercase">Supplier Name Lowercase</string>
+            <string Key="PartMaterial.Attr.Comment">Colour Comments</string>
+            <string Key="Supplier.Attr.arzSupplierMainClassification">Classification</string>
+            <string Key="Collection.Attr.arzActualCODColor">Actual COD (S/C)</string>
+            <string Key="PrintSpecification.Attr.arzMarketingDescription">Marketing Description</string>
+            <string Key="Season.Attr.arzPlannedN2Color">Planned N2 (S/C)</string>
+            <string Key="StyleAttributes.Attr.arzCADIMUPct">CA IMU%</string>
+            <string Key="ApparelDimension.Attr.arzPOMGroup">POM Group (TBD)</string>
+            <string Key="Material.Attr.arzMaterialConfirmed">QA Status</string>
+            <string Key="MaterialSample.Attr.arzSampleStatusModifiedDate">Sample Status Modified Date</string>
+            <string Key="ColorMaterial.Attr.arzColorMatSupQuoteRef">Color Material Supplier Quote</string>
+            <string Key="Season.Attr.arzPlannedN1Color">Planned N1 (S/C)</string>
+            <string Key="Category2Attributes.Attr.arzStyleCancelleationDeadline">Style Cancellation Deadline</string>
+            <string Key="Library.Attr.arzNewFunction">NEW Function List (TBD)</string>
+            <string Key="Material.Attr.arzKnitWeaveType">Knit/Weave Type</string>
+            <string Key="SpecificationSectionItem.Attr.arzSupplierCallouts">Supplier Callouts</string>
+            <string Key="Category2.Attr.arzActualCO2">Actual CO Count (Style)</string>
+            <string Key="Category2.Attr.arzDeparmentNumber">Department Number</string>
+            <string Key="LibColorSpecification.Attr.arzPlannedNEWNeutral">Planned NEW Neutral</string>
+            <string Key="SupplierRequest.Attr.arzSeason">Season</string>
+            <string Key="PartMaterial.Attr.arzPositionsComments">Positions/Comments</string>
+            <string Key="Category2.Attr.arzActualN3Color">Actual N3 (S/C)</string>
+            <string Key="SupplierItemRevision.Attr.Colors">Colours</string>
+            <string Key="Material.Attr.Code">Material Code</string>
+            <string Key="ColorMaterial.Attr.arzLabDipSamplesAll">Lab Dip Samples All</string>
+            <string Key="StyleAttributes.Attr.arzAllocation">Allocation</string>
+            <string Key="Season.Attr.Code">SAP ID</string>
+            <string Key="MaterialAttributes.Attr.arzMaterialManagerNotes">Material Manager Notes</string>
+            <string Key="MaterialSample.Attr.arzSampleColour">Sample Colour</string>
+            <string Key="ProductSample.Attr.arzExternalSystemSampleRevision">External System Sample Revision (TBD)</string>
+            <string Key="Category1.Attr.arzActualN3Color">Actual N3 (S/C)</string>
+            <string Key="StyleAttributes.Attr.arzMinorUpdate">Minor Update</string>
+            <string Key="SupplierItemRevision.Attr.arzCostBulk">Cost - Bulk</string>
+            <string Key="Document.Attr.arzCarryoverBoolean">Carryover</string>
+            <string Key="PrintSpecification.Attr.PrintType">Graphic Type</string>
+            <string Key="SupplierItemRevision.Attr.arzFOBFullPrice">Price</string>
+            <string Key="MaterialAttributes.Attr.arzDyeTechnique">Dye Technique</string>
+            <string Key="Style.Attr.arzMaterialSortOrder">Material Sort Order</string>
+            <string Key="StyleAttributes.Attr.arzUSDRetailPrice">Retail Price (USD)</string>
+            <string Key="Category2.Attr.arzActualNEW">Actual NEW (Style)</string>
+            <string Key="DocumentRevision.Attr.arzSeason">Season</string>
+            <string Key="MaterialSample.Attr.arzArtworkGroundColor">Artwork Ground Colour</string>
+            <string Key="StyleAttributes.Attr.arzDevelopmentStatusDate">Development Status Date</string>
+            <string Key="Factory.Attr.arzFacilityCapabilitiy">Capability</string>
+            <string Key="TestRun.Attr.arzMaterialTestType">Test Type</string>
+            <string Key="IncrementDimension.Name">Grading Dimension</string>
+            <string Key="ColorSpecification.Attr.arzDyeStageEdit_TT">For editing only</string>
+            <string Key="IncrementDimension.Attr.Node Name">Grading Dimension</string>
+            <string Key="StyleAttributes.Attr.arzCombinedRetailOpportunity">Total Retail Opportunity</string>
+            <string Key="ProductSource.Attr.arzMateriaColourOptions">Material Colour Options</string>
+            <string Key="ProductSource.Attr.arzTechnicalDirectorSignOff">Technical Sign Off</string>
+            <string Key="Sample.Attr.arzDevelopmentStatus">Development Status</string>
+            <string Key="ColorSpecification.Action.Validation__LineBreak__StockTicketDesc">A word on Stock Ticket Description exceeds 14 characters, please add a space to avoid printing issue.</string>
+            <string Key="SupplierItemRevision.Attr.arzSurchargeMOQColour">Surcharge - MOQ/Colour</string>
+            <string Key="StyleAttributes.Attr.arzUSDFirstCostLDP">LDP First Cost (USD)</string>
+            <string Key="MaterialAttributes.Attr.arzDummyAttribute9">.</string>
+            <string Key="SpecificationSectionItem.Attr.arzMOQColorway">MOQ / Colourway</string>
+            <string Key="MaterialSourcing.Attr.arzSupplierClassification">Supplier Classification</string>
+            <string Key="MaterialAttributes.Attr.arzDummyAttribute8">.</string>
+            <string Key="Season.Attr.arzActualCOColor">Actual CO (S/C)</string>
+            <string Key="Factory.Attr.arzFOBPoint">FOB Point</string>
+            <string Key="MaterialAttributes.Attr.arzDummyAttribute5">.</string>
+            <string Key="Sample.Attr.arzActualSendDate">Actual Send Date</string>
+            <string Key="MaterialAttributes.Attr.arzDummyAttribute4">.</string>
+            <string Key="MaterialAttributes.Attr.arzDummyAttribute7">.</string>
+            <string Key="MaterialAttributes.Attr.arzDummyAttribute6">.</string>
+            <string Key="MaterialAttributes.Attr.arzDummyAttribute1">.</string>
+            <string Key="StyleAttributes.Attr.arzUSDConfirmedDate">USD Confirmed Date</string>
+            <string Key="MaterialAttributes.Attr.arzDummyAttribute3">.</string>
+            <string Key="MaterialAttributes.Attr.arzDummyAttribute2">.</string>
+            <string Key="ColorMaterial.Action.Validation__Unique__Description">The Colour Material Description must be unique</string>
+            <string Key="Material.Attr.arzAritziaMaterialDescription">Material Description (TBD)</string>
+            <string Key="MaterialSample.Attr.arzMaterialSampleOption_IV">Must be a Whole number between 0-25</string>
+            <string Key="SpecificationDataSheetItem.Attr.arzSeasonalPriorityRankUpper">Seasonal Priority Rank - Upper</string>
+            <string Key="StructureItem.Attr.arzActualTotalStyle">Actual Total (Style)</string>
+            <string Key="Category2.Attr.arzActualCON">Actual CON (Style)</string>
+            <string Key="SpecificationDataSheetItem.Attr.arzConversionRate">Conversion Rate</string>
+            <string Key="MaterialAttributes.Attr.arzMicrons">Microns</string>
+            <string Key="ColorMaterial.Attr.arzLayersInColorway"># of Colours in Colourway</string>
+            <string Key="Category2Attributes.Name">Brand Attributes</string>
+            <string Key="Category2.Attr.arzActualCOE">Actual COE (Style)</string>
+            <string Key="SupplierItemRevision.Attr.arzCurrencyRate">Currency Rate</string>
+            <string Key="Category2.Attr.arzActualCOD">Actual COD (Style)</string>
+            <string Key="MaterialSample.Attr.arzMaterialSamplePrefix">Material Sample Prefix</string>
+            <string Key="StyleAttributes.Attr.arzStyleCategory2">Brand</string>
+            <string Key="StyleAttributes.Attr.arzSampleYardageReceivedDate">Sample Yardage Received Date</string>
+            <string Key="ProductSource.Attr.arzSourceClassification">Source Classification</string>
+            <string Key="MaterialSample.Attr.arzMaterialSampleOption">Option</string>
+            <string Key="MaterialSample.Attr.arzSamplesToBeDeleted">Samples To Be Deleted</string>
+            <string Key="CompetitiveStyle.Attr.arzSeasonOfPurchase">Season of Purchase</string>
+            <string Key="LibColorSpecification.Attr.arzLateCancelledElements">Late Cancels</string>
+            <string Key="Category2.Attr.arzActualCOU">Actual COU (Style)</string>
+            <string Key="ColorMaterial.Attr.arzArtworkGroundColor">Artwork Ground Colour</string>
+            <string Key="Supplier.Attr.Suppliers">Related Suppliers</string>
+            <string Key="MaterialAttributes.Attr.arzSampleYardage">Sample Yardage</string>
+            <string Key="LibCareSymbol.Name">Care Label Palette</string>
+            <string Key="SupplierRequest.Attr.arzIssueDate">Issue Date</string>
+            <string Key="Composition.Attr.arzCompositionType">Composition Type</string>
+            <string Key="SpecificationDataSheet.Attr.arzProductSource">Product Source</string>
+            <string Key="Material.Attr.arzMaterialName">Material Name</string>
+            <string Key="ApparelDimension.Attr.arzPOMType">POM Type</string>
+            <string Key="Category2.Attr.arzActualTotalSC">Actual Total (S/C)</string>
+            <string Key="ColorSpecification.Attr.arzNewInSeason">Initial Season</string>
+            <string Key="ProductColor.Plural">Product Colours</string>
+            <string Key="SizeChart.Attr.arzProductAlternative">Product Alternative</string>
+            <string Key="StyleAttributes.Attr.arzTechnicalDevelopmentNotes">Technical Development Notes</string>
+            <string Key="StyleSourcing.Attr.arzLatestSample">Latest Sample</string>
+            <string Key="ProductSource.Attr.arzQAApprovalDate">QA Approval Date</string>
+            <string Key="Category2Attributes.Attr.arzStyleCancellationDeadline">Style Cancellation Deadline</string>
+            <string Key="Season.Attr.arzPlannedN3">Planned N3 (Style)</string>
+            <string Key="StyleAttributes.Attr.arzMultsourced">Multisource</string>
+            <string Key="StyleAttributes.Attr.arzCARetailOpportunity">CA Retail Opportunity (CAD)</string>
+            <string Key="Season.Attr.arzPlannedN1">Planned N1 (Style)</string>
+            <string Key="Season.Attr.arzPlannedN2">Planned N2 (Style)</string>
+            <string Key="ApparelBOMRevision.Attr.arzBOMApproval">BOM Approval</string>
+            <string Key="TestRun.Attr.arzTestClassification">Test Classification</string>
+            <string Key="StyleAttributes.Attr.arzTotalUnits">Total Units (CA + US)</string>
+            <string Key="Factory.Attr.arzFacilityOwnership">Facility Ownership Structure</string>
+            <string Key="MaterialAttributes.Attr.arzArtworkTheme">Artwork Theme</string>
+            <string Key="Collection.Attr.arxActualNEW">Actual NEW (Style)</string>
+            <string Key="Sample.Attr.arzStyleSampleOption_IV">Must be a Whole number between 1-25</string>
+            <string Key="Style.Action.ValidationuniqueSAPID">Hey! You can’t carryover a style into the same season.</string>
+            <string Key="Sample.Attr.arzIssueDate">Issue Date</string>
+            <string Key="Material.Attr.arzSAPID">SAP ID</string>
+            <string Key="Library.Attr.arzLateCancelPercent">Late Cancels %</string>
+            <string Key="StyleAttributes.Attr.arzBuyingItemCode">Item Code</string>
+            <string Key="Category2.Attr.arzActualN2Color">Actual N2 (S/C)</string>
+            <string Key="Factory.Attr.arzScorecardRating">Scorecard Rating</string>
+            <string Key="MaterialAttributes.Attr.arzTargetFabricEdit">Target Material</string>
+            <string Key="Collection.Attr.arzPlannedNEW">Planned NEW (Style)</string>
+            <string Key="Colorway.Action.Validation__ColorSpec__Confirmed">The Colour Spec must be confirmed</string>
+            <string Key="Collection.Attr.arzLateAddCountColorway">(S/C) Late Adds Count</string>
+            <string Key="Supplier.Action.Validation__Unique__SupplierNumber">The SAP ID must be unique</string>
+            <string Key="Category2.Attr.arzPalettes">Palettes</string>
+            <string Key="PrintSpecification.Name">RM Graphics</string>
+            <string Key="ColorSpecification.Action.Validation__Unique__RefColorSpec">Reference Colour Spec must be unique within a RM Graphic</string>
+            <string Key="CompetitiveStyle.Attr.arzUSDRetailPrice">Retail Price (USD)</string>
+            <string Key="MaterialAttributes.Attr.arzSampleYardageOrderedDate">Sample Yardage Ordered</string>
+            <string Key="StyleAttributes.Attr.arzNumberofPlannedColorways"># of Colourways</string>
+            <string Key="StyleAttributes.Attr.arzDescription">Style Name</string>
+            <string Key="ColorColorwayContext.Plural">C8 Theme Colourway Colours</string>
+            <string Key="PartMaterial.Attr.CommonColor">Colour(Common)</string>
+            <string Key="ApparelDimension.Attr.FinalInspectionRelevant">Critical POM</string>
+            <string Key="SupplierItemRevision.Attr.arzConfirmed">Confirmed</string>
+            <string Key="Library.Plural">Palettes</string>
+            <string Key="LibColorSpecification.Attr.arzPlannedCONeutral">Planned CO Neutral</string>
+            <string Key="Collection.Attr.arzActualCOEColor">Actual COE (S/C)</string>
+            <string Key="DocumentRevision.Attr.arzIncludeInDP">Include in Supplier Request</string>
+            <string Key="ColorSpecification.Attr.arzComments">Comments</string>
+            <string Key="MaterialSample.Attr.arzSubmitSize">Submit Size</string>
+            <string Key="MaterialSample.Attr.arzIssueDate">Issue Date</string>
+            <string Key="StyleAttributes.Attr.arzStockTicketDescription">Stock Ticket Description (TBD)</string>
+            <string Key="PrintSpecification.Attr.arzDateFromCTD">Design Pass Date (old)</string>
+            <string Key="DutyRate.Attr.arzDutyUID">Duty Rate UID</string>
+            <string Key="Category2.Attr.arzBrandClassification">Classification</string>
+            <string Key="LibColorSpecification.Attr.arzPlannedTotalFashion">Planned Total Fashion</string>
+            <string Key="CompetitiveStyle.Attr.arzBrand">Brand</string>
+            <string Key="SupplierItemRevision.Attr.arzCurrency">Currency</string>
+            <string Key="SupplierItemRevision.Attr.arzFOBFullPriceUSD">FOB Price (USD)</string>
+            <string Key="DutyRate.Attr.Node Name_IV">HTS Code cannot exceed 17 characters</string>
+            <string Key="IncrementSize.Attr.Node Name">Grading Size</string>
+            <string Key="Material.Attr.arzMaterialConfirmationCounter">QA Approval Counter</string>
+            <string Key="Category1.Attr.arzPlannedN1">Planned N1 (Style)</string>
+            <string Key="Category1.Attr.arzPlannedN2">Planned N2 (Style)</string>
+            <string Key="LookupItem.Attr.arzDrops">Drops</string>
+            <string Key="Category1.Attr.arzPlannedN3">Planned N3 (Style)</string>
+            <string Key="StyleAttributes.Attr.arzTechDeveloper">Tech Developer</string>
+            <string Key="ColorSpecification.Attr.arzColourStandardProvider">Colour Standard Provider</string>
+            <string Key="Season.Attr.arzPlannedCOD">Planned COD (Style)</string>
+            <string Key="StyleSourcing.Attr.arzExFactoryPODate">Ex-Factory PO Date</string>
+            <string Key="StyleAttributes.Attr.arzGraphic_TT">To Be Deleted</string>
+            <string Key="Supplier.Attr.arzSupplierType">Supplier Type</string>
+            <string Key="DutyRate.Attr.arzCAHSCode">CA HTS Code</string>
+            <string Key="StyleAttributes.Attr.arzUSConfirmedCost">LDP Confirmed Cost (USD)</string>
+            <string Key="Category2.Attr.arzBranded">Branded</string>
+            <string Key="MaterialAttributes.Attr.arzHeadOrSlider">Head or Slider</string>
+            <string Key="TestRunRevision.Attr.arzSeason">Season</string>
+            <string Key="StyleAttributes.Attr.arzProdNotesComments">Production Notes</string>
+            <string Key="Collection.Attr.arzPlannedCOD">Planned COD (Style)</string>
+            <string Key="MaterialSample.Attr.arzSpecPassCategory">Spec Pass Category (TBD)</string>
+            <string Key="LibColorSpecification.Attr.arzLateAddedElements">Late Adds</string>
+            <string Key="Style.Attr.arzInactivatedDate">Inactivated Date</string>
+            <string Key="MaterialAttributes.Attr.arzYarnType">Yarn Type (TBD)</string>
+            <string Key="PrintSpecification.Attr.arzNoOfColorways"># of Colourways</string>
+            <string Key="StyleAttributes.Attr.arzDevelopmentStatus">Development Status</string>
+            <string Key="ThemeMasterSubtypeSettings.Plural">C8 Theme Master Type Settings</string>
+            <string Key="Category2.Attr.arzPlannedCODColor">Planned COD (S/C)</string>
+            <string Key="SpecificationSectionItem.Attr.arzBulkLeadTimePrinted">Bulk Lead Time - Printed (Days)</string>
+            <string Key="Supplier.Action.Validation__Unique__SAPID">SAP ID must be unique</string>
+            <string Key="SupplierItemRevision.Attr.arzMOQOrder">MOQ/Order</string>
+            <string Key="Factory.Attr.arzCertification">Certification</string>
+            <string Key="StyleAttributes.Attr.arzLateAdd">Late Add</string>
+            <string Key="MaterialPlanPlacementColorException.Name">Coloured Material Exception</string>
+            <string Key="ColorMaterial.Action.Validation__Unique_NodeName">The Colour Material Name must be unique</string>
+            <string Key="ColorSpecification.Action.Validation__Unique__ColorSpecificationName">The Colour Name must be unique</string>
+            <string Key="Factory.Attr.arzAvgLeadTimeBulk">Avg. Lead Time - Bulk (days)</string>
+            <string Key="TestSpec.Attr.LatestRevision">Revision</string>
+            <string Key="MaterialAttributes.Attr.arzAverageSkinSize">Average Skin Size</string>
+            <string Key="Season.Attr.arzActualCO">Actual CO (Style)</string>
+            <string Key="StyleAttributes.Attr.arzMarkerEfficiency">Marker Efficiency</string>
+            <string Key="ColorMaterial.Attr.arzProductionRun">Production Run</string>
+            <string Key="Season.Attr.arzPlannedNEW">Planned NEW (Style)</string>
+            <string Key="Collection.Attr.arzLateCancelledCountColorway">(S/C) Late Cancels Count</string>
+            <string Key="MaterialAttributes.Attr.arzTargetIMT">Target IMT</string>
+            <string Key="Collection.Attr.arzActualN2Color">Actual N2 (S/C)</string>
+            <string Key="Category2.Attr.arzHouseEnum">House</string>
+            <string Key="Style.Attr.arzStyleName">Style Name</string>
+            <string Key="Category2.Plural">Brands</string>
+            <string Key="Library.Attr.arzDelta">Variance</string>
+            <string Key="Supplier.Attr.arzSREmail">Send SRE Email</string>
+            <string Key="MaterialSample.Attr.arzCounterDevIndicator">Counter-Development Indicator</string>
+            <string Key="Style.Attr.ProductType">Type</string>
+            <string Key="Style.Attr.arzGraphicOrCOTemplate">arzGraphicOrCOTemplate</string>
+            <string Key="StyleAttributes.Attr.arzStyleClassification">Style Classification</string>
+            <string Key="Library.Attr.arzFunction">Function</string>
+            <string Key="SizeChartDimension.Attr.Actual">POM Code</string>
+            <string Key="MaterialPlanPlacementColorway.Name">C8 Theme Colorway Material</string>
+            <string Key="StyleAttributes.Attr.arzColourBlock">Colour Block</string>
+            <string Key="StyleAttributes.Attr.arzCoverage">Coverage</string>
+            <string Key="MaterialSample.Attr.arzNumOfEnds"># of Ends</string>
+            <string Key="Library.Attr.arzBrand">Brand</string>
+            <string Key="Collection.Attr.arxActualNEW_TT">Sum of Actual N1 + Actual N2 + Actual N3</string>
+            <string Key="ColorSpecification.Attr.arzColourFamily">Colour Classification</string>
+            <string Key="ColorSpecification.Attr.arzColorStandardReference">Color Standard Reference</string>
+            <string Key="ProductSource.Attr.arzYarnConditionalWeightChange">Conditional Weight %</string>
+            <string Key="MaterialAttributes.Attr.arzGrading">Grading</string>
+            <string Key="Factory.Attr.arzCountryName">Country Name</string>
+            <string Key="StyleAttributes.Attr.arzAverageROS">Average ROS</string>
+            <string Key="Library.Attr.arzCOFunctionActual">Actual CO</string>
+            <string Key="StructureItem.Attr.arzLateCancelledCountColorway">(S/C) Late Cancels</string>
+            <string Key="Category1.Attr.arzActualCODColor">Actual COD (S/C)</string>
+            <string Key="ProductSource.Attr.arzYarnCountryofOrigin">Yarn Country of Origin</string>
+            <string Key="Shape.Attr.arzMainMaterial">Main Material</string>
+            <string Key="MaterialSample.Attr.arzDyeStage">Garment Dye Type</string>
+            <string Key="Category2.Attr.arzActualNRColor">Actual NR (S/C)</string>
+            <string Key="Library.Attr.arzLateAddsCount">Late Adds Count</string>
+            <string Key="Category2.Attr.arzPlannedTotalStyle">Planned Total (Style)</string>
+            <string Key="Collection.Attr.arzPlannedCO">Planned CO (Style)</string>
+            <string Key="StyleAttributes.Attr.arzCourseofAction">Course of Action</string>
+            <string Key="Collection.Attr.arzLateAddPercent">Late Add %</string>
+            <string Key="LibMaterial.Attr.arzLateCancelledElements">Late Cancels</string>
+            <string Key="PrintSpecification.Attr.arzSubTypeMethod">Sub-Type</string>
+            <string Key="Factory.Attr.Suppliers">Supplier</string>
+            <string Key="Category1.Attr.arzBrandNumber_IV">This attribute is limited to 2 characters.</string>
+            <string Key="Factory.Action.Validation__Unique__FactorySAPID">The SAP ID must be unique</string>
+            <string Key="Season.Attr.arzPlannedCODColor">Planned COD (S/C)</string>
+            <string Key="ProductSource.Attr.arzDesignStatusQAStatus">Design Status + QA Status</string>
+            <string Key="ProductSource.Attr.arzMaterialProvider">Material Provider</string>
+            <string Key="Material.Attr.arzReadyForConfirmation">Ready for Confirmation</string>
+            <string Key="Collection.Attr.arzLateCancelledPercent">Late Cancels %</string>
+            <string Key="CompetitiveStyle.Attr.arzReasonForPurchase">Reason for Purchase</string>
+            <string Key="Category2Attributes.Attr.arzTargetIMURateUS">Target IMU Rate USD</string>
+            <string Key="StyleAttributes.Attr.arzStyleYield">Style Yield</string>
+            <string Key="Collection.Attr.arzActualTotalSC">Actual Total (S/C)</string>
+            <string Key="Library.Attr.arzCOFunctionPlanned">Planned CO</string>
+            <string Key="StyleAttributes.Attr.arzTargetIMURateCA">Target IMU Rate CAD</string>
+            <string Key="ApparelDimension.Attr.arzPOMGroupList">POM Group</string>
+            <string Key="ProductSource.Attr.arzSpinnerName">Spinner Name</string>
+            <string Key="Material.Attr.arzMaterialUID">Material UID</string>
+            <string Key="ColorSpecification.Attr.arzColourTestRank">Colour Test Rank</string>
+            <string Key="Season.Attr.arzYear">Year</string>
+            <string Key="StyleAttributes.Attr.arzCOSampleRequired">CO Sample Required</string>
+            <string Key="StyleAttributes.Attr.arzPurchasingStatus">Purchasing Status</string>
+            <string Key="Season.Attr.arzActualTotalSC">Actual Total (S/C)</string>
+            <string Key="StyleAttributes.Attr.arzCADConfirmed">Confirmed Retail (CAD)</string>
+            <string Key="ColorSpecification.Attr.arzSource">Source</string>
+            <string Key="Collection.Attr.arzActualCOUColor">Actual COU (S/C)</string>
+            <string Key="ProductSource.Attr.arzDevelopmentStatus">Approval Status</string>
+            <string Key="Collection.Attr.arzActiveStyle">Active Style</string>
+            <string Key="MaterialAttributes.Attr.arzMaterialManager">Material Manager</string>
+            <string Key="Factory.Plural">Facilities</string>
+            <string Key="Colorway.Attr.arzInactivatedDate">Inactivated Date</string>
+            <string Key="QualityAdmin.View.TestRunTemplates">Test Protocol Templates</string>
+            <string Key="Category2Attributes.Attr.arzPassDeadline">Style Pass Deadline</string>
+            <string Key="LibMaterial.Attr.arzBrand">Brand</string>
+            <string Key="MaterialAttributes.Attr.arzPrintTechnique">Print Technique</string>
+            <string Key="ColorwayAttributes.Attr.arzColorwayConfirmationCounter">Colourway Confirmation Counter</string>
+            <string Key="Style.Attr.arzStyleAddDate">Style Add Date</string>
+            <string Key="ProductSample.Attr.arzSampleRevision">Sample Revision</string>
+            <string Key="SupplierItemRevision.Attr.arzPricePerIncrement">Price Per Increment</string>
+            <string Key="SupplierItemRevision.Attr.arzFOBFullPriceUSD_TT">Per Purchase UOM in USD</string>
+            <string Key="StyleAttributes.Attr.arzChar">Buying ROS Description</string>
+            <string Key="Style.Attr.arzColorSpecImages">Colour Spec Images</string>
+            <string Key="StyleAttributes.Attr.arzLiability">Liability</string>
+            <string Key="MaterialSample.Attr.arzMaterialType">Material Type</string>
+            <string Key="Library.Attr.arzLateAdds">Late Adds</string>
+            <string Key="Collection.Attr.arzActualCONColor">Actual CON (S/C)</string>
+            <string Key="SpecificationItemDefinition.Attr.tstISONumber">ISO Number</string>
+            <string Key="Category1.Attr.arzPlannedCOColor">Planned CO (S/C)</string>
+            <string Key="Material.Attr.arzQAStatus">QA Status</string>
+            <string Key="SizeChartAdmin.View.SizeChartSpecs">Size Chart Components</string>
+            <string Key="SupplierItemRevision.Attr.arzWashFinish">Wash/Finish</string>
+            <string Key="TestRun.Attr.Description">Description</string>
+            <string Key="Factory.Attr.arzMonthlyCapacity">Capacity Monthly</string>
+            <string Key="ColorColorwayContext.Name">C8 Theme Colourway Colour</string>
+            <string Key="ProductSource.Attr.arzSampleCost">Sample Price</string>
+            <string Key="Supplier.Attr.arzCurrency">Currency</string>
+            <string Key="ApparelDimension.Attr.arzLegacyPOMDescription">Legacy POM Description</string>
+            <string Key="MaterialAttributes.Attr.arzDevApprovalDueDate">Development Approval Due Date</string>
+            <string Key="SupplierItemRevision.Attr.SampleCost">Sample Price</string>
+            <string Key="ColorMaterial.Attr.arzColourMaterialSeasons">Colour Material Seasons</string>
+            <string Key="Material.Attr.arzMaterialConfirmedDate">QA Approval Date</string>
+            <string Key="Season.Attr.arzPlannedN3Color">Planned N3 (S/C)</string>
+            <string Key="StyleSourcing.Attr.arzDesignatedSource_TT">FG Designated Supplier + FG Designated Facility</string>
+            <string Key="Factory.Attr.arzFacilityMainClassification">Classification</string>
+            <string Key="StyleAttributes.Attr.arzUSDConfirmed">Confirmed Retail (USD)</string>
+            <string Key="PrintSpecification.Plural">RM Graphics</string>
+            <string Key="StyleAttributes.Attr.arzSizeBlock">Block</string>
+            <string Key="SupplierItemRevision.Attr.arzPrintTechnique">RM Graphic Print Technique</string>
+            <string Key="FactoryComplianceItem.Plural">Facility Compliance Items</string>
+            <string Key="Collection.Attr.arzLateAddPercentColor">(S/C) Late Adds %</string>
+            <string Key="Style.Attr.Theme">C8 Theme</string>
+            <string Key="ProductSource.Attr.arzCuttableWidth">Cuttable Width (TBD)</string>
+            <string Key="PrintSpecification.Attr.arzArtworkTheme">Artwork Theme</string>
+            <string Key="MaterialAttributes.Attr.Features">Features</string>
+            <string Key="SupplierItemRevision.Attr.arzBulkLeadTimeGreige">Bulk Lead Time - Greige/RM OH (days)</string>
+            <string Key="StyleSourcing.Attr.arzDesignatedFactories">Facility Allocation</string>
+            <string Key="StyleAttributes.Attr.arzROSStoreRetail">ROS/Store Retail $</string>
+            <string Key="Season.Attr.arzActualCODColor">Actual COD (S/C)</string>
+            <string Key="Color.Name">Colour</string>
+            <string Key="Collection.Attr.arzExampleStyleCount">Example Style Count</string>
+            <string Key="SupplierRequestTemplate.Attr.arzPrefix_TT">Used for generating SR name</string>
+            <string Key="DataPackageTemplate.Name">Tech Pack Template</string>
+            <string Key="StyleAttributes.Attr.arzUSDMarginRetail75Pct">Retail Price - 75% IMU (USD)</string>
+            <string Key="Colorway.Attr.arzMatchesTargetFabricColoredMaterial">Matches Target Fabric Coloured Material</string>
+            <string Key="Category2.Attr.arzPlannedNEWColor">Planned NEW (S/C)</string>
+            <string Key="ProductSource.Attr.arzExFactoryPODate">Handover Date</string>
+            <string Key="StyleAttributes.Attr.arzCADCurrentCost">Current Cost (CAD)</string>
+            <string Key="MaterialTypeConfiguration.Attr.arzDefaultConsumptionUOM">Default Consumption UOM</string>
+            <string Key="ApparelDimension.Attr.Description">POM Description</string>
+            <string Key="StyleAttributes.Attr.arzTotalRMQty">Total RM Quantity / Style</string>
+            <string Key="Collection.Plural">Departments</string>
+            <string Key="Style.Attr.arzNoActualColorways"># Actual Colourways</string>
+            <string Key="Style.Attr.arzNumberofActiveColorways"># Colourways</string>
+            <string Key="MaterialAttributes.Attr.Functions">Functions</string>
+            <string Key="ColorSpecification.Attr.arzReferenceColorSpec">Reference Colour Spec</string>
+            <string Key="Category2.Attr.arzActualCO">Actual CO (Style)</string>
+            <string Key="StructureItem.View.ProductSources">Product Sources</string>
+            <string Key="ProductSource.Attr.arzColourCardAvailable">Colour Card Available</string>
+            <string Key="FactoryReviewTemplate.Name">FacilityReviewTemplate</string>
+            <string Key="ProductSource.Attr.arzFabricWidthUOM">Cuttable Width UOM</string>
+            <string Key="StyleAttributes.Attr.arzStartShipDateUS">Start Ship Date (US)</string>
+            <string Key="SpecificationDataSheet.Attr.arzProductAlternative">Product Alternative</string>
+            <string Key="PrintSpecification.Attr.arzSource">Source</string>
+            <string Key="ColorSpecification.Attr.arzColourStatusPrevious">arzColourStatusPrevious</string>
+            <string Key="Category1.Attr.arzPlannedTotalStyle">Planned Total (Style)</string>
+            <string Key="Season.Attr.arzActualN2Color">Actual N2 (S/C)</string>
+            <string Key="StyleAttributes.Attr.arzFit">Fit</string>
+            <string Key="Theme.Plural">C8 Themes</string>
+            <string Key="SizeChartReviewDimension.Attr.Actuals">Aritzia Measures</string>
+            <string Key="LookupItem.Attr.arzProgramType">Program Type</string>
+            <string Key="StyleAttributes.Attr.arzStylePerformance">Style Performance</string>
+            <string Key="Supplier.Action.Validation__Unique__SupplierName">The Supplier name must be unique</string>
+            <string Key="ThemeProductAlternative.Name">C8 Theme Product Alternative</string>
+            <string Key="SupplierRequest.Attr.arzExpectedDate">Expected Date</string>
+            <string Key="Category1Attributes.Attr.arzTargetIMURateCA">Target IMU Rate CAD</string>
+            <string Key="ColorMaterial.Attr.arzColorMatConfirmationCounter">Color Material Confirmation Counter</string>
+            <string Key="TestRun.Plural">Test Protocols</string>
+            <string Key="PrintSpecification.Attr.arzMethod">Method</string>
+            <string Key="MaterialSample.Attr.arzProductionRun">Production Run</string>
+            <string Key="StructureItem.Attr.arzPlannedTotalSC">Planned Total (S/C)</string>
+            <string Key="MaterialSample.Attr.arzMaterialPlaceholder">Material Placeholder</string>
+            <string Key="StyleAttributes.Attr.arzDrops">Drops</string>
+            <string Key="StyleAttributes.Attr.arzRise">Rise</string>
+            <string Key="Style.Attr.Description">Style Name</string>
+            <string Key="PrintSpecification.Attr.arzGraphicType">Graphic Type</string>
+            <string Key="Style.Attr.arzStockTicketDesc">Stock Ticket Description</string>
+            <string Key="MaterialAttributes.Attr.arzSampleYardageReceivedDate">Sample Yardage Received</string>
+            <string Key="MaterialAttributes.Attr.arzYarnTypeSelection">Yarn Type</string>
+            <string Key="Factory.Attr.PortOfOrigin">Facility FOB Point</string>
+            <string Key="StyleAttributes.Attr.arzLength">Length</string>
+            <string Key="PrintSpecification.Attr.arzStatus">Status</string>
+            <string Key="Material.Action.Validation__Unique__MaterialBusinessID">The Material Code must be unique or blank</string>
+            <string Key="ReviewColorway.Plural">Colourway Reviews</string>
+            <string Key="Collection.Name">Department</string>
+            <string Key="TestRun.Attr.LatestRevision">Revision</string>
+            <string Key="Supplier.Attr.arzInitialYearString">Initial Year with Aritzia</string>
+            <string Key="Style.Attr.arzBrand">Brand (new)</string>
+            <string Key="Collection.Attr.arzActualCOColorTotal">Actual CO (S/C)</string>
+            <string Key="StyleAttributes.Attr.arzExchangeRateUSDtoCAD">Exchange Rate USD to CAD</string>
+            <string Key="StyleAttributes.Attr.arzUSHSCode">HTS Partial Custom ID</string>
+            <string Key="ShippingRate.Attr.Rate">Freight Rate</string>
+            <string Key="StyleSourcing.Attr.arzSecondarySource_TT">FG Secondary Supplier + FG Secondary Facility</string>
+            <string Key="MaterialAttributes.Attr.arzBrand2">Brand</string>
+            <string Key="ProductSource.Attr.arzFabricWidth">Cuttable Width</string>
+            <string Key="StructureItem.Attr.arzActualTotalSC">Actual Total (S/C)</string>
+            <string Key="Season.Attr.arzPlannedCOColor">Planned CO (S/C)</string>
+            <string Key="ColorMaterial.Attr.arzColouredMaterial_IV">Supplier Colour Code cannot exceed 19 characters.</string>
+            <string Key="Category1.Attr.arzPlannedCODColor">Planned COD (S/C)</string>
+            <string Key="MaterialSample.Attr.arzSampleTrackingNo">Sample Tracking #</string>
+            <string Key="PrintSpecification.Attr.arzTechTextileDesigner">Tech Textile Designer</string>
+            <string Key="IncrementSize.Name">Grading Size</string>
+            <string Key="Style.Attr.arzLateAdd">Late Adds</string>
+            <string Key="Collection.Attr.arzDepartmentNumber">Department Number</string>
+            <string Key="StyleSourcing.Attr.arzTechnicalDirectorSignOff">Technical Director Sign Off</string>
+            <string Key="PrintSpecification.Attr.arzActive">Active</string>
+            <string Key="Collection.Attr.arzActualNRColor">Actual NR (S/C)</string>
+            <string Key="LibColorSpecification.Name">Colour Specification Palette</string>
+            <string Key="SupplierItemRevision.Attr.arzQuoteComments">ATZ Comments</string>
+            <string Key="Category1.Attr.arzActualNEWColor">Actual NEW (S/C)</string>
+            <string Key="Sample.Attr.arzATZComments">ATZ Comments</string>
+            <string Key="ProductSource.Attr.arzSupplierRecommendedCare">Supplier Recommended Care</string>
+            <string Key="IncrementDimension.Attr.arzIncrementDimUID">IncrementDimUID</string>
+            <string Key="SizeChartReviewRevision.Attr.arzFitModel">Fit Model</string>
+            <string Key="SpecificationSectionItem.Attr.arzStrikeOffLeadTime">Strike-off Lead Time (Days)</string>
+            <string Key="MaterialAttributes.Attr.arzMaterialGroup">Group</string>
+            <string Key="Material.Attr.Description">Material Description</string>
+            <string Key="Sample.Attr.arzStyleSampleOption">Option (TBD)</string>
+            <string Key="ColorMaterial.Attr.arzReadyForConfirmation">Ready For Confirmation</string>
+            <string Key="MaterialAttributes.Attr.arzFinishWash">Finish / Wash</string>
+            <string Key="Material.Attr.arzMaterialConfirmationStatus">QA Approval Criteria</string>
+            <string Key="MaterialAttributes.Attr.arzSpinningMachineType">Spinning Machine Type</string>
+            <string Key="SupplierItem.Attr.arzATZQuoteComments">Quote Notes</string>
+            <string Key="SupplierItemRevision.Attr.arzBulkCost">Bulk Cost</string>
+            <string Key="StyleAttributes.Attr.arzFullyFashionedConfig">FF Configuration</string>
+            <string Key="SizeChartReviewRevision.Attr.arzFitDate">Fit Date</string>
+            <string Key="StyleAttributes.Attr.arzSubclass">Sub-Class</string>
+            <string Key="LibColorSpecification.View.ColorCard">Gallery</string>
+            <string Key="StyleSourcing.Attr.DesignatedProductSource">FG Designated Supplier</string>
+            <string Key="StructureItem.Attr.arzLateCancelledCountStyle">Late Cancels</string>
+            <string Key="MaterialAttributes.Attr.arzMarketingDescription">Marketing Description</string>
+            <string Key="StructureItem.Attr.arzLateCancelledStylePercent">Late Cancels %</string>
+            <string Key="Factory.Attr.arzFacilityAnnualCapacity">Annual Capacity</string>
+            <string Key="CareSymbol.Attr.arzOkForStyle">Ok for Style</string>
+            <string Key="LibColorSpecification.Attr.arzNewFunctionPlanned">Planned NEW</string>
+            <string Key="Style.Attr.arzStyleDescription_IV">This attribute is limited to 40 characters</string>
+            <string Key="Collection.Attr.arzLateAddPercentColorway">(S/C) Late Adds % (TBD)</string>
+            <string Key="ProductColorShipment.Plural">Colour/Size Breakdowns</string>
+            <string Key="Category1.Attr.arzActualN1Color">Actual N1 (S/C)</string>
+            <string Key="ColorMaterial.Plural">Coloured Materials</string>
+            <string Key="Collection.Attr.CntStyle">Number of Styles</string>
+            <string Key="ProductSource.Attr.arzBulkLeadTimeNoGreige">TBD Bulk Lead Time - No Greige (Days)</string>
+            <string Key="SpecificationSectionItem.Attr.arzMOQTotal">MOQ Total</string>
+            <string Key="Season.Attr.arzActualNEWColor">Actual NEW (S/C)</string>
+            <string Key="Category2.Attr.arzPlannedN1Color">Planned N1 (S/C)</string>
+            <string Key="StyleAttributes.Attr.arzUSDCurrentCost">Current Cost (USD)</string>
+            <string Key="Factory.Attr.arzTurnoverPreviousYear">Turnover in  USD (Previous Year)</string>
+            <string Key="Supplier.Attr.arzSupplierPaymentTerms">Payment Terms</string>
+            <string Key="CareSymbol.Attr.arzCareLabelRank">Care Label Rank</string>
+            <string Key="MaterialPlanPlacementColorway.Plural">C8 Theme Colorway Materials</string>
+            <string Key="Factory.Attr.arzFacilityShippingTerms">Shipping Terms</string>
+            <string Key="StyleSourcing.Attr.arzPIDirectorSignOff">PI Director Sign Off</string>
+            <string Key="ProductSource.Attr.arzFGSupplierSourced">FG Supplier Sourced</string>
+            <string Key="Supplier.Attr.Node Name">Supplier Name</string>
+            <string Key="Style.Attr.ProductionColorways">ProductionColourways</string>
+            <string Key="Style.Attr.Node Name">Style #</string>
+            <string Key="StyleAttributes.Attr.arzMainMaterialPalettesMatching">Target Material Palettes Matching?</string>
+            <string Key="ColorwayAttributes.Attr.arzDrops">Drops</string>
+            <string Key="StyleAttributes.Attr.arzStyeConfirmation">Style Confirmation</string>
+            <string Key="ColorSpecification.Attr.arzArtworkGroundColour">Artwork Ground Colour</string>
+            <string Key="StructureItem.Attr.CntStyle">Number of Styles</string>
+            <string Key="SpecificationSectionItem.Attr.arzSetUpChargeWaived">Set Up Charge Waived if Ordered</string>
+            <string Key="DocumentRevision.Attr.arzExpirationDate">Expiration Date</string>
+            <string Key="StyleAttributes.Attr.arzDutyFreeIndicator">Duty Free Indicator</string>
+            <string Key="StyleAttributes.Attr.arzBodyLength">Body Length</string>
+            <string Key="ColorSpecification.Attr.Description">Colour Description</string>
+            <string Key="Material.Attr.Node Name">Display Name</string>
+            <string Key="Collection.Attr.arzActualN3Color">Actual N3 (S/C)</string>
+            <string Key="Factory.Attr.arzHiggIndexValue">Higg Index Value</string>
+            <string Key="Colorway.Attr.arzStylingSample">Styling Sample</string>
+            <string Key="Collection.Attr.arzActualCOU">Actual COU (Style)</string>
+            <string Key="SupplierItemRevision.Attr.MOQperColor">MOQ/Colour</string>
+            <string Key="DutyRate.Attr.Node Name">HTS Code</string>
+            <string Key="ColorMaterial.Attr.arzAssociatedColours">Associated Colours</string>
+            <string Key="Collection.Attr.arzActualCON">Actual CON (Style)</string>
+            <string Key="SupplierItemRevision.Attr.arzCostByColourway">Cost - by Colourway</string>
+            <string Key="MaterialAttributes.Attr.arzCTDOwner">CTD Owner</string>
+            <string Key="Category2Attributes.Attr.arzBrandPalettes">Brand Palettes</string>
+            <string Key="MaterialAttributes.Attr.arzLogoed">Logo</string>
+            <string Key="Collection.Attr.arzActualCOE">Actual COE (Style)</string>
+            <string Key="StyleAttributes.Attr.arzRetailConfCriteria">Retail Confirmation Criteria</string>
+            <string Key="Collection.Attr.arzActualCOD">Actual COD (Style)</string>
+            <string Key="Style.Attr.arzNumberofActiveColorways_TT">Active Style Colourways only</string>
+            <string Key="Material.Attr.arzBusinessId">Business ID</string>
+            <string Key="MaterialSample.Attr.arzExpectedDate">Expected Date</string>
+            <string Key="Category2.Attr.arzTargetLaunchWeek">Target Launch Week</string>
+            <string Key="ColorMaterial.Attr.arzNodeNameNoHyperlink">Color Material</string>
+            <string Key="Category2.Attr.arzActualCOColor">Actual CO (S/C)</string>
+            <string Key="Season.Attr.arzPlannedTotalSC">Planned Total (S/C)</string>
+            <string Key="Style.Attr.arzStyleCopyTemplate">Style Copy Template</string>
+            <string Key="StyleAttributes.Attr.arzHSCodeConfirmed">HTS Code Confirmed</string>
+            <string Key="TestRun.Attr.arzDescription">Description (TBD)</string>
+            <string Key="StyleAttributes.Attr.arzNodeName">Description</string>
+            <string Key="Collection.Attr.arzActualCO2">Actual CO Count (Style)</string>
+            <string Key="Theme.Attr.arzBrand">Brand</string>
+            <string Key="PartMaterial.Attr.arzMatPurchaseYield">Material Purchase UOM Yield</string>
+            <string Key="Season.Attr.arzPlannedTotalStyle">Planned Total (Style)</string>
+            <string Key="ColorwaySettings.Name">Colourway Settings</string>
+            <string Key="Library.Attr.arzLateAddsPercent">Late Adds %</string>
+            <string Key="StyleAttributes.Attr.arzCommodityEnum">Commodity</string>
+            <string Key="MaterialSample.Attr.arzGauge">Gauge</string>
+            <string Key="ProductSource.Attr.arzBulkLeadTimeGreige">TBD Bulk Lead Time - Greige/RM (Days)</string>
+            <string Key="Category1.Attr.arzPlannedTotalSC">Planned Total (S/C)</string>
+            <string Key="SeasonAttributes.Attr.arzEURO2USD">EURO to USD Rate</string>
+            <string Key="ProductSource.Attr.arzSampleOrderMinimum">Sample Order Minimum</string>
+            <string Key="StyleAttributes.Attr.arzYield">Yield</string>
+            <string Key="Category1.Attr.arzPlannedN2Color">Planned N2 (S/C)</string>
+            <string Key="Supplier.Attr.arzSupplierLegalName">Supplier Legal Name</string>
+            <string Key="SupplierItemRevision.Attr.arzCostTerms">Terms</string>
+            <string Key="Style.Attr.arzLateCancelCountColorway">(S/C) Late Cancels Count</string>
+            <string Key="Material.Attr.arzCodeLowercase">Material Code Lowercase</string>
+            <string Key="Increment.Plural">Grade Rules</string>
+            <string Key="StyleAttributes.Attr.arzCurrencyUS">FOB Cost Currency US</string>
+            <string Key="SpecificationSectionItem.Attr.arzDyeTypes">Dye Types</string>
+            <string Key="ColorSpecification.Plural">Colour Specifications</string>
+            <string Key="Collection.Attr.arzPlannedN1">Planned N1 (Style)</string>
+            <string Key="LookupItem.Attr.arzMaterialSubtypes">Material Subtypes</string>
+            <string Key="DutyRate.Attr.Description">Description</string>
+            <string Key="Collection.Attr.arzPlannedN3">Planned N3 (Style)</string>
+            <string Key="SampleDimensions.Attr.DimensionActuals">Facility Measures</string>
+            <string Key="ProductSource.Attr.arzPIDirectorSignOff">PI Director Sign Off</string>
+            <string Key="Collection.Attr.arzPlannedN2">Planned N2 (Style)</string>
+            <string Key="StyleAttributes.Attr.arzTechDesigner">Tech Designer</string>
+            <string Key="MaterialTypeConfiguration.Attr.arzSupplierClassification">Supplier Classification</string>
+            <string Key="FactoryComplianceItem.Name">Facility Compliance Item</string>
+            <string Key="Collection.Attr.arzActualNEW">Actual NEW (Style)</string>
+            <string Key="Collection.Attr.arzActualCOColor">Actual CO Count (Colourway)</string>
+            <string Key="Library.Attr.arzTotalFunctionPlanned">Planned Total</string>
+            <string Key="SupplierItemRevision.Attr.UOM">UOM</string>
+            <string Key="Collection.Attr.arzActualNEW_TT">Includes NEW</string>
+            <string Key="MaterialSample.Attr.arzSubmitQuality">Submit Quality</string>
+            <string Key="Category1.Attr.arzPlannedNEWColor">Planned NEW (S/C)</string>
+            <string Key="ShippingPort.Attr.arzShippingPortUID">Shipping Port UID</string>
+            <string Key="MaterialAttributes.Attr.arzComplexity">Complexity</string>
+            <string Key="LookupItem.Attr.arzPartialCustomsID_IV">This attribute is limited to 18 characters</string>
+            <string Key="LibMaterial.Attr.arzNewFunctionActual">Actual NEW</string>
+            <string Key="ProductSource.Attr.arzICIPillBoxMethod">ICI Pill Box Method</string>
+            <string Key="SupplierItemRevision.Attr.arzDevelopmentMouldSurcharge">Development/Mould Fee</string>
+            <string Key="Factory.Attr.State">State</string>
+            <string Key="MaterialAttributes.Attr.arzSAP">SAP</string>
+            <string Key="SpecificationDataSheet.Attr.arzSeasons">Seasons</string>
+            <string Key="Supplier.Attr.arzMatrixClassification">Matrix Classification</string>
+            <string Key="Category2.Attr.arzStyleType">Style Type</string>
+            <string Key="MaterialAttributes.Attr.arzYarnCount">Knit / Weave Type (TBD)</string>
+            <string Key="StyleAttributes.Attr.arzUSDGuesstimateCost">LDP Guesstimate Cost (USD)</string>
+            <string Key="StyleAttributes.Attr.arzCombinedRetailOpportunity_TT">CA Retail + (US Retail * FP Rate)</string>
+            <string Key="ProductSource.Attr.arzIncrementalUnits">Incremental Units</string>
+            <string Key="StyleAttributes.Attr.arzWarmthRating">Warmth Rating</string>
+            <string Key="Composition.Attr.arzTextileFabricCode_TT">Three digit Textile Fabric Code required by SAP</string>
+            <string Key="Style.Attr.ActiveColorways">Colourways</string>
+            <string Key="Season.Attr.arzActualCOD">Actual COD (Style)</string>
+            <string Key="ProductSource.Attr.arzBOMApprovalDueDate">BOM Approval Due Date</string>
+            <string Key="Category1.Attr.arzPlannedNEW">Planned NEW (Style)</string>
+            <string Key="ColorSpecification.Attr.ColorSpecification">Colour Specification</string>
+            <string Key="Colorway.Attr.arzLateCancelledColorway">(S/C) Late Cancel</string>
+            <string Key="StyleSourcing.Attr.arzBOMApprovalDueDate">BOM Approval Due Date</string>
+            <string Key="Factory.Attr.arzProductionSurcharge">Production Surcharge</string>
+            <string Key="LibMaterial.Attr.arzLateAddedElements">Late Adds</string>
+            <string Key="ColorwayAttributes.Attr.arzColorwayConfirmation">Colourway Confirmation</string>
+            <string Key="SupplierItemRevision.Attr.arzBulkLeadTimeNoGreige">Bulk Lead Time - No Greige OH (days)</string>
+            <string Key="ProductSource.Name">Product Source</string>
+            <string Key="Collection.Attr.arzLateAddPercentStyle">Late Adds %</string>
+            <string Key="ColorSpecification.Attr.arzColorStandardConcatenated">Colour Standard Reference</string>
+            <string Key="SupplierRequest.Action.arzCreateLabDipSamples">Create Lab Dip Samples</string>
+            <string Key="Category2.Attr.arzActualNEWColor">Actual NEW (S/C)</string>
+            <string Key="MaterialAttributes.Attr.arzComplexity_IV">Must be a Whole number between 0-5</string>
+            <string Key="StyleAttributes.Attr.arzNeckline">Neckline</string>
+            <string Key="Style.Attr.arzLateAddPercentColorway_TT">S/C Late Cancel Count	/ # Colourways</string>
+            <string Key="MaterialSample.Attr.arzMaterialSampleFacility">Facility</string>
+            <string Key="Category2.Attr.arzBrandID">Brand ID (TBD)</string>
+            <string Key="Material.Attr.arzBusinessIDLowercase">Material Code Validation</string>
+            <string Key="CompetitiveStyle.Attr.arzClassification">Classification</string>
+            <string Key="Material.Attr.arzDesignApprovalDate">Design Approval Date</string>
+            <string Key="StyleSourcing.Attr.arzDesignatedSource">FG Designated Source</string>
+            <string Key="StyleAttributes.Attr.arzTargetMainMaterial">Material</string>
+            <string Key="PrintSpecification.Attr.arzArtworkSize">Artwork Size</string>
+            <string Key="StyleAttributes.Attr.arzStyleCollection">Collection</string>
+            <string Key="Category2.Name">Brand</string>
+            <string Key="Library.Attr.arzLateCancels">Late Cancels</string>
+            <string Key="Factory.Attr.arzCapability">Capabilites</string>
+            <string Key="MaterialAttributes.Attr.arzFibreLength">Fibre Length</string>
+            <string Key="ProductSource.Attr.arzPlannedDeliveryLeadTime_IV">Planned Delivery must be a whole # between 1 - 999</string>
+            <string Key="StyleAttributes.Attr.arzSlit">Slit</string>
+            <string Key="MaterialAttributes.Attr.arzMaterialVariation">Material Variation</string>
+            <string Key="MaterialAttributes.Attr.arzConstruction">Construction .</string>
+            <string Key="Category1.Attr.arzPlannedCOD">Planned COD (Style)</string>
+            <string Key="Category2.Attr.arzBrandNumber">Brand Number</string>
+            <string Key="MaterialSample.Attr.arzPrintTechnique">Artwork Technique</string>
+            <string Key="Factory.Attr.arzScorecardRating_IV">Must be a Whole # between 1 - 10</string>
+            <string Key="MaterialSample.Attr.arzTargetFabric">Target Fabric</string>
+            <string Key="Style.Attr.arzLateAddCountColorway">(S/C) Late Adds Count</string>
+            <string Key="ThemeProductAlternative.Plural">C8 Theme Product Alternatives</string>
+            <string Key="Library.Attr.arzLibrarySubtype">Type</string>
+            <string Key="Increment.Attr.Dimension2Type">POM 2 Type</string>
+            <string Key="CareSymbol.Attr.arzOkForMaterial">Ok for Material</string>
+            <string Key="Supplier.Attr.arzInitialYear">Initial Year with Aritzia</string>
+            <string Key="ColorMaterial.Attr.arzColourMaterialConfirmed">Coloured Material Confirmed</string>
+            <string Key="Collection.Attr.arzStyleType">Style Type</string>
+            <string Key="SpecificationDataSheetRevision.Attr.arzSpecialInstructions">Special Instructions</string>
+            <string Key="MaterialAttributes.Attr.arzSampleYardageDate">Sample Yardage Expected</string>
+            <string Key="ProductSource.Attr.arzSupRecommendCare">Supplier Recommended Care</string>
+            <string Key="StructItemNameCode.Attr.Code">SAP ID</string>
+            <string Key="ProductSource.Attr.arzHardMinimum">Hard Minimum</string>
+            <string Key="ProductSource.Attr.arzCOTPIssued">CO TP Issued</string>
+            <string Key="MaterialAttributes.Attr.arzMarketingName">Marketing Name</string>
+            <string Key="StyleAttributes.Attr.arzBranded">Branded / Collab</string>
+            <string Key="StyleSourcing.Attr.arzSecondaryFacility">FG Alternate Facility</string>
+            <string Key="ProductGroup.Plural">Tolerances</string>
+            <string Key="StyleAttributes.Attr.arzGraphic">Graphic (TBD)</string>
+            <string Key="ShippingRate.Attr.arzDepartment">Department</string>
+            <string Key="Shape.Attr.arzBrand">Brand</string>
+            <string Key="Category1.Attr.arzPlannedN1Color">Planned N1 (S/C)</string>
+            <string Key="Collection.Attr.arzActualCO_TT">Includes CO, CON, COE, COU and NR</string>
+            <string Key="Category2.Attr.arzCalendarRMGraphicPass">arzCalendarRMGraphicPass</string>
+            <string Key="Library.Attr.arzNewFunctionPlanned">Planned NEW</string>
+            <string Key="SpecificationDataSheetItem.Attr.arzSpecialInstructions">Special Instructions</string>
+            <string Key="ProductSource.Attr.arzApprovalStatusDate">Approval Status Date</string>
+            <string Key="StyleAttributes.Attr.arzFFConfiguration">FF Configuration</string>
+            <string Key="Category1Attributes.Name">Merch Type Attributes</string>
+            <string Key="ProductColor.Name">Product Colour</string>
+            <string Key="Colorway.Attr.arzLateAddColorway">(S/C) Late Add</string>
+            <string Key="Season.Attr.arzActualNEW">Actual NEW (Style)</string>
+            <string Key="SeasonAttributes.Attr.arzSeasonOrder">Season Order</string>
+            <string Key="DutyRate.Attr.arzPartialCustomsDescription">Partial Customs Description</string>
+            <string Key="ProductSource.Attr.arzBulkLeadTimeGreigeOH">Bulk Lead Time - Greige OH</string>
+            <string Key="Material.Attr.arzAritziaMaterialDesc">Material Description</string>
+            <string Key="PrintSpecification.Attr.arzComments">Comments</string>
+            <string Key="ProductSource.Attr.arzLabDipApprovalDueDate">Lab Dip Approval Due Date</string>
+            <string Key="StyleAttributes.Attr.arzGraphicPrint">Style Variation Name</string>
+            <string Key="Collection.Attr.arzActualN1">Actual N1 (Style)</string>
+            <string Key="StructureItem.Attr.arzLateAddCountStyle">Late Adds</string>
+            <string Key="LibSizeLabel.Name">Size Label  Palette</string>
+            <string Key="Collection.Attr.arzActualN3">Actual N3 (Style)</string>
+            <string Key="Collection.Attr.arzActualN2">Actual N2 (Style)</string>
+            <string Key="SupplierItemRevision.Attr.arzSupplierComments">Supplier Comments</string>
+            <string Key="ApparelDimension.Plural">POMs</string>
+            <string Key="ProductSource.Attr.arzInDC">In DC</string>
+            <string Key="MaterialSample.Attr.arzAppliedGraphicMethod">Artwork Method</string>
+            <string Key="ColorSpecification.Attr.arzColourStandardProviderRefNum">Provider Ref #</string>
+            <string Key="Factory.Attr.arzAnnualCapacity">Capacity Monthly (TBD)</string>
+            <string Key="PrintSpecification.Attr.arzRMGraphicsDescription">RM Graphic Description</string>
+            <string Key="PartMaterialTracking.Attr.Status">Colour Status</string>
+            <string Key="Supplier.Attr.Currency">Currency (OLD)</string>
+            <string Key="StyleAttributes.Attr.arzProductionSurcharges">Production Surcharges</string>
+            <string Key="SupplierItemRevision.Attr.FOBFullPrice">Bulk Price (USD)</string>
+            <string Key="StyleAttributes.Attr.arzProductionLeadtime">Production Lead Time</string>
+            <string Key="SupplierRequest.Attr.arzLogoed">Logo</string>
+            <string Key="SpecificationSectionItem.Attr.arzSourceCurrency">Source Currency</string>
+            <string Key="PrintSpecification.Attr.arzDesignPassDate">Design Pass Date</string>
+            <string Key="StyleSourcing.Attr.arzTertiarySource">FG Alternate 2 Source</string>
+            <string Key="CareSymbol.Attr.Rank">Restrictive Care Rank</string>
+            <string Key="SupplierItemRevision.Attr.arzSurchargeMOQOrder">Surcharge - MOQ/Order</string>
+            <string Key="Material.Attr.arzMaterialSamples">Material Samples (TBD)</string>
+            <string Key="StyleAttributes.Attr.arzStyling">Styling</string>
+            <string Key="Factory.Attr.arzSAPID">SAP ID</string>
+            <string Key="Factory.Action.Validation__Unique__FactoryName">The Facility Name must be unique</string>
+            <string Key="ProductSource.Attr.arzWeaverKnitterName">Weaver /  Knitter Name</string>
+            <string Key="Country.Attr.Code">SAP Code</string>
+            <string Key="Collection.Attr.arzPlannedN3Color">Planned N3 (S/C)</string>
+            <string Key="ProductSource.Attr.arzBulkLeadTimeNoGreigeOH">Bulk Lead Time - No Greige OH</string>
+            <string Key="PrintSpecification.Attr.arzArtworkDetail">Artwork Detail</string>
+            <string Key="Collection.Attr.arzActualNR">Actual NR (Style)</string>
+            <string Key="MaterialSample.Attr.arzStitchConfiguration">Stitch/Configuration</string>
+            <string Key="SpecificationItemDefinition.Attr.arzSpecGroup">Spec Group</string>
+            <string Key="PartMaterial.Attr.arzMarkerEfficiency">Marker Efficiency</string>
+            <string Key="StyleAttributes.Attr.arzSizeLength">Size/Length</string>
+            <string Key="Category1.Attr.arzActualCOColor">Actual CO (S/C)</string>
+            <string Key="StructItemNameCode.Attr.arzStyleTypeID">Style Type ID</string>
+            <string Key="StyleAttributes.Attr.arzVarianceToLY">Variance to LY</string>
+            <string Key="StructItemNameCode.Attr.arzStyleType">Style Type</string>
+            <string Key="MaterialAttributes.Attr.arzQAClassificationForEndUse">QA Classification for End Use</string>
+            <string Key="TestRunRevision.Attr.arzValidity">Validity</string>
+            <string Key="StyleAttributes.Attr.arzLegOpening">Leg Opening</string>
+            <string Key="ProductSource.Attr.arzBaseSize">Base Size</string>
+            <string Key="Supplier.Attr.SupplierNumber">SAP ID</string>
+            <string Key="MaterialSample.Attr.arzWashFinish">Wash/Finish</string>
+            <string Key="SpecificationDataSheetItem.Attr.arzSeasonalPriorityRankLower">Seasonal Priority Rank Lower</string>
+            <string Key="SeasonAttributes.Attr.arzSeasonalPriorityRankTemplate">Seasonal Priority Rank Template</string>
+            <string Key="Category1.Attr.arzSeason_MerchType">TBD</string>
+            <string Key="Increment.Attr.Dimension1Type">POM 1 Type</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute4">.</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute5">.</string>
+            <string Key="StyleAttributes.Attr.arzUSHSCode2">US HTS Code (TBD)</string>
+            <string Key="StyleAttributes.Attr.arzUSHSCode1">US HTS Code</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute2">.</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute3">.</string>
+            <string Key="ColorMaterial.Attr.arzPFP">PFP</string>
+            <string Key="StyleAttributes.Attr.arzCADConfirmedDate">CAD Confirmed Date</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute1">.</string>
+            <string Key="ColorwayAttributes.Attr.arzCADRetailPrice">CAD Retail Price</string>
+            <string Key="ColorMaterial.Attr.arzOkForLabDip">OK for Lab Dip</string>
+            <string Key="MaterialAttributes.Attr.CareSymbols">Aritzia Approved Care</string>
+            <string Key="ColorSpecification.Attr.arzColourNameLowercase">Colour Name Lowercase</string>
+            <string Key="Library.Attr.arzSeason">Season</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute8">.</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute9">.</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute6">.</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute7">.</string>
+            <string Key="MaterialSample.Attr.arzExternalTurnTime">External Turn Time</string>
+            <string Key="Material.Attr.Description_IV">Material Description must be 40 Characters or Less</string>
+            <string Key="SizeChartRevision.Attr.arzPattern">Aritzia Pattern</string>
+            <string Key="Library.Attr.arzNewFunctionActual">Actual NEW</string>
+            <string Key="Collection.Attr.arzLateCancelledPercentColorway">(S/C) Late Cancels %</string>
+            <string Key="StyleAttributes.Attr.arzLPHeader3">MATERIAL</string>
+            <string Key="StyleAttributes.Attr.arzLPHeader4">PRODUCTION</string>
+            <string Key="MaterialTypeConfiguration.Attr.arzPrefix">Prefix</string>
+            <string Key="Category2.Attr.arzBranded_TT">Is non-Aritzia brand?</string>
+            <string Key="StyleAttributes.Attr.arzLPHeader5">COST/RETAIL/IMU</string>
+            <string Key="StyleAttributes.Attr.arzLPHeader6">BUYING</string>
+            <string Key="TestRunRevision.Attr.arzProductColorsAll">Product Colors All</string>
+            <string Key="Category1.Name">Merch Type</string>
+            <string Key="MaterialAttributes.Attr.arzWeight">Weight</string>
+            <string Key="ProductSource.Attr.arzApprovalStatus">Approval Status</string>
+            <string Key="Category2.Attr.arzPlannedN2">Planned N2 (Style)</string>
+            <string Key="Category2.Attr.arzPlannedN3">Planned N3  (Style)</string>
+            <string Key="Category2.Attr.arzPlannedN1">Planned N1  (Style)</string>
+            <string Key="Library.Attr.arzPassDeadline">Pass Deadline</string>
+            <string Key="Factory.Attr.arzFacilityClassification">Facility Classification</string>
+            <string Key="LibColorSpecification.Attr.arzLateAddedColors">arzLateAddedColors</string>
+            <string Key="Season.Attr.arzPlannedNEWColor">Planned NEW (S/C)</string>
+            <string Key="Factory.Attr.arzFacilityLegalName">Facility Legal Name</string>
+            <string Key="ProductSource.Attr.SupplierCode">Supplier Article #</string>
+            <string Key="StructureItem.Attr.arzLateAddCountColorway">(S/C) Late Adds</string>
+            <string Key="Library.Attr.arzNewFunctions">NEW Function List</string>
+            <string Key="StyleAttributes.Attr.arzSampleYardageDate">Sample Yardage Expected Date</string>
+            <string Key="SupplierRequestTemplate.Attr.arzExternalTurnTime">External Turn Time</string>
+            <string Key="MaterialAttributes.Attr.arzIncrementalUnits">Incremental Units (TBD)</string>
+            <string Key="ApparelDimension.Attr.DimDescAlt1">HTM</string>
+            <string Key="StyleAttributes.Attr.arzLPHeader1">STYLE</string>
+            <string Key="StyleAttributes.Attr.arzLPHeader2">FABRIC</string>
+            <string Key="ColorMaterial.Attr.arzColorMatSupQuotesAll">Color Mat Supplier Quotes All</string>
+            <string Key="Style.Attr.arzStyleNodeName">Business ID</string>
+            <string Key="Collection.Attr.arzDepartmentNumber_IV">This attribute is limited to 2 characters.</string>
+            <string Key="ProductAttributes.Attr.Brands">Branded</string>
+            <string Key="StyleAttributes.Attr.arzSegment">Segment (TBD)</string>
+            <string Key="Material.Attr.arzInitialSeason">Initial Season</string>
+            <string Key="SupplierRequest.Attr.arzCommonSuppliers">Common Suppliers</string>
+            <string Key="PrintSpecification.Attr.arzSpecCreatedDate">Spec Created Date</string>
+            <string Key="StyleAttributes.Attr.arzCancelShipDateCAD">Cancel Ship Date (CA)</string>
+            <string Key="StyleAttributes.Attr.arzStartShipDateCAD">Start Ship Date (CA)</string>
+            <string Key="ColorMaterial.Attr.arzLabDipSampleRef">Lab Dip Sample</string>
+            <string Key="ColorSpecification.Attr.arzColourType">Type</string>
+            <string Key="ColorMaterial.Attr.arzColorMaterialSAP">Colour Material SAP</string>
+            <string Key="ColorwayAttributes.Attr.arzStylingSample">Styling Sample</string>
+            <string Key="StyleAttributes.Attr.arzROSStoreUnits">ROS/Store Units</string>
+            <string Key="LookupItem.Attr.arzPartialCustomsID">Partial Customs ID</string>
+            <string Key="TestRun.Attr.arzTestCategory">Category</string>
+            <string Key="ProductSource.Attr.arzBulkProductionStatus">Bulk Production Status</string>
+            <string Key="SpecificationDataSheetItem.Attr.arzLocation">Location</string>
+            <string Key="SizeChartReviewDimension.Attr.Pattern">Block</string>
+            <string Key="SupplierItemRevision.Attr.Seasons">Seasons</string>
+            <string Key="SupplierRequestTemplate.Attr.arzPrefix">Prefix</string>
+            <string Key="Collection.Attr.arzActualCOColorTotal_TT">Includes CO, CON, COE, COU and NR</string>
+            <string Key="StyleAttributes.Attr.arzCancelShipDateUS">Cancel Ship Date (US)</string>
+            <string Key="MaterialSample.Attr.arzSubmitHandfeel">Submit Handfeel</string>
+            <string Key="StyleAttributes.Attr.arzInseam">Length/Inseam</string>
+            <string Key="LibColorSpecification.Attr.arzCOFunctionPlanned">Planned CO</string>
+            <string Key="Material.Attr.arzSystemID">System ID</string>
+            <string Key="SpecificationSectionDefinition.Attr.arzSpecType">Spec Type</string>
+            <string Key="ColorSpecification.Attr.ColorModel">Colour Model</string>
+            <string Key="ApparelDimension.Name">POM</string>
+            <string Key="Supplier.Attr.Factories">Facilities</string>
+            <string Key="ProductSource.Attr.ariColourCardAvailable">Colour Card Available</string>
+            <string Key="LibMaterial.Name">Material  Palette</string>
+            <string Key="MaterialAttributes.Attr.arzGroup">Group</string>
+            <string Key="Library.Name">Palette</string>
+            <string Key="StyleAttributes.Attr.arzCADConfirmedCostLDP">LDP Confirmed Cost (CAD)</string>
+            <string Key="TestRun.Name">Test Protocol</string>
+            <string Key="MaterialAttributes.Attr.arzRestrictedEndUse">Restricted End Use</string>
+            <string Key="StyleAttributes.Attr.arzFOBCostCA">FOB Cost CA</string>
+            <string Key="DutyRate.Attr.arzUSHSCode">US HTS Code</string>
+            <string Key="ColorMaterial.Attr.arzApprovalDueDate">Colour Approval Due Date</string>
+            <string Key="ShippingRate.Attr.Node Name">Mode of Transport Rate</string>
+            <string Key="Category1.Plural">Merch Types</string>
+            <string Key="Library.Attr.arzTotalNeutral">Actual Total Neutral</string>
+            <string Key="Collection.Attr.arzPlannedTotalStyle">Planned Total (Style)</string>
+            <string Key="StyleAttributes.Attr.arzConfirmed">Confirmed</string>
+            <string Key="LookupItem.Attr.arzMaterialType">Material Type</string>
+            <string Key="DocumentContainer.Attr.arzValidity">Validity</string>
+            <string Key="Style.Attr.arzGraphicIndicator">Style Variation Indicator</string>
+            <string Key="SupplierItemRevision.Attr.arzAllProductColorsConfirmed">All Product Colors Confirmed</string>
+            <string Key="StyleAttributes.Attr.arzCAHSCode">CA HTS Code  (TBD)</string>
+            <string Key="MaterialPlanPlacement.Name">C8 Theme Placement</string>
+            <string Key="MaterialAttributes.Attr.arzProgram">Program</string>
+            <string Key="SpecificationDataSheet.Attr.arzSeason">Season</string>
+            <string Key="CompetitiveStyle.Attr.arzCADRetailPrice">Retail Price (CAD)</string>
+            <string Key="DutyRate.Attr.arzLevelNumber">Level Number</string>
+            <string Key="ColorMaterial.Attr.arzColouredMaterial">Supplier Colour Code / Reference</string>
+            <string Key="Category2.Attr.arzHouse">House</string>
+            <string Key="ApparelDimension.Attr.arzLegacyPOMCode">Old POM Code</string>
+            <string Key="MaterialAttributes.Attr.arzQAApprovalDate">QA Approval Date</string>
+            <string Key="Category2.Attr.arzActualTotalColor">Actual Total (S/C)</string>
+            <string Key="MaterialAttributes.Attr.arzAGTechnique">AG Technique</string>
+            <string Key="ProductSource.Attr.arzMaterialColorOptionsList">Material Colour Options</string>
+            <string Key="StyleAttributes.Attr.arzTotalRMCost">Total RM Cost / Style</string>
+            <string Key="ColorMaterial.Attr.arzPrintSpecification">RM Graphics</string>
+            <string Key="SupplierItemRevision.Attr.arzCostBySizeColour">Cost - by Size/Colour</string>
+            <string Key="Composition.Attr.arzTextileFabricCode_IV">Cannot exceed 3 characters</string>
+            <string Key="Style.Attr.ProductColors">C8 Colourways</string>
+            <string Key="FactoryReview.Name">Facility Review</string>
+            <string Key="Factory.Attr.arzProductionMOQ">Production MOQ</string>
+            <string Key="ProductSource.Attr.arzQAStatus">QA Status</string>
+            <string Key="StyleAttributes.Attr.arzIMT">IMT</string>
+            <string Key="Supplier.Attr.arzFacilityOwnershipStructure">Facility Ownership Structure</string>
+            <string Key="StyleAttributes.Attr.arzShade">Shade</string>
+            <string Key="Library.Attr.arzTotalFunctionActual">Actual Total</string>
+            <string Key="Increment.Attr.arzIncrementUID">Increment UID</string>
+            <string Key="ColorSpecification.Attr.arzNoOfLayers"># of Colours in Colourway</string>
+            <string Key="Supplier.Attr.arzSupplierOwnership">Ownership Structure</string>
+            <string Key="MaterialSourcing.Attr.ProductSources">Product Sources</string>
+            <string Key="Category1.Attr.arzActualCOD">Actual COD (Style)</string>
+            <string Key="MaterialAttributes.Attr.arzPullTop">Pull Top</string>
+            <string Key="Sample.Attr.arzSupplierComments">Supplier Comments</string>
+            <string Key="Material.Attr.MaterialOriginalSeason">Season</string>
+            <string Key="Material.Attr.MaterialOriginalCategory1">Merch Type</string>
+            <string Key="ProductSource.Attr.arzBookingDeadline">Booking Deadline</string>
+            <string Key="SpecificationSectionItem.Attr.arzSrchgeBelowPrintMOQ">Surcharge Below Print MOQ</string>
+            <string Key="Factory.Attr.arzCapacityUOM">Capacity UOM</string>
+            <string Key="MaterialSample.Attr.arzTension">Tension</string>
+            <string Key="Category2.Attr.arzActualN2">Actual N2 (Style)</string>
+            <string Key="Category2.Attr.arzActualN3">Actual N3 (Style)</string>
+            <string Key="Season.Attr.arzSeason">Season</string>
+            <string Key="ColorSpecification.Attr.arzStockTicketDesc">Stock Ticket Description</string>
+            <string Key="Season.Attr.arzActualN3Color">Actual N3 (S/C)</string>
+            <string Key="Supplier.Attr.arzSupplierBrand">Supplier Brand</string>
+            <string Key="Category2Attributes.Attr.arzCancelleationDeadlineColorway">(S/C) Cancelleation Deadline</string>
+            <string Key="Style.Attr.arzLateAddPercentColorway">(S/C) Late Adds %</string>
+            <string Key="Category2.Attr.arzActualN1">Actual N1 (Style)</string>
+            <string Key="MaterialAttributes.Attr.arzKnitWeaveType">Knit/Weave Type</string>
+            <string Key="ColorSpecification.Attr.arzColourStatus">Colour Status</string>
+            <string Key="StyleSourcing.Attr.arzTertiaryFacility">FG Alternate 2 Facility</string>
+            <string Key="Style.Attr.arzLatestSizeChartReview">Latest Size Chart Review</string>
+            <string Key="ThemeSecurityGroup.Plural">C8 Theme Security Groups</string>
+            <string Key="Colorway.Name">Colourway</string>
+            <string Key="ProductSource.Attr.arzTerms">Terms</string>
+            <string Key="SeasonAttributes.Attr.arzCurrencyTableFP">FP-Rate Currency Table</string>
+            <string Key="Collection.Attr.arzActualTotalStyle">Actual Total (Style)</string>
+            <string Key="Sample.Attr.tstComments3">Comments 3</string>
+            <string Key="Category1.Attr.arzActualNEW">Actual NEW (Style)</string>
+            <string Key="Sample.Attr.tstComments2">Comments 2</string>
+            <string Key="ProductSource.Attr.arzProductionApprovalDueDate">Production Approval Due Date</string>
+            <string Key="Sample.Attr.tstComments1">Comments 1</string>
+            <string Key="ApparelDimension.Attr.Node Name">POM Code</string>
+            <string Key="DataPackage.Attr.arzSampleFacility">Sample Facility</string>
+            <string Key="ProductSource.Attr.arzQAStatusStyle">QA Status</string>
+            <string Key="Style.Attr.arzPendingCarryover">Pending Carryover</string>
+            <string Key="StyleAttributes.Attr.arzAverageWeeklySales">Average Weekly Sales</string>
+            <string Key="IncrementDimension.Attr.Increments">Gradings</string>
+            <string Key="StyleAttributes.Attr.arzPurchasingStatusDate">Purchasing Status Date</string>
+            <string Key="ProductGroupDimension.Name">Tolerance Dimension</string>
+            <string Key="Category2.Attr.arzHouse_TT">Code of Parent Brand</string>
+            <string Key="MaterialSample.Attr.arzSampleMerchType">Sample Merch Type</string>
+            <string Key="StyleAttributes.Attr.arzUSDIMUPct">US IMU%</string>
+            <string Key="StyleAttributes.Attr.arzTheme">Theme</string>
+            <string Key="Collection.Attr.arzPlannedNEWColor">Planned NEW (S/C)</string>
+            <string Key="Factory.Attr.Country">Facility Country</string>
+            <string Key="MaterialAttributes.Attr.arzConsumptionUOM">Consumption UOM</string>
+            <string Key="ShippingRate.Attr.arzModeOfTransport">Mode of Transport</string>
+            <string Key="StyleAttributes.Attr.arzCADRetailPrice">Retail Price (CAD)</string>
+            <string Key="SRLineItem.Attr.arzIssueDate">Issue Date</string>
+            <string Key="Sample.Attr.arzSampleStatusDate">Status Date</string>
+            <string Key="Style.Attr.arzItemCode">Merchant Code</string>
+            <string Key="Category1.Attr.arzPlannedN3Color">Planned N3 (S/C)</string>
+            <string Key="MaterialAttributes.Attr.arzMerchType2">Merch Type</string>
+            <string Key="Collection.Attr.arzActualNEWColor">Actual NEW (S/C)</string>
+            <string Key="ProductAlternative.Attr.arzSupplier">Supplier</string>
+            <string Key="MaterialAttributes.Attr.arzAppliedGraphicMethod">Applied Graphic Method</string>
+            <string Key="Category2.Attr.Code">Code</string>
+            <string Key="StyleAttributes.Attr.arzSeasonalPriorityRankTemplate">Seasonal Priority Rank Template</string>
+            <string Key="ColorMaterial.Action.Validation__Unique__SupplierColor">The Supplier Colour Code / Reference must be unique</string>
+            <string Key="ProductSource.Attr.arzFabricCountryofOrigin">Material Country of Origin</string>
+            <string Key="Factory.Action.Validation__Facility_Approval_Condition">Facility can't be 'Approved' if its supplier is 'Pending' or 'Inactive'.</string>
+            <string Key="Category2.Attr.arzActualNR">Actual NR (Style)</string>
+            <string Key="SupplierItemRevision.Attr.arzMOQColour">MOQ/Colour (UOM)</string>
+            <string Key="StyleSourcing.Attr.arzSecondarySource">FG Alternate Source</string>
+            <string Key="ProductSource.Attr.arzExCountryDate">Ex-Country Date</string>
+            <string Key="SeasonAttributes.Attr.arzCAD2USD">CAD to USD Rate</string>
+            <string Key="Style.Attr.arzStyleSortOrder">Style Sort Order</string>
+            <string Key="FactoryReview.Attr.Node Name">Facility Review</string>
+            <string Key="Category1.Attr.arzActualCO">Actual CO (Style)</string>
+            <string Key="StyleAttributes.Attr.arzStitchConfiguration">Stitch/Configuration</string>
+            <string Key="Category1.Attr.arzActualN1">Actual N1 (Style)</string>
+            <string Key="Category1.Attr.arzActualN2">Actual N2 (Style)</string>
+            <string Key="Category1.Attr.arzActualN3">Actual N3 (Style)</string>
+            <string Key="ProductSource.Attr.arzValid">Valid Supplier</string>
+            <string Key="ReviewColorwayRevision.Name">Colourway Review Revision</string>
+            <string Key="MaterialSample.Attr.arzSampleBrand">Sample Brand</string>
+            <string Key="Factory.Attr.SupplierNumber">SAP ID (TBD)</string>
+            <string Key="SizeChart.Attr.Pattern">Block</string>
+            <string Key="ThemeSecurityGroup.Name">C8 Theme Security Group</string>
+            <string Key="StyleAttributes.Attr.arzStockTicketDescription_IV">This attribute is limited to 12 characters</string>
+            <string Key="ProductSource.Attr.arzFiberCountryofOrigin">Fiber Country of Origin</string>
+            <string Key="DataPackage.Name">Tech Pack</string>
+            <string Key="PrintSpecification.Attr.arzSpecPassCategory">Spec Pass Category</string>
+            <string Key="StyleAttributes.Attr.arzProductionManager">Production Manager</string>
+            <string Key="SpecificationDataSheetItem.Attr.arzToUOM">To UOM</string>
+            <string Key="Factory.Attr.arzFacilityMerchType">Merch Type</string>
+            <string Key="Factory.Attr.arzSubTypeSpecialization">Facility Sub-Type Specialization</string>
+            <string Key="ThemeMasterSubtype.Name">C8 Theme Master Type</string>
+            <string Key="MaterialPlanPlacement.Plural">C8 Theme Placements</string>
+            <string Key="DutyRate.Attr.arzPartialCustomsID_IV">This attribute is limited to 18 characters</string>
+            <string Key="Category2.Attr.arzPlannedN2Color">Planned N2 (S/C)</string>
+            <string Key="StyleAttributes.Attr.arzNumberofStores"># of Stores</string>
+            <string Key="StyleAttributes.Attr.arzStyleGroup">Group</string>
+            <string Key="StyleAttributes.Attr.arzCAFirstCostLDP">LDP First Cost (CAD)</string>
+            <string Key="Category2.Attr.arzPlannedCO">Planned CO (Style)</string>
+            <string Key="ColorSpecification.Attr.Node Name_IV">Colour Name cannot exceed 60 characters</string>
+            <string Key="StyleSourcing.Attr.arzDesignatedFacility">FG Designated Facility</string>
+            <string Key="Category1.Attr.arzPlannedCO">Planned CO (Style)</string>
+            <string Key="StyleSourcing.Attr.arzFGDesignatedSup">FG Designated Supplier</string>
+            <string Key="TestRun.Attr.arzSeason">Season</string>
+            <string Key="SupplierItemRevision.Attr.arzSeasonRef">Season</string>
+            <string Key="MaterialSample.Attr.arzSubmitColor">Submit Color</string>
+            <string Key="ColorSpecification.Attr.arzDyeStage">Dye Stage</string>
+            <string Key="MaterialAttributes.Attr.arzAritziaApprovedCare">Aritzia Approved Care</string>
+            <string Key="Style.Attr.Description_IV">Style Name must be 45 characters or less.</string>
+            <string Key="MaterialAttributes.Attr.arzNotesAndComments">Notes &amp; Comments</string>
+            <string Key="StyleAttributes.Attr.arzPlaceholder">Style Option</string>
+            <string Key="Library.Attr.arzCOFunctions">CO Function List</string>
+            <string Key="Library.Attr.arzTotalCarryover_TT">Elements belonging to &gt; 1 Palette</string>
+            <string Key="ColorMaterial.Attr.arzTechnique">Technique</string>
+            <string Key="LibColorSpecification.Attr.arzPlannedNEWFashion">Planned NEW Fashion</string>
+            <string Key="DutyRate.Attr.arzCADuty">CA Duty (%)</string>
+            <string Key="ColorSpecification.Attr.Code">System ID</string>
+            <string Key="StyleAttributes.Attr.arzCurrency">FOB Cost Currency CA</string>
+            <string Key="Style.Attr.CntColorway">Number of Colourways</string>
+            <string Key="Collection.Attr.arzActualCO">Actual CO (Style)</string>
+            <string Key="SizeChartDimension.Attr.Comment">Facility Measures</string>
+            <string Key="Category1.Attr.arzActualTotalSC">Actual Total (S/C)</string>
+            <string Key="SupplierItemRevision.Attr.arzProductSize">Size Sort</string>
+            <string Key="MaterialAttributes.Attr.arzWeightUOM">Weight UOM</string>
+            <string Key="ColorSpecification.Attr.Node Name">Colour Name</string>
+            <string Key="PrintSpecification.Attr.arzArtworkHandfeel">Artwork Handfeel</string>
+            <string Key="DataPackage.Plural">Tech Packs</string>
+            <string Key="PrintSpecification.Attr.arzMerchType">Merch Type</string>
+            <string Key="DutyRate.Attr.DutyPct">US Duty (%)</string>
+            <string Key="SupplierItemRevision.Attr.arzCostBySize">Cost - by Size</string>
+            <string Key="MaterialAttributes.Attr.arzThickness">Thickness/Pile Height</string>
+            <string Key="MaterialSample.Attr.arzSubmitApproval">Submit Approval</string>
+            <string Key="Category2Attributes.Attr.arzCancellationDeadlineColorway">(S/C) Cancellation Deadline</string>
+            <string Key="Category2.Attr.arzBrand">Brand</string>
+            <string Key="ProductGroup.Name">Tolerances</string>
+            <string Key="TestRun.Attr.Code">Test Level</string>
+            <string Key="TestRunRevision.Attr.arzDocumentMatrixVector">Document Matrix</string>
+            <string Key="ShippingRate.Attr.arzCountryOfDestination">Country Of Destination</string>
+            <string Key="StyleAttributes.Attr.arzSpecPassDate">Spec Pass Date (TBD)</string>
+            <string Key="StyleAttributes.Attr.arzDateTest">Date Test</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute14">.</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute13">.</string>
+            <string Key="Placement.Attr.arzBOMSection">BOM Section</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute15">.</string>
+            <string Key="Collection.Attr.arzPlannedTotalSC">Planned Total (S/C)</string>
+            <string Key="MaterialAttributes.Attr.arzWeightAfterWash">Weight After Wash</string>
+            <string Key="DutyRate.Attr.DutyMaterial">Chief Content</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute10">.</string>
+            <string Key="FactoryReview.Plural">Facility Reviews</string>
+            <string Key="SpecificationSectionItem.Attr.arzCylinderScreenCharge">Cylinder Screen Set Up Charge</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute12">.</string>
+            <string Key="StyleAttributes.Attr.arzDummyAttribute11">.</string>
+            <string Key="Library.Attr.arzTotalCarryover">Total Carry Over</string>
+            <string Key="Style.Attr.arzSystemID">Silhouette ID</string>
+            <string Key="ShippingRate.Attr.arzDestinationCountry">Country of Destination</string>
+            <string Key="Material.Attr.arzMerchType">Merch Type</string>
+            <string Key="Factory.Attr.arzFactoryNameLowercase">Facility Name Lowercase</string>
+            <string Key="Category2.Attr.arzBrand_TT">for Style integration</string>
+            <string Key="SupplierItemRevision.Attr.FOBPrice">FOB (USD)</string>
+            <string Key="Style.Attr.arzSAPID">SAP ID</string>
+            <string Key="MaterialAttributes.Attr.arzWidthUOM">Width UOM TBD</string>
+            <string Key="Category2.Attr.arzPlannedCOD">Planned COD  (Style)</string>
+            <string Key="Material.Attr.Node Name_IV">This attribute is limited to 20 characters.</string>
+            <string Key="SpecificationDataSheetItem.Attr.arzFromUOM">From UOM</string>
+            <string Key="Collection.Attr.arzPlannedN1Color">Planned N1 (S/C)</string>
+            <string Key="Style.Attr.arzStockTicketDesc_IV">Stock Ticket Description cannot exceed 22 characters</string>
+            <string Key="SpecificationSectionDefinition.Attr.arzSubType">Sub-Type</string>
+            <string Key="ProductSource.Attr.arzIncrementalUOM">Incremental UOM</string>
+            <string Key="Library.Attr.arzLateCancelCount">Late Cancels Count</string>
+            <string Key="SizeChartReviewRevision.Attr.arzSupplierPattern">Supplier Pattern</string>
+            <string Key="Collection.Attr.arzPlannedCODColor">Planned COD (S/C)</string>
+            <string Key="SpecificationSectionItem.Attr.arzSurchargeBelowPrintMOQ">Surcharge Below Print MOQ</string>
+            <string Key="IncrementSize.Attr.USSize">Size</string>
+            <string Key="StructureItem.Attr.arzLateCancelledPercentColorway">(S/C) Late Cancels %</string>
+            <string Key="Library.Attr.arzLateCancelledElements">Late Cancels</string>
+            <string Key="ProductColorShipment.Name">Colour/Size Breakdown</string>
+            <string Key="Style.Attr.arzLateCancelPercentColorway_TT">Late Cancel / # Colourways</string>
+            <string Key="DocumentRevision.Attr.arzFileType">File Type</string>
+            <string Key="Material.Attr.arzDesignStatus">Design Status</string>
+            <string Key="StyleAttributes.Attr.arzExpectedSpecPassDate">Expected Spec Pass Date</string>
+            <string Key="MaterialAttributes.Attr.arzYarnSize">Yarn Size</string>
+            <string Key="ColorSpecification.Attr.arzAnalyzingColour">Analyzing Colour</string>
+            <string Key="SupplierItemRevision.Attr.arzColorSort">Colour Sort</string>
+            <string Key="MaterialAttributes.Attr.arzDigitalColorReading">Digital Colour Reading</string>
+            <string Key="MaterialAttributes.Attr.arzWidthNumeric">Width (numeric) TBD</string>
+            <string Key="ThemeMasterSubtype.Plural">C8 Theme Master Types</string>
+            <string Key="Factory.Attr.Node Name">Facility Name</string>
+            <string Key="ShippingPort.Attr.Node Name">FOB Point</string>
+            <string Key="Composition.Attr.arzTextileFabricCode">Textile Fabric Code (SAP)</string>
+            <string Key="SizeChartDimension.Attr.PatternWithShrinkage">_</string>
+            <string Key="StyleAttributes.Attr.arzROStoreMargin">ROS/Store Margin $</string>
+            <string Key="StyleSourcing.Attr.arzFinalProdPatternRec">Final Production Pattern Received</string>
+            <string Key="MaterialTypeConfiguration.Attr.arzCode">Code</string>
+            <string Key="ColorSpecification.Attr.arzColourClassification">Colour Classification (TBD)</string>
+            <string Key="SizeChartDimension.Attr.Pattern">Block</string>
+            <string Key="SizeChartAdmin.View.DimensionCards">HTM Guide</string>
+            <string Key="StyleSourcing.Attr.arzProductionApprovalDueDate">Production Approval Due Date</string>
+            <string Key="MaterialAttributes.Attr.arzFamily">Family</string>
+            <string Key="ProductSource.Attr.arzBulkProductionStatusDate">Bulk Production Status Date</string>
+            <string Key="DutyRate.Attr.CountryTo">Country</string>
+            <string Key="StyleAttributes.Attr.arzStyleConfirmation">Style Confirmation (2)</string>
+            <string Key="MaterialSample.Attr.arzSampleComments">ATZ Comments</string>
+            <string Key="MaterialSample.Attr.arzSampleTrackingNumber">Sample Tracking Link</string>
+            <string Key="Season.Attr.arzActualN1Color">Actual N1 (S/C)</string>
+            <string Key="StructureItem.Attr.arzLateAddPercentStyle">Late Adds %</string>
+            <string Key="MaterialSample.Attr.arzSampleApprovalDueDate">Sample Approval Due Date</string>
+            <string Key="Category1.Attr.arzActualN2Color">Actual N2 (S/C)</string>
+            <string Key="Category2.Attr.arzPlannedNEW">Planned NEW  (Style)</string>
+            <string Key="LookupItem.Attr.arzLookUpSeasons">Seasons</string>
+            <string Key="ProductSource.Attr.arzReadyForConfirmation">arzReadyForConfirmation</string>
+            <string Key="StyleAttributes.Attr.arzSeasonality">Seasonality</string>
+            <string Key="Supplier.Attr.Country">Supplier Country</string>
+            <string Key="ProductSource.Attr.arzFinisherName">Finisher Name</string>
+            <string Key="StyleAttributes.Attr.arzDesigner">Creative Designer</string>
+            <string Key="CollectionAttributes.Name">Department Attributes</string>
+            <string Key="ProductGroup.Attr.Increments">Gradings</string>
+            <string Key="PrintSpecification.Attr.arzComplexity_IV">Must be a Whole number between 0-5</string>
+            <string Key="Material.Attr.arzPreviouslyConfirmed">Previously Confirmed</string>
+            <string Key="ThemeMaster.Plural">C8 Theme Masters</string>
+            <string Key="Season.Attr.arzPlannedCO">Planned CO (Style)</string>
+            <string Key="Season.Attr.arzActualN2">Actual N2 (Style)</string>
+            <string Key="Collection.Attr.Code">SAP ID</string>
+            <string Key="Season.Attr.arzActualN1">Actual N1 (Style)</string>
+            <string Key="Season.Attr.arzActualN3">Actual N3 (Style)</string>
+            <string Key="SupplierItemRevision.Attr.arzFabricCost">Cost</string>
+            <string Key="Category2Attributes.Attr.arzPassDeadlineColorway">(S/C) Pass Deadline</string>
+            <string Key="ShippingRate.Attr.arzDepartmentRef">Department</string>
+            <string Key="ApparelBOM.Attr.arzUserDefaultSupplierBOM">User Default Supplier BOM</string>
+            <string Key="StyleAttributes.Attr.arzStyleProgram">Product Feature</string>
+            <string Key="TestRunRevision.Name">Test Protocol Revision</string>
+            <string Key="ProductSize.Attr.arzSAPID">SAP ID</string>
+            <string Key="PrintSpecification.Attr.arzBrand">Brand</string>
+            <string Key="SupplierItemRevision.Attr.arzNumberofScreens">Number of Screens</string>
+            <string Key="MaterialSourcing.Attr.DesignatedProductSource">Designated Supplier</string>
+            <string Key="Library.Attr.arzTotalNew">Total New</string>
+            <string Key="Season.Attr.arzActualTotalStyle">Actual Total (Style)</string>
+            <string Key="StyleAttributes.Attr.arzCADMarginRetail75Pct">Retail Price - 75% IMU (CAD)</string>
+            <string Key="Category2.Attr.arzPlannedN3Color">Planned N3 (S/C)</string>
+            <string Key="ProductSource.Attr.arzBulkProductionStatusString">Bulk Production Status</string>
+            <string Key="Collection.Attr.arzPlannedN2Color">Planned N2 (S/C)</string>
+            <string Key="TestRunRevision.Attr.arzTestRunProductColors">Test Protocol Product Colors</string>
+            <string Key="StyleAttributes.Attr.arzGuestimateCostLDP">LDP Guesstimate Cost (CAD)</string>
+            <string Key="Supplier.Attr.arzSupplierClassification">Supplier Classification</string>
+            <string Key="Category1Attributes.Attr.arzTargetIMURateUS">Target IMU Rate USD</string>
+            <string Key="StyleAttributes.Attr.arzFOBCostUS">FOB Cost US</string>
+            <string Key="StyleAttributes.Attr.arzStyleSeasonalRank">Style Seasonal Rank</string>
+            <string Key="LibMaterial.Attr.arzLateAdds">Late Adds</string>
+            <string Key="Sample.Attr.arzSampleTrackingNo">Sample Tracking #</string>
+            <string Key="Document.Attr.arzSeasonRef">Season</string>
+            <string Key="ProductSource.Attr.arzGradedNestPatternApproved">Graded Nest Pattern Approved</string>
+            <string Key="SizeChartDimension.Attr.arzBlank">Fcty</string>
+            <string Key="StyleAttributes.Attr.arzMarketingDescription">Marketing Description</string>
+            <string Key="LibColorSpecification.Attr.arzPlannedTotalNeutral">Planned Total Neutral</string>
+            <string Key="DocumentRevision.Attr.arzCarryover">Carryover</string>
+            <string Key="ColorMaterial.Attr.Images">Images</string>
+            <string Key="Supplier.Attr.AllAgents">Related Agents</string>
+            <string Key="Material.Attr.Code_IV">Material Code must be 20 characters or less AND uppercase</string>
+            <string Key="Factory.Attr.arzTypeSpecialization">Facility Type Specialization</string>
+            <string Key="StyleAttributes.Attr.arzTotalRMCost_TT">'Total RM Quantity / Style' * BOM Main Material's Default Quote's 'Bulk Price (USD)'</string>
+            <string Key="StyleAttributes.Attr.arzFranchise">Franchise</string>
+            <string Key="Theme.Name">C8 Theme</string>
+            <string Key="PrintSpecification.Attr.Node Name">Display Name</string>
+            <string Key="ColorwayAttributes.Name">Colourway Attributes</string>
+            <string Key="Category2.Attr.arzActualCODColor">Actual COD (S/C)</string>
+            <string Key="ColorSpecification.Attr.arzDyeStageEdit">Dye Stage (TBD)</string>
+            <string Key="Style.Attr.arzStyleDescription">Style PO Description</string>
+            <string Key="LibColorSpecification.Attr.arzPlannedCOFashion">Planned CO Fashion</string>
+            <string Key="StyleSourcing.Attr.arzQAStatus">QA Status</string>
+            <string Key="Increment.Attr.Node Name">Grading</string>
+            <string Key="StyleAttributes.Attr.arzStyleSource">Source</string>
+            <string Key="MaterialAttributes.Attr.arzCreativeDesigner">Creative Textile Designer</string>
+            <string Key="Category1.Attr.arzActualTotalStyle">Actual Total (Style)</string>
+            <string Key="StyleAttributes.Attr.arzUSUnits">US Units</string>
+            <string Key="ColorMaterial.Attr.Status">Status</string>
+            <string Key="StyleAttributes.Attr.arzEcomm">ECOMM Only</string>
+            <string Key="Colorway.Plural">Colourways</string>
+            <string Key="SupplierRequest.Attr.arzExternalTurnTimeTotal">External Turn Time Total</string>
+            <string Key="SizeRange.Attr.arzSAPID">SAP ID</string>
+            <string Key="Supplier.Attr.arzSupplierSpecialization">Supplier Specialization</string>
+            <string Key="PrintSpecification.Attr.arzCTDOwner">Creative Designer (TBD)</string>
+            <string Key="StyleAttributes.Attr.arzCommodity">TBD</string>
+            <string Key="Material.Attr.arzMaterialSubclass">Material Subtype</string>
+            <string Key="Category2.Attr.arzPlannedCOColor">Planned CO (S/C)</string>
+            <string Key="StyleAttributes.Attr.arzOrderMOQColorMOQ">Order MOQ/Colour MOQ</string>
+            <string Key="Style.Attr.arzLateCancelPercentColorway">(S/C) Late Cancels %</string>
+            <string Key="Category1.Attr.arzBrandNumber">Brand Number</string>
+            <string Key="MaterialAttributes.Attr.arzVMI">VMI</string>
+            <string Key="Supplier.Attr.arzPaymentMethod">Payment Method</string>
+            <string Key="MaterialAttributes.Attr.arzBrandProductPackagingInd">Brand Product Packaging Indicator</string>
+            <string Key="Category2.Attr.arzActualCOUColor">Actual COU Color</string>
+            <string Key="PrintSpecification.Attr.arzCreativeDesigner">Creative Textile Designer</string>
+            <string Key="MaterialAttributes.Attr.arzProductionRun">Production Run</string>
+            <string Key="StyleAttributes.Attr.arzFOBCost">FOB Cost</string>
+            <string Key="ColorMaterial.Attr.arzTechniqueSubtype">Technique Subtype</string>
+            <string Key="MaterialAttributes.Attr.arzTechTextileDesigner">Tech Textile Designer</string>
+            <string Key="SupplierItemRevision.Attr.arzDyeStage">Garment Dye Type</string>
+            <string Key="MaterialSample.Attr.arzSubmitArtwork">Submit Artwork</string>
+            <string Key="ColorMaterial.Attr.arzGraphicSubType">Graphic Sub-Type</string>
+            <string Key="Library.Attr.arzCOFunction">CO Function List (TBD)</string>
+            <string Key="Category2.Attr.arzBrandNumber_IV">This attribute is limited to 2 characters.</string>
+            <string Key="StyleAttributes.Attr.araReasonCode">Reason Code</string>
+            <string Key="Material.Attr.arzNewInSeason">Initial Season</string>
+            <string Key="StyleAttributes.Attr.arzPartialCustomsID">Partial Customs ID</string>
+            <string Key="Colorway.Action.Validation__Unique__RefColorSpec">The Reference Colour Spec must be unique</string>
+            <string Key="SizeChartRevision.View.DimensionCards">HTM Guide</string>
+            <string Key="Sample.Attr.arzStyleSamplePrefix">Style Sample Prefix</string>
+            <string Key="ProductSource.Attr.arzFinalProdPatternRec">Final Production Pattern Received</string>
+            <string Key="DataPackageSheet.Name">Tech Pack Sheet</string>
+            <string Key="StyleAttributes.Attr.arzTheme_TT">Seasonal Trend</string>
+            <string Key="Style.Attr.arzStyleUID">arzStyleUID</string>
+            <string Key="ProductSource.Attr.arzExpectedIssueDate">Initial TP Deadline</string>
+            <string Key="Supplier.Attr.arzSupplierCountryOfOrigin">Country Of Origin</string>
+            <string Key="StyleSourcing.Attr.arzTertiarySupplier">FG Alternate 2 Supplier</string>
+            <string Key="Sample.Attr.arzTargetCommentsDate">Target Comments Date</string>
+            <string Key="MaterialAttributes.Attr.arzTargetFabric">Target Material</string>
+            <string Key="Supplier.Attr.arzSupplierShippingTerms">Shipping Terms</string>
+            <string Key="FactoryComplianceItem.Attr.Node Name">Facility Compliance Item</string>
+            <string Key="StructureItem.Attr.arzLateAddPercentColorway">(S/C) Late Add %</string>
+            <string Key="StructureItemAttributes.Attr.arzDummyAttribute4">.</string>
+            <string Key="StructureItemAttributes.Attr.arzDummyAttribute3">.</string>
+            <string Key="StructureItemAttributes.Attr.arzDummyAttribute2">.</string>
+            <string Key="StructureItemAttributes.Attr.arzDummyAttribute1">.</string>
+            <string Key="StyleAttributes.Attr.arzProgramFranchise">Program / Franchise (TBD)</string>
+            <string Key="SupplierRequest.Action.ValidationSingle_Supplier_Only">Can't have more than 1 Suppler per Supplier Request</string>
+            <string Key="Theme.Attr.arzMainMaterial">Main Material</string>
+            <string Key="SeasonAttributes.Attr.arzSeasonOrder_TT">Earliest season = 1</string>
+            <string Key="MaterialAttributes.Attr.arzDesignPassDate">Design Pass Date</string>
+            <string Key="MaterialSample.Attr.arzSpecPassDate">Spec Pass Date (TBD)</string>
+            <string Key="SpecificationItemDefinition.Attr.arzSubType">Sub-Type</string>
+            <string Key="Collection.Attr.arzLateCancelledCountStyle">Late Cancels Count</string>
+            <string Key="MaterialAttributes.Attr.arzFabricClassification">Fabric Classification</string>
+            <string Key="Factory.Attr.arzAvgLeadTimeSample">Avg. Lead Time - Sample (days)</string>
+            <string Key="StyleAttributes.Attr.arzUSRetailOpportunity">US Retail Opportunity (USD)</string>
+            <string Key="Sample.Attr.arzSupplierFacility">Supplier Facility</string>
+            <string Key="SpecificationSectionItem.Attr.arzMaxColors">Maximum Colours</string>
+            <string Key="SpecificationSectionItem.Attr.arzPrintedFabricPrice">Bulk Price</string>
+            <string Key="ColorSpecification.Attr.arzColourTestDate">Colour Test Date</string>
+            <string Key="ColorSpecification.Attr.arzSeasons">Seasons</string>
+            <string Key="MaterialAttributes.Attr.arzTestingRequired">Testing Required</string>
+            <string Key="ColorMaterial.Attr.arzPFGD">PFGD</string>
+            <string Key="MaterialAttributes.Attr.arzFibreLengthString">Fibre Length</string>
+            <string Key="ColorSpecification.Attr.arzConfirmationCounter">Confirmation Counter</string>
+            <string Key="StyleAttributes.Attr.arzDepartment">Department</string>
+            <string Key="StyleAttributes.Attr.arzStyleSystemID">Silhouette ID</string>
+            <string Key="StyleAttributes.Attr.arzSleeveLength">Sleeve Length</string>
+            <string Key="StyleAttributes.Attr.arzPurchasingStatusCriteria">Purchasing Status Criteria</string>
+            <string Key="MaterialAttributes.Attr.arzDyeingMethod">Dye Method</string>
+            <string Key="MaterialAttributes.Attr.arzFillPower">Fill Power</string>
+            <string Key="StyleAttributes.Attr.arzCADUnits">CA Units</string>
+            <string Key="ColorSpecification.Attr.arzColorSpecUID">arzColorSpecUID</string>
+            <string Key="SupplierItemRevision.Attr.arzBulkCost_TT">Per Purchase UOM</string>
+            <string Key="PrintSpecification.Attr.arzSpecPassDate">Spec Pass Date</string>
+            <string Key="Category2.Attr.arzTargetLaunchWeek_TT">Week of first product introduction in Season</string>
+            <string Key="SupplierItemRevision.Attr.tstComment">tstComment</string>
+            <string Key="PrintSpecification.Attr.arzApplicationPrintQuality">Application/Print Quality</string>
+            <string Key="PartMaterial.Attr.arzDesignConfirmed">Design Confirmed</string>
+            <string Key="Category2.Attr.arzDepartmentType">Department Type</string>
+            <string Key="ColorSpecification.Attr.arzColorStandardConcatenated_TT">[Colour Specification Colour Standard Provider] + [Colour Reference Number]</string>
+            <string Key="Library.Attr.arzTotalFashion">Actual Total Fashion</string>
+            <string Key="SupplierRequest.Attr.arzExternalTurnTime">External Turn Time</string>
+            <string Key="Collection.Attr.arzActualN1Color">Actual N1 (S/C)</string>
+            <string Key="SizeChartDimension.Attr.Increments">Target</string>
+            <string Key="ProductSource.Attr.arzPlannedDeliveryLeadTime">Planned Delivery Lead Time</string>
+            <string Key="ApparelDimension.Attr.DimensionDependencies">POM Dependencies</string>
+            <string Key="Factory.Name">Facility</string>
+            <string Key="SupplierItemRevision.Attr.arzApprovalCriteria">Approval Criteria</string>
+            <string Key="Category2.Attr.arzActualCONColor">Actual CON (S/C)</string>
+            <string Key="ColorSpecification.Attr.arzAnalyzingShade">Analyzing Shade</string>
+            <string Key="MaterialSample.Attr.arzSupplierComments">Supplier Comments</string>
+            <string Key="MaterialAttributes.Attr.arzDevelopmentTime">Development Time (min)</string>
+            <string Key="SupplierItemRevision.Attr.tstCommentRichText">Comment Rich Text</string>
+            <string Key="Sample.Attr.arzReasonForNextIteration">Reason for Next Iteration / Cancellation</string>
+            <string Key="StyleAttributes.Attr.arzReadyForPurchasing">Ready for Purchasing</string>
+            <string Key="StyleAttributes.Attr.arzTechnicalDesignNotes">Technical Design Notes</string>
+            <string Key="Category2.Attr.arzActualN1Color">Actual N1 (S/C)</string>
+            <string Key="LibMaterial.Attr.arzMaterials">Materials</string>
+            <string Key="CompetitiveStyle.Attr.arzCompetitorBrand">Competitor Brand</string>
+            <string Key="ColorwayAttributes.Attr.arzUSDRetailPrice">USD Retail Price</string>
+        </Parameter>
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleConfiguration">
+        <Parameter Id="LanguageCode" Type="string" Value="en" />
+        <Parameter Id="Id" Type="string" Value="Views" />
+        <Parameter Id="Map" Type="stringmap" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="en" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="h:mm a" />
+        <Parameter Id="DatePattern" Type="string" Value="M/d/yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1.234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="el" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="h:mm a" />
+        <Parameter Id="DatePattern" Type="string" Value="d/M/yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1.234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="da" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH.mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd/MM/yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="mt" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="zh" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="ah:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy/M/d" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="ms" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1.234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="es" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="H:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="d/M/yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="et" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="ja" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="H:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy年M月d日" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1.234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="it" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd/MM/yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1.234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="ro" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd.MM.yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="en_GB" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1 234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="nb" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH.mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd.MM.yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="zh_TW" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1 234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="ru" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="H:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd.MM.yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="bg" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1.234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="nl" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd-MM-yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="ga" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="bn" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1 234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="fi" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="H.mm" />
+        <Parameter Id="DatePattern" Type="string" Value="d.M.yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1 234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="sk" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="H:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd.MM.yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1.234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="sl" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="d. MM. yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="es_419" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1 234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="sv" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1 234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="fr" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="H:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd/MM/yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1 234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="cs" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="H:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd.MM.yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1 234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="pl" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd.MM.yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="hi" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1.234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="pt" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd/MM/yyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="lb" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="th" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="d/M/yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="pt_BR" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1.234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="hr" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd.MM.yyyy." />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1.234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="tr" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="d.MM.yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1 234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="hu" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy. MM. dd." />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="ko" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="a h:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy. M. d." />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1.234,56" />
+        <Parameter Id="LocaleCode" Type="string" Value="de" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="dd.MM.yyyy" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="lt" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="lv" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="vi" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+    <Call Module="SiteAdmin" Operation="PublishLocaleSettings">
+        <Parameter Id="NumberSeparator" Type="enum" Value="NumberSeparator:1,234.56" />
+        <Parameter Id="LocaleCode" Type="string" Value="af" />
+        <Parameter Id="Active" Type="boolean" Value="true" />
+        <Parameter Id="TimePattern" Type="string" Value="HH:mm" />
+        <Parameter Id="DatePattern" Type="string" Value="yyyy-MM-dd" />
+    </Call>
+</NODES_OPERATIONS>

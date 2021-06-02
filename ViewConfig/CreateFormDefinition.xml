@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NODES_OPERATIONS>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Hierarchy Library Colorway Color" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Composition" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Composition/Node Name</string>
+            <string>arzTextileFabricCode</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Material Managed Color" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>ColorMaterial/ColorSpecification</string>
+            <string>arzColouredMaterial</string>
+            <string>ColorMaterial/Description</string>
+            <string>arzNodeNameLowercase</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Hierarchy, Season" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>arzSeason</string>
+            <string>arzYear</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/FinalInspectionBatchTest" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Style" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Description</string>
+            <string>arzSystemID</string>
+            <string>arzSAPID</string>
+            <string>Style/CarryOver</string>
+            <string>arzStyleCopyTemplate2</string>
+            <string>arzStyleCopyTemplate</string>
+            <string>arzItemCode</string>
+            <string>arzGraphicIndicator</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/SupplierReview" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SupplierReview/Node Name</string>
+            <string>SupplierReview/ReviewDate</string>
+            <string>SupplierReview/FiscalYear</string>
+            <string>SupplierReview/Quarter</string>
+            <string>SupplierReview/Reviewer</string>
+            <string>SupplierReview/OwnerContact</string>
+            <string>SupplierReview/ReviewEvent</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Style SKU" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SKU/Node Name</string>
+            <string>SKU/RealizedSize</string>
+            <string>SKU/RealizedColor</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/SpecificationSectionItem" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/OperationsIssue" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>OperationsIssue/Node Name</string>
+            <string>OperationsIssue/Description</string>
+            <string>OperationsIssue/Status</string>
+            <string>OperationsIssue/Owner</string>
+            <string>OperationsIssue/SourceReview</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/CompetitiveStyle" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>CompetitiveStyle/Node Name</string>
+            <string>CompetitiveStyle/Description</string>
+            <string>arzCADRetailPrice</string>
+            <string>arzUSDRetailPrice</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Material Plan" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Theme/Node Name</string>
+            <string>Theme/ThemeSeason</string>
+            <string>Theme/ThemeSeasons</string>
+            <string>Theme/ThemeBOMType</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/SpecificationDataSheetItem" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Library, Material" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string>Child:CurrentRevision</string>
+            <string>Child:CurrentRevision</string>
+            <string>Child:CurrentRevision</string>
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/ContractualDocument" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>ContractualDocumentRevision/Node Name</string>
+            <string>ContractualDocument/Description</string>
+            <string>ContractualDocumentRevision/EffectiveFrom</string>
+            <string>ContractualDocumentRevision/EffectiveTo</string>
+            <string>ContractualDocumentRevision/RenewalPeriod</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Defect" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Business Plan" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>BusinessPlan/Node Name</string>
+            <string>BusinessPlan/Category</string>
+            <string>BusinessPlan/BPExchangeRateSource</string>
+            <string>BusinessPlan/BPSupplier</string>
+            <string>BusinessPlan/BPMSG</string>
+            <string>BusinessPlan/BPSeason</string>
+            <string>BusinessPlan/BPCategory1</string>
+            <string>BusinessPlan/BPCategory2</string>
+            <string>BusinessPlan/BPCollection</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Purchased Order" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>PurchasedOrder/Node Name</string>
+            <string>PurchasedOrder/POSupplier</string>
+            <string>PurchasedOrder/POFactory</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Hierarchy, Brand" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Category1/Node Name</string>
+            <string>Category1/Code</string>
+            <string>Category1/Description</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Hierarchy, Department" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Category2/Node Name</string>
+            <string>arzTargetLaunchWeek</string>
+            <string>arzHouseEnum</string>
+            <string>arzBrand</string>
+            <string>arzBrandNumber</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string>Child:CurrentRevision</string>
+            <string>Child:CurrentRevision</string>
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/SupplierItem" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SupplierItem/Node Name</string>
+            <string>SupplierItemRevision/Colors</string>
+            <string>SupplierItemRevision/ProductSizes</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/FinalInspectionBatchSection" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/FinalInspectionBatch" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>FinalInspectionBatch/Node Name</string>
+            <string>FinalInspectionBatch/InspectionBatchType</string>
+            <string>FinalInspectionBatch/ActualInspectionLot</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Sample" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Sample/Node Name</string>
+            <string>Sample/SampleType</string>
+            <string>Sample/SampleStatus</string>
+            <string>Sample/ProductColor</string>
+            <string>Sample/ProductSize</string>
+            <string>Sample/SampleProductAlternative</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Test Run" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>TestRun/Node Name</string>
+            <string>TestRun/Code</string>
+            <string>Description</string>
+            <string>arzTestCategory</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Material Sample" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>MaterialSample/Node Name</string>
+            <string>MaterialSample/SampleType</string>
+            <string>MaterialSample/ProductColor</string>
+            <string>MaterialSample/ProductSize</string>
+            <string>arzMaterialSampleOption</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Data Sheet, Size Chart" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SizeChartRevision/Node Name</string>
+            <string>SizeChart/Subtype</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Colorway" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Colorway/Node Name</string>
+            <string>Colorway/ColorSpecification</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Library Item, Dimension" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>ApparelDimension/Node Name</string>
+            <string>ApparelDimension/Description</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Data Sheet, Size Chart Review" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SizeChartReview/Node Name</string>
+            <string>SizeChartReview/Description</string>
+            <string>SizeChartReview/ReviewSupplier</string>
+            <string>SizeChartReview/ReviewRequest</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/SpecificationItemDefinition" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SpecificationItemDefinition/Subtype</string>
+            <string>arzSpecGroup</string>
+            <string>SpecificationItemDefinition/Node Name</string>
+            <string>SpecificationItemDefinition/Code</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Supplier" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Supplier/Node Name</string>
+            <string>arzSupplierLegalName</string>
+            <string>arzSupplierType</string>
+            <string>Supplier/SupplierNumber</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/ProductAlternative" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>ProductAlternative/Node Name</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Data Sheet, BOM" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>ApparelBOM/Node Name</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Library Item, Material" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>arzMaterialSubclass</string>
+            <string>arzNewInSeason</string>
+            <string>Description</string>
+            <string>Material/Code</string>
+            <string>Material/Node Name</string>
+            <string>arzCodeLowercase</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/SpecificationDataSheet" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SpecificationDataSheet/Subtype</string>
+            <string>SpecificationDataSheet/Node Name</string>
+            <string>SpecificationDataSheet/Description</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/PrintSpecification" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>PrintSpecification/Node Name</string>
+            <string>PrintSpecification/PrintType</string>
+            <string>arzRMGraphicsDescription</string>
+            <string>arzInitialSeason</string>
+            <string>arzNoOfColorways</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Issue" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Issue/Node Name</string>
+            <string>Issue/Status</string>
+            <string>Issue/Owner</string>
+            <string>Issue/DueDate</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/SizeSpec" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SizeSpec/Node Name</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Supplier Request Template" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SupplierRequestTemplate/Node Name</string>
+            <string>SupplierRequestTemplate/RequestType</string>
+            <string>SupplierRequestTemplate/SRTSuppliers</string>
+            <string>SupplierRequestTemplate/SRTDPTemplate</string>
+            <string>SupplierRequestTemplate/SampleType</string>
+            <string>SupplierRequestTemplate/SampleCreateOption</string>
+            <string>SupplierRequestTemplate/SampleQuantity</string>
+            <string>SupplierRequestTemplate/SRTQuotes</string>
+            <string>SupplierRequestTemplate/QuoteCreateOption</string>
+            <string>SupplierRequestTemplate/SubmitQuotesToWF</string>
+            <string>SupplierRequestTemplate/Locale</string>
+            <string>SupplierRequestTemplate/SRNotifyGroups</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Size Range" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SizeRange/Node Name</string>
+            <string>SizeRange/Dimension1Type</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Library, Color Specification" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/ThemeProductAlternative" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>ThemeProductAlternative/Node Name</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Shape" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Shape/Node Name</string>
+            <string>Shape/ShapeSeasons</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/FactoryReview" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>FactoryReview/Node Name</string>
+            <string>FactoryReview/ReviewDate</string>
+            <string>FactoryReview/FiscalYear</string>
+            <string>FactoryReview/Quarter</string>
+            <string>FactoryReview/Reviewer</string>
+            <string>FactoryReview/OwnerContact</string>
+            <string>FactoryReview/ReviewEvent</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/LookupItem" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>LookupItem/Subtype</string>
+            <string>LookupItem/Node Name</string>
+            <string>LookupItem/Code</string>
+            <string>LookupItem/Description</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Factory" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Factory/Node Name</string>
+            <string>arzFacilityLegalName</string>
+            <string>arzSAPID</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/CustomerPurchaseOrder" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>CustomerPurchaseOrder/Node Name</string>
+            <string>CustomerPurchaseOrder/POCustomer</string>
+            <string>CustomerPurchaseOrder/OrdersByColor</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Hierarchy Item Template" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>StructItemNameCode/Type</string>
+            <string>StructItemNameCode/Node Name</string>
+            <string>StructItemNameCode/Code</string>
+            <string>StructItemNameCode/Description</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Library Item, Color Specification" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>arzColourType</string>
+            <string>ColorSpecification/Node Name</string>
+            <string>arzColourStandardProvider</string>
+            <string>arzColourStandardProviderRefNum</string>
+            <string>arzDyeStage</string>
+            <string>arzNewInSeason</string>
+            <string>arzColourFamily</string>
+            <string>arzAnalyzingShade</string>
+            <string>arzAnalyzingColour</string>
+            <string>ColorSpecification/RGBTriple</string>
+            <string>arzColourTestDate</string>
+            <string>arzColourTestRank</string>
+            <string>arzColourNameLowercase</string>
+            <string>arzStockTicketDesc</string>
+            <string>arzSource</string>
+            <string>arzReferenceColorSpec</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/SubRouting" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SubRouting/Node Name</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Data Sheet Item, BOM" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>PartMaterial/Node Name</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/FactoryReviewTemplate" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/FinalInspectionTemplate" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Customer" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Customer/Node Name</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/MCProduct" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>MCProduct/Node Name</string>
+            <string>MCProduct/Code</string>
+            <string>MCProduct/ProductStyleType</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Business Category" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>BusinessCategory/Node Name</string>
+            <string>BusinessCategory/FilterType</string>
+            <string>BusinessCategory/BusinessCurrency</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Product Structure" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>ProductStructure/Node Name</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/SubQuestion" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SubQuestion/Node Name</string>
+            <string>SubQuestion/ApplicableQuestionResponse</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/FinalInspectionSection" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/ShapeMaster" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/InspectionTestSpec" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>InspectionTestSpec/Node Name</string>
+            <string>InspectionTestSpec/Code</string>
+            <string>InspectionTestSpec/LinkingType</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Material SKU" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SKUMaterial/Node Name</string>
+            <string>SKUMaterial/RealizedColor</string>
+            <string>SKUMaterial/RealizedSize</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Sales Division" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SalesDivision/Node Name</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector" />
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/ProductAlternativeSpecification" />
+        <Parameter Id="AttributeIds" Type="stringvector" />
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Sample Storage" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SampleStorage/Node Name</string>
+            <string>SampleStorage/BinNumber</string>
+            <string>SampleStorage/MaxBinNumber</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Supplier Request" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>SupplierRequest/RequestType</string>
+            <string>SupplierRequest/SRTemplate</string>
+            <string>arzSeason</string>
+            <string>SupplierRequest/Requester</string>
+            <string>SupplierRequest/SRDPTemplate</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/Hierarchy, Collection" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>Collection/Node Name</string>
+            <string>Collection/Code</string>
+            <string>Collection/Description</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/ThemeMaster" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>ThemeMaster/Node Name</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/ProductSize" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>ProductSize/IsTwoDim</string>
+            <string>ProductSize/Node Name</string>
+            <string>ProductSize/DimensionType</string>
+            <string>ProductSize/SizeCode</string>
+            <string>ProductSize/Dimension1Size</string>
+            <string>ProductSize/Dimension2Size</string>
+        </Parameter>
+    </Call>
+    <Call Module="ViewConfig" Operation="RestoreCreateFormDefinition">
+        <Parameter Id="AttributePaths" Type="stringvector">
+            <string />
+            <string />
+            <string />
+        </Parameter>
+        <Parameter Id="URL" Type="cnl" Value="centric://REFLECTION/BusinessObject/FinalInspectionDefect" />
+        <Parameter Id="AttributeIds" Type="stringvector">
+            <string>FinalInspectionDefect/Defect</string>
+            <string>FinalInspectionDefect/BatchErrorType</string>
+            <string>FinalInspectionDefect/DefectCounter</string>
+        </Parameter>
+    </Call>
+</NODES_OPERATIONS>
